@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BIP39Words.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="BIP39Words.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HDWallet.Tron" Version="0.7.0" />
+    <PackageReference Include="Nethereum.HdWallet" Version="4.8.0" />
+    <PackageReference Include="Solnet.Wallet" Version="6.1.0" />
+  </ItemGroup>
+
+</Project>
