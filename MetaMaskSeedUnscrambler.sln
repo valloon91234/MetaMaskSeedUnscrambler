@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaMaskSeedUnscrambler", "MetaMaskSeedUnscrambler\MetaMaskSeedUnscrambler.csproj", "{5AC0D2F1-BE53-4ED3-8944-6E263D9AF9BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedUnscrambler", "SeedUnscrambler\SeedUnscrambler.csproj", "{03BDAD5D-284D-453E-B03E-3B241391C53A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeedUnscrambler", "SeedUnscrambler\SeedUnscrambler.csproj", "{03BDAD5D-284D-453E-B03E-3B241391C53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFinder", "AddressFinder\AddressFinder.csproj", "{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{03BDAD5D-284D-453E-B03E-3B241391C53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03BDAD5D-284D-453E-B03E-3B241391C53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03BDAD5D-284D-453E-B03E-3B241391C53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
