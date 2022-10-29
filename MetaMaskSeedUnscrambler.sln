@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaMaskSeedUnscrambler", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeedUnscrambler", "SeedUnscrambler\SeedUnscrambler.csproj", "{03BDAD5D-284D-453E-B03E-3B241391C53A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressFinder", "AddressFinder\AddressFinder.csproj", "{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressFinder", "AddressFinder\AddressFinder.csproj", "{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checker", "Checker\Checker.csproj", "{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

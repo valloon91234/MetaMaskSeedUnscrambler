@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>key.ico</ApplicationIcon>
     <SignAssembly>True</SignAssembly>
+    <TargetFramework>net6.0-windows</TargetFramework>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -32,7 +32,10 @@
 
   <ItemGroup>
     <PackageReference Include="HDWallet.Tron" Version="0.7.0" />
-    <PackageReference Include="Nethereum.HdWallet" Version="4.8.0" />
+    <PackageReference Include="Info.Blockchain.API.Standart" Version="1.0.4" />
+    <PackageReference Include="NBitcoin" Version="7.0.11" />
+    <PackageReference Include="Nethereum.HdWallet" Version="4.9.0" />
+    <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.2" />
     <PackageReference Include="Solnet.Wallet" Version="6.1.0" />
   </ItemGroup>
 

@@ -42,6 +42,16 @@ public class Dao
         return false;
     }
 
+    public static long CountAll(string type)
+    {
+        using SQLiteCommand command = Connection.CreateCommand();
+        command.CommandText = $"SELECT COUNT(*) FROM {type}";
+        using SQLiteDataReader reader = command.ExecuteReader();
+        if (reader.Read())
+            return (long)reader[0];
+        return 0;
+    }
+
     public static string? SelectAddress(string type, string id)
     {
         using SQLiteCommand command = Connection.CreateCommand();
@@ -54,6 +64,16 @@ public class Dao
         return null;
     }
 
+    public static string? SelectMaxKey(string type)
+    {
+        using SQLiteCommand command = Connection.CreateCommand();
+        command.CommandText = $"SELECT MAX(key) FROM {type}";
+        using SQLiteDataReader reader = command.ExecuteReader();
+        if (reader.Read())
+            return (reader[0] as string) ?? null;
+        return null;
+    }
+
     public static int Insert(string type, string id, string address, string key)
     {
         using var command = Connection.CreateCommand();
@@ -61,6 +81,18 @@ public class Dao
         command.Parameters.AddWithValue("@id", id);
         command.Parameters.AddWithValue("@address", address);
         command.Parameters.AddWithValue("@key", key);
+        command.Prepare();
+        return command.ExecuteNonQuery();
+    }
+
+    public static int Insert(string type, string id, string address, string key, string wif)
+    {
+        using var command = Connection.CreateCommand();
+        command.CommandText = $"INSERT INTO {type}(id, address, key, wif) VALUES(@id, @address, @key, @wif)";
+        command.Parameters.AddWithValue("@id", id);
+        command.Parameters.AddWithValue("@address", address);
+        command.Parameters.AddWithValue("@key", key);
+        command.Parameters.AddWithValue("@wif", wif);
         command.Prepare();
         return command.ExecuteNonQuery();
     }

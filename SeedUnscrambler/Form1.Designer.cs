@@ -47,6 +47,19 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.label_Btc = new System.Windows.Forms.Label();
+            this.button_Btc_1 = new System.Windows.Forms.Button();
+            this.textBox_Btc_1 = new System.Windows.Forms.TextBox();
+            this.textBox_Btc_PK = new System.Windows.Forms.TextBox();
+            this.textBox_Btc_Wif = new System.Windows.Forms.TextBox();
+            this.button_Btc_3 = new System.Windows.Forms.Button();
+            this.textBox_Btc_3 = new System.Windows.Forms.TextBox();
+            this.button_Btc_q = new System.Windows.Forms.Button();
+            this.textBox_Btc_q = new System.Windows.Forms.TextBox();
+            this.button_Btc_p = new System.Windows.Forms.Button();
+            this.textBox_Btc_p = new System.Windows.Forms.TextBox();
+            this.radioButton_Btc_44 = new System.Windows.Forms.RadioButton();
+            this.radioButton_Btc_84 = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,7 +75,7 @@
             // 
             // textBox_Eth_PK
             // 
-            this.textBox_Eth_PK.Location = new System.Drawing.Point(12, 101);
+            this.textBox_Eth_PK.Location = new System.Drawing.Point(12, 315);
             this.textBox_Eth_PK.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Eth_PK.Name = "textBox_Eth_PK";
             this.textBox_Eth_PK.Size = new System.Drawing.Size(689, 25);
@@ -72,7 +85,7 @@
             // 
             // textBox_Eth_Address
             // 
-            this.textBox_Eth_Address.Location = new System.Drawing.Point(12, 130);
+            this.textBox_Eth_Address.Location = new System.Drawing.Point(12, 344);
             this.textBox_Eth_Address.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Eth_Address.Name = "textBox_Eth_Address";
             this.textBox_Eth_Address.ReadOnly = true;
@@ -82,7 +95,7 @@
             // 
             // textBox_Sol_Address
             // 
-            this.textBox_Sol_Address.Location = new System.Drawing.Point(12, 311);
+            this.textBox_Sol_Address.Location = new System.Drawing.Point(12, 522);
             this.textBox_Sol_Address.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Sol_Address.Name = "textBox_Sol_Address";
             this.textBox_Sol_Address.ReadOnly = true;
@@ -92,7 +105,7 @@
             // 
             // textBox_Sol_PK
             // 
-            this.textBox_Sol_PK.Location = new System.Drawing.Point(12, 282);
+            this.textBox_Sol_PK.Location = new System.Drawing.Point(12, 493);
             this.textBox_Sol_PK.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Sol_PK.Name = "textBox_Sol_PK";
             this.textBox_Sol_PK.Size = new System.Drawing.Size(689, 25);
@@ -102,7 +115,7 @@
             // 
             // textBox_Tron_Address
             // 
-            this.textBox_Tron_Address.Location = new System.Drawing.Point(12, 221);
+            this.textBox_Tron_Address.Location = new System.Drawing.Point(12, 435);
             this.textBox_Tron_Address.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Tron_Address.Name = "textBox_Tron_Address";
             this.textBox_Tron_Address.ReadOnly = true;
@@ -112,7 +125,7 @@
             // 
             // textBox_Tron_PK
             // 
-            this.textBox_Tron_PK.Location = new System.Drawing.Point(12, 192);
+            this.textBox_Tron_PK.Location = new System.Drawing.Point(12, 406);
             this.textBox_Tron_PK.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Tron_PK.Name = "textBox_Tron_PK";
             this.textBox_Tron_PK.Size = new System.Drawing.Size(689, 25);
@@ -122,7 +135,7 @@
             // 
             // button_ETH_Go
             // 
-            this.button_ETH_Go.Location = new System.Drawing.Point(655, 129);
+            this.button_ETH_Go.Location = new System.Drawing.Point(655, 343);
             this.button_ETH_Go.Name = "button_ETH_Go";
             this.button_ETH_Go.Size = new System.Drawing.Size(46, 27);
             this.button_ETH_Go.TabIndex = 7;
@@ -132,7 +145,7 @@
             // 
             // button_Tron_Go
             // 
-            this.button_Tron_Go.Location = new System.Drawing.Point(655, 220);
+            this.button_Tron_Go.Location = new System.Drawing.Point(655, 434);
             this.button_Tron_Go.Name = "button_Tron_Go";
             this.button_Tron_Go.Size = new System.Drawing.Size(46, 27);
             this.button_Tron_Go.TabIndex = 8;
@@ -142,7 +155,7 @@
             // 
             // button_SOL_Go
             // 
-            this.button_SOL_Go.Location = new System.Drawing.Point(655, 310);
+            this.button_SOL_Go.Location = new System.Drawing.Point(655, 521);
             this.button_SOL_Go.Name = "button_SOL_Go";
             this.button_SOL_Go.Size = new System.Drawing.Size(46, 27);
             this.button_SOL_Go.TabIndex = 9;
@@ -221,7 +234,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(12, 80);
+            this.label2.Location = new System.Drawing.Point(12, 295);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 19);
             this.label2.TabIndex = 15;
@@ -232,7 +245,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(12, 171);
+            this.label3.Location = new System.Drawing.Point(12, 385);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(60, 19);
             this.label3.TabIndex = 16;
@@ -243,18 +256,166 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(12, 261);
+            this.label4.Location = new System.Drawing.Point(12, 472);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(66, 19);
             this.label4.TabIndex = 17;
             this.label4.Text = "Phantom";
+            // 
+            // label_Btc
+            // 
+            this.label_Btc.AutoSize = true;
+            this.label_Btc.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label_Btc.ForeColor = System.Drawing.Color.White;
+            this.label_Btc.Location = new System.Drawing.Point(12, 83);
+            this.label_Btc.Name = "label_Btc";
+            this.label_Btc.Size = new System.Drawing.Size(54, 19);
+            this.label_Btc.TabIndex = 21;
+            this.label_Btc.Text = "Bitcoin";
+            // 
+            // button_Btc_1
+            // 
+            this.button_Btc_1.Location = new System.Drawing.Point(655, 164);
+            this.button_Btc_1.Name = "button_Btc_1";
+            this.button_Btc_1.Size = new System.Drawing.Size(46, 27);
+            this.button_Btc_1.TabIndex = 20;
+            this.button_Btc_1.Text = "Go";
+            this.button_Btc_1.UseVisualStyleBackColor = true;
+            this.button_Btc_1.Click += new System.EventHandler(this.button_Btc_1_Click);
+            // 
+            // textBox_Btc_1
+            // 
+            this.textBox_Btc_1.Location = new System.Drawing.Point(12, 165);
+            this.textBox_Btc_1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_Btc_1.Name = "textBox_Btc_1";
+            this.textBox_Btc_1.ReadOnly = true;
+            this.textBox_Btc_1.Size = new System.Drawing.Size(637, 25);
+            this.textBox_Btc_1.TabIndex = 19;
+            this.textBox_Btc_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox_Btc_PK
+            // 
+            this.textBox_Btc_PK.Location = new System.Drawing.Point(12, 104);
+            this.textBox_Btc_PK.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_Btc_PK.Name = "textBox_Btc_PK";
+            this.textBox_Btc_PK.Size = new System.Drawing.Size(689, 25);
+            this.textBox_Btc_PK.TabIndex = 18;
+            this.textBox_Btc_PK.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox_Btc_PK.TextChanged += new System.EventHandler(this.textBox_Btc_PK_TextChanged);
+            // 
+            // textBox_Btc_Wif
+            // 
+            this.textBox_Btc_Wif.Location = new System.Drawing.Point(12, 134);
+            this.textBox_Btc_Wif.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_Btc_Wif.Name = "textBox_Btc_Wif";
+            this.textBox_Btc_Wif.Size = new System.Drawing.Size(689, 25);
+            this.textBox_Btc_Wif.TabIndex = 22;
+            this.textBox_Btc_Wif.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox_Btc_Wif.TextChanged += new System.EventHandler(this.textBox_Btc_Wif_TextChanged);
+            // 
+            // button_Btc_3
+            // 
+            this.button_Btc_3.Location = new System.Drawing.Point(655, 194);
+            this.button_Btc_3.Name = "button_Btc_3";
+            this.button_Btc_3.Size = new System.Drawing.Size(46, 27);
+            this.button_Btc_3.TabIndex = 24;
+            this.button_Btc_3.Text = "Go";
+            this.button_Btc_3.UseVisualStyleBackColor = true;
+            this.button_Btc_3.Click += new System.EventHandler(this.button_Btc_3_Click);
+            // 
+            // textBox_Btc_3
+            // 
+            this.textBox_Btc_3.Location = new System.Drawing.Point(12, 195);
+            this.textBox_Btc_3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_Btc_3.Name = "textBox_Btc_3";
+            this.textBox_Btc_3.ReadOnly = true;
+            this.textBox_Btc_3.Size = new System.Drawing.Size(637, 25);
+            this.textBox_Btc_3.TabIndex = 23;
+            this.textBox_Btc_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button_Btc_q
+            // 
+            this.button_Btc_q.Location = new System.Drawing.Point(655, 224);
+            this.button_Btc_q.Name = "button_Btc_q";
+            this.button_Btc_q.Size = new System.Drawing.Size(46, 27);
+            this.button_Btc_q.TabIndex = 26;
+            this.button_Btc_q.Text = "Go";
+            this.button_Btc_q.UseVisualStyleBackColor = true;
+            this.button_Btc_q.Click += new System.EventHandler(this.button_Btc_q_Click);
+            // 
+            // textBox_Btc_q
+            // 
+            this.textBox_Btc_q.Location = new System.Drawing.Point(12, 225);
+            this.textBox_Btc_q.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_Btc_q.Name = "textBox_Btc_q";
+            this.textBox_Btc_q.ReadOnly = true;
+            this.textBox_Btc_q.Size = new System.Drawing.Size(637, 25);
+            this.textBox_Btc_q.TabIndex = 25;
+            this.textBox_Btc_q.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button_Btc_p
+            // 
+            this.button_Btc_p.Location = new System.Drawing.Point(655, 254);
+            this.button_Btc_p.Name = "button_Btc_p";
+            this.button_Btc_p.Size = new System.Drawing.Size(46, 27);
+            this.button_Btc_p.TabIndex = 28;
+            this.button_Btc_p.Text = "Go";
+            this.button_Btc_p.UseVisualStyleBackColor = true;
+            this.button_Btc_p.Click += new System.EventHandler(this.button_Btc_p_Click);
+            // 
+            // textBox_Btc_p
+            // 
+            this.textBox_Btc_p.Location = new System.Drawing.Point(12, 255);
+            this.textBox_Btc_p.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_Btc_p.Name = "textBox_Btc_p";
+            this.textBox_Btc_p.ReadOnly = true;
+            this.textBox_Btc_p.Size = new System.Drawing.Size(637, 25);
+            this.textBox_Btc_p.TabIndex = 27;
+            this.textBox_Btc_p.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // radioButton_Btc_44
+            // 
+            this.radioButton_Btc_44.AutoSize = true;
+            this.radioButton_Btc_44.ForeColor = System.Drawing.Color.White;
+            this.radioButton_Btc_44.Location = new System.Drawing.Point(607, 77);
+            this.radioButton_Btc_44.Name = "radioButton_Btc_44";
+            this.radioButton_Btc_44.Size = new System.Drawing.Size(42, 22);
+            this.radioButton_Btc_44.TabIndex = 29;
+            this.radioButton_Btc_44.Text = "44";
+            this.radioButton_Btc_44.UseVisualStyleBackColor = true;
+            // 
+            // radioButton_Btc_84
+            // 
+            this.radioButton_Btc_84.AutoSize = true;
+            this.radioButton_Btc_84.Checked = true;
+            this.radioButton_Btc_84.ForeColor = System.Drawing.Color.White;
+            this.radioButton_Btc_84.Location = new System.Drawing.Point(659, 77);
+            this.radioButton_Btc_84.Name = "radioButton_Btc_84";
+            this.radioButton_Btc_84.Size = new System.Drawing.Size(42, 22);
+            this.radioButton_Btc_84.TabIndex = 30;
+            this.radioButton_Btc_84.TabStop = true;
+            this.radioButton_Btc_84.Text = "84";
+            this.radioButton_Btc_84.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(713, 347);
+            this.ClientSize = new System.Drawing.Size(713, 559);
+            this.Controls.Add(this.radioButton_Btc_84);
+            this.Controls.Add(this.radioButton_Btc_44);
+            this.Controls.Add(this.button_Btc_p);
+            this.Controls.Add(this.textBox_Btc_p);
+            this.Controls.Add(this.button_Btc_q);
+            this.Controls.Add(this.textBox_Btc_q);
+            this.Controls.Add(this.button_Btc_3);
+            this.Controls.Add(this.textBox_Btc_3);
+            this.Controls.Add(this.textBox_Btc_Wif);
+            this.Controls.Add(this.label_Btc);
+            this.Controls.Add(this.button_Btc_1);
+            this.Controls.Add(this.textBox_Btc_1);
+            this.Controls.Add(this.textBox_Btc_PK);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -279,6 +440,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "Seed";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -305,5 +467,18 @@
         private Label label2;
         private Label label3;
         private Label label4;
+        private Label label_Btc;
+        private Button button_Btc_1;
+        private TextBox textBox_Btc_1;
+        private TextBox textBox_Btc_PK;
+        private TextBox textBox_Btc_Wif;
+        private Button button_Btc_3;
+        private TextBox textBox_Btc_3;
+        private Button button_Btc_q;
+        private TextBox textBox_Btc_q;
+        private Button button_Btc_p;
+        private TextBox textBox_Btc_p;
+        private RadioButton radioButton_Btc_44;
+        private RadioButton radioButton_Btc_84;
     }
 }

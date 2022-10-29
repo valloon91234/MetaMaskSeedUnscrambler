@@ -39,65 +39,135 @@ static void IncrementBytes(ref byte[] bytes)
     }
 }
 
+static (string, string, string) GetB1(byte[] privateKey)
+{
+    var key = new Key(privateKey); // private key
+    var wif = key.GetWif(Network.Main).ToWif();
+    var add_3 = key.GetAddress(ScriptPubKeyType.Legacy, Network.Main); // Segwit P2SH address
+    string address = add_3.ToString();
+    string id = address[^3..];
+    return (id, address, wif);
+}
+
 static (string, string, string) GetB3(byte[] privateKey)
 {
     var key = new Key(privateKey); // private key
+    var wif = key.GetWif(Network.Main).ToWif();
     var add_3 = key.GetAddress(ScriptPubKeyType.SegwitP2SH, Network.Main); // Segwit P2SH address
     string address = add_3.ToString();
     string id = address[^3..];
-    return ("b3", id, address);
+    return (id, address, wif);
 }
 
 static (string, string, string) GetBC(byte[] privateKey)
 {
     var key = new Key(privateKey); // private key
+    var wif = key.GetWif(Network.Main).ToWif();
     var add_3 = key.GetAddress(ScriptPubKeyType.Segwit, Network.Main); // Segwit P2SH address
     string address = add_3.ToString();
     string id = address[^3..];
-    return ("bc", id, address);
+    return (id, address, wif);
 }
 
-static (string, string, string) GetBC4(byte[] privateKey)
+static (string, string, string) GetBc1q(byte[] privateKey)
 {
     var key = new Key(privateKey); // private key
+    var wif = key.GetWif(Network.Main).ToWif();
     var add_3 = key.GetAddress(ScriptPubKeyType.Segwit, Network.Main); // Segwit P2SH address
     string address = add_3.ToString();
     string id = address[^4..];
-    return ("bc4", id, address);
+    return (id, address, wif);
 }
 
-static (string, string, string) GetErc(byte[] privateKey)
+static (string, string, string) GetBc1p(byte[] privateKey)
+{
+    var key = new Key(privateKey); // private key
+    var wif = key.GetWif(Network.Main).ToWif();
+    var add_3 = key.GetAddress(ScriptPubKeyType.TaprootBIP86, Network.Main); // Segwit P2SH address
+    string address = add_3.ToString();
+    string id = address[^4..];
+    return (id, address, wif);
+}
+
+static (string, string) GetErc(byte[] privateKey)
 {
     string address = Nethereum.Web3.Web3.GetAddressFromPrivateKey(ByteArrayToString(privateKey));
     string id = address[^4..];
-    return ("erc", id, address);
+    return (id, address);
 }
 
-static (string, string, string) GetTrc(byte[] privateKey)
+static (string, string) GetErc5(byte[] privateKey)
+{
+    string address = Nethereum.Web3.Web3.GetAddressFromPrivateKey(ByteArrayToString(privateKey));
+    string id = $"{address[2..3]}{address[^4..]}";
+    return (id, address);
+}
+
+static (string, string) GetTrc(byte[] privateKey)
 {
     HDWallet.Tron.TronWallet wallet = new(ByteArrayToString(privateKey));
     string address = wallet.Address;
     string id = address[^3..];
-    return ("trc", id, address);
+    return (id, address);
 }
 
 const string START_KEY = "625c5fb2d4D168770174C4E85553c23F4f452cef000000000000000000000000";
 byte[] keyBytes = StringToByteArray(START_KEY);
-long insertCount = 0, loopCount = 0;
+string type = "b1";
+//long insertCount = Dao.CountAll(type);
+//string? maxKey = Dao.SelectMaxKey(type);
+//if (maxKey == null)
+//{
+//    keyBytes = StringToByteArray(START_KEY);
+//}
+//else
+//{
+//    keyBytes = StringToByteArray(maxKey);
+//    IncrementBytes(ref keyBytes);
+//}
+
+//long loopCount = insertCount;
+long loopCount = 0, insertCount = 0;
+
+string filename = $"{type}.csv";
+File.Delete(filename);
+using var writer = new StreamWriter(filename, false, Encoding.UTF8);
+//writer.WriteLine($"id,address,key,wif");
+writer.WriteLine($"id,address,key");
+var idList = new List<string>();
 while (true)
 {
     loopCount++;
     try
     {
-        //(string type, string id, string address) = GetB3(keyBytes);
-        //(string type, string id, string address) = GetBC(keyBytes);
-        (string type, string id, string address) = GetBC4(keyBytes);
-        //(string type, string id, string address) = GetErc(keyBytes);
-        //(string type, string id, string address) = GetTrc(keyBytes);
-        string pkText = ByteArrayToString(keyBytes);
-        Dao.Insert(type, id, address, pkText);
-        insertCount++;
-        Console.WriteLine($"{insertCount} / {loopCount} \t {id}");
+
+        //(string id, string address, string wif) = GetB1(keyBytes);
+        //(string id, string address, string wif) = GetB3(keyBytes);
+        //(string id, string address, string wif) = GetBC(keyBytes);
+        //(string id, string address, string wif) = GetBc1q(keyBytes);
+        //(string id, string address, string wif) = GetBc1p(keyBytes);
+        //(string id, string address) = GetErc(keyBytes);
+        (string id, string address) = GetErc5(keyBytes);
+        //(string id, string address) = GetTrc(keyBytes);
+
+        int binarySearchIndex = idList.BinarySearch(id);
+        if (binarySearchIndex < 0)
+        {
+            string pkText = ByteArrayToString(keyBytes);
+
+            //Dao.Insert(type, id, address, pkText, wif);
+            //writer.WriteLine($"{id},{address},{pkText},{wif}");
+            writer.WriteLine($"{id},{address},{pkText}");
+            writer.Flush();
+            idList.Insert(~binarySearchIndex, id);
+            insertCount++;
+        }
+
+        if (loopCount % 1000 == 0)
+        {
+            Console.WriteLine($"{insertCount} / {loopCount} \t {id}");
+            Console.Title = $"{insertCount} / {loopCount}";
+        }
     }
     catch (Exception ex)
     {

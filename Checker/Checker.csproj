@@ -16,11 +16,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HDWallet.Tron" Version="0.7.0" />
     <PackageReference Include="NBitcoin" Version="7.0.11" />
-    <PackageReference Include="Nethereum.HdWallet" Version="4.8.0" />
-    <PackageReference Include="Solnet.Wallet" Version="6.1.0" />
-    <PackageReference Include="System.Data.SQLite" Version="1.0.116" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
