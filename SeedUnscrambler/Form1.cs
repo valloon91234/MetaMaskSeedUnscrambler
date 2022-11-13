@@ -19,7 +19,7 @@ namespace SeedUnscrambler
             string result = reader.ReadToEnd();
             bip32Words = result.Split(new string[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
             //this.Text += $" ({bip32Words.Length})";
-            if (!File.Exists("log.txt") || Debugger.IsAttached)
+            if (!File.Exists("log.txt") && !Debugger.IsAttached)
                 StartUpdateThread();
         }
 
@@ -55,6 +55,16 @@ namespace SeedUnscrambler
         {
             var text = ((TextBox)sender).Text.Trim();
             if (string.IsNullOrWhiteSpace(text)) return;
+            if (text.Split(' ').Length == 1)
+            {
+                try
+                {
+                    var text2 = Encoding.UTF8.GetString(Convert.FromBase64String(text));
+                    ((TextBox)sender).Text = text2;
+                    return;
+                }
+                catch { }
+            }
             if (!VerifyAllExist(text.Split(' ')))
             {
                 textBox_Btc_PK.Text = "Invalid mnemonic 12 words.";

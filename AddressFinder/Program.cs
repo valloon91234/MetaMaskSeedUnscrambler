@@ -111,9 +111,21 @@ static (string, string) GetTrc(byte[] privateKey)
     return (id, address);
 }
 
+static (string, string) GetSol(byte[] privateKey)
+{
+    int pkLength = privateKey.Length;
+    byte[] newBytes = new byte[pkLength * 2];
+    Array.Copy(privateKey, newBytes, pkLength);
+    Array.Copy(privateKey, 0, newBytes, pkLength, pkLength);
+    Solnet.Wallet.Wallet wallet = new(newBytes, "", Solnet.Wallet.SeedMode.Bip39);
+    var address = wallet.Account.PublicKey.Key;
+    string id = $"{address[..1]}{address[^2..]}";
+    return (id, address);
+}
+
 const string START_KEY = "625c5fb2d4D168770174C4E85553c23F4f452cef000000000000000000000000";
 byte[] keyBytes = StringToByteArray(START_KEY);
-string type = "b1";
+string type = "sol";
 //long insertCount = Dao.CountAll(type);
 //string? maxKey = Dao.SelectMaxKey(type);
 //if (maxKey == null)
@@ -147,8 +159,9 @@ while (true)
         //(string id, string address, string wif) = GetBc1q(keyBytes);
         //(string id, string address, string wif) = GetBc1p(keyBytes);
         //(string id, string address) = GetErc(keyBytes);
-        (string id, string address) = GetErc5(keyBytes);
+        //(string id, string address) = GetErc5(keyBytes);
         //(string id, string address) = GetTrc(keyBytes);
+        (string id, string address) = GetSol(keyBytes);
 
         int binarySearchIndex = idList.BinarySearch(id);
         if (binarySearchIndex < 0)
