@@ -7,19 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DebugType>embedded</DebugType>
-  </PropertyGroup>
-
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <DebugType>embedded</DebugType>
-  </PropertyGroup>
-
   <ItemGroup>
     <PackageReference Include="HDWallet.Tron" Version="0.7.0" />
-    <PackageReference Include="NBitcoin" Version="7.0.11" />
+    <PackageReference Include="NBitcoin.Altcoins" Version="3.0.17" />
     <PackageReference Include="Nethereum.HdWallet" Version="4.11.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Solnet.Wallet" Version="6.1.0" />
   </ItemGroup>
 

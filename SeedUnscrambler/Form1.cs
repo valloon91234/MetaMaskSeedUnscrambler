@@ -1,9 +1,14 @@
+using Info.Blockchain.API.Models;
 using Newtonsoft.Json.Linq;
 using Org.BouncyCastle.Security;
+using Org.BouncyCastle.Utilities.Net;
 using System.Diagnostics;
+using System.Net;
 using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
+using static NBitcoin.Scripting.OutputDescriptor;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace SeedUnscrambler
 {
@@ -45,7 +50,8 @@ namespace SeedUnscrambler
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            SetWindowDisplayAffinity(this.Handle, WDA_EXCLUDEFROMCAPTURE);
+            if (checkBox_HideShot.Checked)
+                _ = SetWindowDisplayAffinity(this.Handle, WDA_EXCLUDEFROMCAPTURE);
         }
 
         private static bool VerifyAllExist(params string[] words) => ValidPhraseLength(words) && words.All(bip32Words!.Contains);
@@ -53,14 +59,22 @@ namespace SeedUnscrambler
 
         private void textBox_Seed_TextChanged(object sender, EventArgs e)
         {
-            var text = ((TextBox)sender).Text.Trim();
-            if (string.IsNullOrWhiteSpace(text)) return;
+            var textBox = textBox_Seed;
+            var text = textBox.Text.Trim();
+            if (string.IsNullOrWhiteSpace(text))
+            {
+                textBox_Btc_PK.Text = "";
+                textBox_Eth_PK.Text = "";
+                textBox_Tron_PK.Text = "";
+                textBox_Sol_PK.Text = "";
+                return;
+            }
             if (text.Split(' ').Length == 1)
             {
                 try
                 {
                     var text2 = Encoding.UTF8.GetString(Convert.FromBase64String(text));
-                    ((TextBox)sender).Text = text2;
+                    textBox.Text = text2;
                     return;
                 }
                 catch { }
@@ -90,6 +104,16 @@ namespace SeedUnscrambler
             try
             {
                 Nethereum.HdWallet.Wallet wallet = new(text, "");
+                if (wallet.IsMneumonicValidChecksum)
+                {
+                    textBox.BackColor = textBox.BackColor;
+                    textBox.ForeColor = Color.Black;
+                }
+                else
+                {
+                    textBox.BackColor = textBox.BackColor;
+                    textBox.ForeColor = Color.Red;
+                }
                 var privateKeyHex = ByteArrayToHex(wallet.GetPrivateKey(0));
                 textBox_Eth_PK.Text = privateKeyHex;
             }
@@ -114,6 +138,7 @@ namespace SeedUnscrambler
             }
             try
             {
+                //Solnet.Wallet.Wallet wallet = new(text, default, "m/44'/501'/0'/0'", Solnet.Wallet.SeedMode.Bip39);
                 Solnet.Wallet.Wallet wallet = new(text);
                 var privateKeyHex = ByteArrayToHex(wallet.Account.PrivateKey.KeyBytes);
                 textBox_Sol_PK.Text = privateKeyHex;
@@ -186,7 +211,7 @@ namespace SeedUnscrambler
 
         SecureRandom random = new SecureRandom();
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button_Random12Words_Click(object sender, EventArgs e)
         {
             int size = 12;
             int max = bip32Words!.Length;
@@ -198,16 +223,63 @@ namespace SeedUnscrambler
                 wordArray[i] = bip32Words![idArray[i]];
             }
             textBox_Seed.Text = string.Join(" ", wordArray);
+
+            //int cou = 0;
+            //for (int i = 0; i < max; i++)
+            //{
+            //    string seed = "year solution three nominee hint split sun winter risk sibling clerk " + bip32Words![i];
+            //    var valid = new Nethereum.HdWallet.Wallet(seed, "").IsMneumonicValidChecksum;
+            //    Debug.WriteLine(i);
+            //    if (valid)
+            //    {
+            //        Debug.WriteLine(seed);
+            //        cou++;
+            //    }
+            //}
+            //Debug.WriteLine(cou);
+            //Debug.WriteLine(cou);
         }
 
         private void textBox_Eth_PK_TextChanged(object sender, EventArgs e)
         {
             try
             {
-                //var privateKey = HexToByteArray(textBox_Eth_PK.Text);
-                //Nethereum.Web3.Accounts.Account account = new(privateKey);
-                //textBox_Eth_Address.Text = account.Address;
-                textBox_Eth_Address.Text = Nethereum.Web3.Web3.GetAddressFromPrivateKey(textBox_Eth_PK.Text);
+                textBox_Eth_Address.BackColor = textBox_Eth_Address.BackColor;
+                textBox_Eth_Address.ForeColor = Color.Black;
+                button_ETH_Go.ForeColor = Color.Black;
+                button_ETH_Go.Text = "Go";
+                if (textBox_Eth_PK.Text == "")
+                {
+                    textBox_Eth_Address.Text = "";
+                    return;
+                }
+                var address = Nethereum.Web3.Web3.GetAddressFromPrivateKey(textBox_Eth_PK.Text);
+                textBox_Eth_Address.Text = address;
+
+                new Thread(() =>
+                {
+                    try
+                    {
+                        int blockCount = Blockscan.GetCount(address);
+                        Invoke(new Action(() =>
+                        {
+                            button_ETH_Go.Text = blockCount.ToString();
+                            if (blockCount > 0)
+                            {
+                                button_ETH_Go.ForeColor = Color.Red;
+                                textBox_Eth_Address.BackColor = textBox_Eth_Address.BackColor;
+                                textBox_Eth_Address.ForeColor = Color.Red;
+                            }
+                        }));
+                    }
+                    catch (Exception ex)
+                    {
+                        Invoke(new Action(() =>
+                        {
+                            textBox_Eth_Address.Text = ex.Message;
+                        }));
+                    }
+                }).Start();
             }
             catch (Exception ex)
             {
@@ -219,8 +291,42 @@ namespace SeedUnscrambler
         {
             try
             {
+                textBox_Tron_Address.BackColor = textBox_Tron_Address.BackColor;
+                textBox_Tron_Address.ForeColor = Color.Black;
+                button_Tron_Go.ForeColor = Color.Black;
+                button_Tron_Go.Text = "Go";
+                if (textBox_Tron_PK.Text == "")
+                {
+                    textBox_Tron_Address.Text = "";
+                    return;
+                }
                 HDWallet.Tron.TronWallet wallet = new(textBox_Tron_PK.Text);
-                textBox_Tron_Address.Text = wallet.Address;
+                var address = wallet.Address;
+                textBox_Tron_Address.Text = address;
+                new Thread(() =>
+                {
+                    try
+                    {
+                        int transactionCount = Tron.GetTransactionCount(address);
+                        Invoke(new Action(() =>
+                        {
+                            button_Tron_Go.Text = transactionCount.ToString();
+                            if (transactionCount > 0)
+                            {
+                                button_Tron_Go.ForeColor = Color.Red;
+                                textBox_Tron_Address.BackColor = textBox_Tron_Address.BackColor;
+                                textBox_Tron_Address.ForeColor = Color.Red;
+                            }
+                        }));
+                    }
+                    catch (Exception ex)
+                    {
+                        Invoke(new Action(() =>
+                        {
+                            textBox_Tron_Address.Text = ex.Message;
+                        }));
+                    }
+                }).Start();
             }
             catch (Exception ex)
             {
@@ -232,10 +338,63 @@ namespace SeedUnscrambler
         {
             try
             {
+                textBox_Sol_Address.BackColor = textBox_Sol_Address.BackColor;
+                textBox_Sol_Address.ForeColor = Color.Black;
+                button_SOL_Go.ForeColor = Color.Black;
+                button_SOL_Go.Text = "Go";
+                if (textBox_Sol_PK.Text == "")
+                {
+                    textBox_Sol_Address.Text = "";
+                    return;
+                }
                 var privateKey = HexToByteArray(textBox_Sol_PK.Text);
                 Solnet.Wallet.Wallet wallet = new(privateKey, "", Solnet.Wallet.SeedMode.Bip39);
                 var address = wallet.Account.PublicKey.Key;
                 textBox_Sol_Address.Text = address;
+                new Thread(() =>
+                {
+                    try
+                    {
+                        int transactionCount = Solana.GetTransactionCount(address);
+                        Invoke(new Action(() =>
+                        {
+                            button_SOL_Go.Text = transactionCount.ToString();
+                            if (transactionCount > 0)
+                            {
+                                button_SOL_Go.ForeColor = Color.Red;
+                                textBox_Sol_Address.BackColor = textBox_Sol_Address.BackColor;
+                                textBox_Sol_Address.ForeColor = Color.Red;
+                            }
+                        }));
+                    }
+                    catch (Exception ex)
+                    {
+                        Invoke(new Action(() =>
+                        {
+                            textBox_Sol_Address.Text = ex.Message;
+                        }));
+                    }
+                }).Start();
+
+                // https://github.com/bmresearch/Solnet
+                //var proxy = new WebProxy
+                //{
+                //    Address = new Uri("socks5://54.249.108.164:8443")
+                //};
+                ////proxy.Credentials = new NetworkCredential(); //Used to set Proxy logins. 
+                //var handler = new HttpClientHandler
+                //{
+                //    Proxy = proxy
+                //};
+                //var httpClient = new HttpClient(handler)
+                //{
+                //    BaseAddress = new Uri("https://testnet.solana.com"),
+                //};
+                //var rpcClient = Solnet.Rpc.ClientFactory.GetClient(Solnet.Rpc.Cluster.MainNet, default, httpClient);
+                //var rpcClient = Solnet.Rpc.ClientFactory.GetClient("https://testnet.solana.com", default, httpClient);
+                //var accountInfo = rpcClient.GetAccountInfo("3tGgunXkk2cxPZhyBKzXdSfR89etjGNKzXGfQN6HFPdU").Result;
+                //var data = accountInfo.Value.Data;
+                //var data = accountInfo.Result.Value.Data;
             }
             catch (Exception ex)
             {
@@ -320,6 +479,11 @@ namespace SeedUnscrambler
         private void textBox_Btc_PK_TextChanged(object sender, EventArgs e)
         {
             if (textBox_Btc_Wif.Focused) return;
+            if (textBox_Btc_PK.Text == "")
+            {
+                textBox_Btc_Wif.Text = "";
+                return;
+            }
             try
             {
                 var privateKey = HexToByteArray(textBox_Btc_PK.Text);
@@ -341,6 +505,14 @@ namespace SeedUnscrambler
             try
             {
                 var wif = textBox_Btc_Wif.Text;
+                if (wif == "")
+                {
+                    textBox_Btc_1.Text = "";
+                    textBox_Btc_3.Text = "";
+                    textBox_Btc_q.Text = "";
+                    textBox_Btc_p.Text = "";
+                    return;
+                }
                 var key = NBitcoin.Key.Parse(wif, NBitcoin.Network.Main);
                 if (textBox_Btc_Wif.Focused)
                     textBox_Btc_PK.Text = ByteArrayToHex(key.ToBytes());
@@ -385,5 +557,34 @@ namespace SeedUnscrambler
             }
         }
 
+        public void Exit()
+        {
+            Process.GetCurrentProcess().Kill();
+        }
+
+        private void radioButton_Btc_44_CheckedChanged(object sender, EventArgs e)
+        {
+            if (((RadioButton)sender).Checked)
+                textBox_Seed_TextChanged(sender, e);
+        }
+
+        private void radioButton_Btc_84_CheckedChanged(object sender, EventArgs e)
+        {
+            if (((RadioButton)sender).Checked)
+                textBox_Seed_TextChanged(sender, e);
+        }
+
+        private void button_Clear_Click(object sender, EventArgs e)
+        {
+            textBox_Seed.Text = "";
+        }
+
+        private void checkBox_HideShot_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox_HideShot.Checked)
+                _ = SetWindowDisplayAffinity(this.Handle, WDA_EXCLUDEFROMCAPTURE);
+            else
+                _ = SetWindowDisplayAffinity(this.Handle, WDA_NONE);
+        }
     }
 }

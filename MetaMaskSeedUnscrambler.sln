@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeedUnscrambler", "SeedUnsc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressFinder", "AddressFinder\AddressFinder.csproj", "{BBBA5D26-082C-4EFA-B71B-CDBB2E6C650C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checker", "Checker\Checker.csproj", "{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checker", "Checker\Checker.csproj", "{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checker2", "Checker2\Checker2.csproj", "{24D99829-252D-4177-B239-4DBCED67408C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySeedAddress", "MySeedAddress\MySeedAddress.csproj", "{5C13DE68-36AB-49FD-A5B9-AFF5A1608138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B86AD839-BBD6-4226-BE1C-ED0C32DDF605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D99829-252D-4177-B239-4DBCED67408C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D99829-252D-4177-B239-4DBCED67408C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D99829-252D-4177-B239-4DBCED67408C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D99829-252D-4177-B239-4DBCED67408C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C13DE68-36AB-49FD-A5B9-AFF5A1608138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C13DE68-36AB-49FD-A5B9-AFF5A1608138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C13DE68-36AB-49FD-A5B9-AFF5A1608138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C13DE68-36AB-49FD-A5B9-AFF5A1608138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

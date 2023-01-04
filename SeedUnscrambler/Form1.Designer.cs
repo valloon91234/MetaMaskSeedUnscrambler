@@ -41,7 +41,7 @@
             this.button_SOL_Go = new System.Windows.Forms.Button();
             this.checkBox_TopMost = new System.Windows.Forms.CheckBox();
             this.checkBox_HideTaskbar = new System.Windows.Forms.CheckBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.button_Random12Words = new System.Windows.Forms.Button();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -60,6 +60,8 @@
             this.textBox_Btc_p = new System.Windows.Forms.TextBox();
             this.radioButton_Btc_44 = new System.Windows.Forms.RadioButton();
             this.radioButton_Btc_84 = new System.Windows.Forms.RadioButton();
+            this.button_Clear = new System.Windows.Forms.Button();
+            this.checkBox_HideShot = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -168,7 +170,7 @@
             this.checkBox_TopMost.AutoSize = true;
             this.checkBox_TopMost.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox_TopMost.ForeColor = System.Drawing.Color.White;
-            this.checkBox_TopMost.Location = new System.Drawing.Point(334, 12);
+            this.checkBox_TopMost.Location = new System.Drawing.Point(252, 12);
             this.checkBox_TopMost.Name = "checkBox_TopMost";
             this.checkBox_TopMost.Size = new System.Drawing.Size(76, 19);
             this.checkBox_TopMost.TabIndex = 10;
@@ -181,7 +183,7 @@
             this.checkBox_HideTaskbar.AutoSize = true;
             this.checkBox_HideTaskbar.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox_HideTaskbar.ForeColor = System.Drawing.Color.White;
-            this.checkBox_HideTaskbar.Location = new System.Drawing.Point(444, 12);
+            this.checkBox_HideTaskbar.Location = new System.Drawing.Point(344, 12);
             this.checkBox_HideTaskbar.Name = "checkBox_HideTaskbar";
             this.checkBox_HideTaskbar.Size = new System.Drawing.Size(113, 19);
             this.checkBox_HideTaskbar.TabIndex = 11;
@@ -189,15 +191,15 @@
             this.checkBox_HideTaskbar.UseVisualStyleBackColor = true;
             this.checkBox_HideTaskbar.CheckedChanged += new System.EventHandler(this.checkBox_HideTaskbar_CheckedChanged);
             // 
-            // button1
+            // button_Random12Words
             // 
-            this.button1.Location = new System.Drawing.Point(12, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(229, 27);
-            this.button1.TabIndex = 12;
-            this.button1.Text = "Generate Random 12 words";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button_Random12Words.Location = new System.Drawing.Point(12, 12);
+            this.button_Random12Words.Name = "button_Random12Words";
+            this.button_Random12Words.Size = new System.Drawing.Size(137, 27);
+            this.button_Random12Words.TabIndex = 12;
+            this.button_Random12Words.Text = "Random 12 words";
+            this.button_Random12Words.UseVisualStyleBackColor = true;
+            this.button_Random12Words.Click += new System.EventHandler(this.button_Random12Words_Click);
             // 
             // numericUpDown1
             // 
@@ -383,6 +385,7 @@
             this.radioButton_Btc_44.TabIndex = 29;
             this.radioButton_Btc_44.Text = "44";
             this.radioButton_Btc_44.UseVisualStyleBackColor = true;
+            this.radioButton_Btc_44.CheckedChanged += new System.EventHandler(this.radioButton_Btc_44_CheckedChanged);
             // 
             // radioButton_Btc_84
             // 
@@ -396,6 +399,32 @@
             this.radioButton_Btc_84.TabStop = true;
             this.radioButton_Btc_84.Text = "84";
             this.radioButton_Btc_84.UseVisualStyleBackColor = true;
+            this.radioButton_Btc_84.CheckedChanged += new System.EventHandler(this.radioButton_Btc_84_CheckedChanged);
+            // 
+            // button_Clear
+            // 
+            this.button_Clear.Location = new System.Drawing.Point(155, 12);
+            this.button_Clear.Name = "button_Clear";
+            this.button_Clear.Size = new System.Drawing.Size(58, 27);
+            this.button_Clear.TabIndex = 31;
+            this.button_Clear.Text = "Clear";
+            this.button_Clear.UseVisualStyleBackColor = true;
+            this.button_Clear.Click += new System.EventHandler(this.button_Clear_Click);
+            // 
+            // checkBox_HideShot
+            // 
+            this.checkBox_HideShot.AutoSize = true;
+            this.checkBox_HideShot.Checked = true;
+            this.checkBox_HideShot.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.checkBox_HideShot.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.checkBox_HideShot.ForeColor = System.Drawing.Color.White;
+            this.checkBox_HideShot.Location = new System.Drawing.Point(473, 12);
+            this.checkBox_HideShot.Name = "checkBox_HideShot";
+            this.checkBox_HideShot.Size = new System.Drawing.Size(97, 19);
+            this.checkBox_HideShot.TabIndex = 32;
+            this.checkBox_HideShot.Text = "Hide window";
+            this.checkBox_HideShot.UseVisualStyleBackColor = true;
+            this.checkBox_HideShot.CheckedChanged += new System.EventHandler(this.checkBox_HideShot_CheckedChanged);
             // 
             // Form1
             // 
@@ -403,6 +432,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(713, 559);
+            this.Controls.Add(this.checkBox_HideShot);
+            this.Controls.Add(this.button_Clear);
             this.Controls.Add(this.radioButton_Btc_84);
             this.Controls.Add(this.radioButton_Btc_44);
             this.Controls.Add(this.button_Btc_p);
@@ -421,7 +452,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.numericUpDown1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.button_Random12Words);
             this.Controls.Add(this.checkBox_HideTaskbar);
             this.Controls.Add(this.checkBox_TopMost);
             this.Controls.Add(this.button_SOL_Go);
@@ -461,7 +492,7 @@
         private Button button_SOL_Go;
         private CheckBox checkBox_TopMost;
         private CheckBox checkBox_HideTaskbar;
-        private Button button1;
+        private Button button_Random12Words;
         private NumericUpDown numericUpDown1;
         private Label label1;
         private Label label2;
@@ -480,5 +511,7 @@
         private TextBox textBox_Btc_p;
         private RadioButton radioButton_Btc_44;
         private RadioButton radioButton_Btc_84;
+        private Button button_Clear;
+        private CheckBox checkBox_HideShot;
     }
 }
