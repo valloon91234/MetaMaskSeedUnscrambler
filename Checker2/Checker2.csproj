@@ -9,8 +9,8 @@
 
   <ItemGroup>
     <PackageReference Include="HDWallet.Tron" Version="0.7.0" />
-    <PackageReference Include="NBitcoin.Altcoins" Version="3.0.17" />
-    <PackageReference Include="Nethereum.HdWallet" Version="4.11.0" />
+    <PackageReference Include="NBitcoin.Altcoins" Version="3.0.18" />
+    <PackageReference Include="Nethereum.HdWallet" Version="4.12.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Solnet.Wallet" Version="6.1.0" />
   </ItemGroup>

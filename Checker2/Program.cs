@@ -1,7 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Microsoft.Extensions.Logging;
 using NBitcoin;
-using Nethereum.Util;
 using Newtonsoft.Json.Linq;
 using System.Text;
 
@@ -92,6 +90,7 @@ void check()
         try
         {
             var text = list[i].ToLower();
+            if (text.StartsWith("#")) continue;
             var textEncoded = Convert.ToBase64String(Encoding.UTF8.GetBytes(text));
             logger.WriteLine($"\n{i + 1} / {count}\n{textEncoded}");
             try
@@ -140,3 +139,12 @@ void check()
 
 check();
 
+Console.WriteLine();
+Console.WriteLine();
+Console.WriteLine("Press any key to exit...");
+Console.ReadKey();
+Console.ReadKey();
+Console.ReadKey();
+Console.ReadKey();
+Console.ReadKey();
+Console.ReadKey();

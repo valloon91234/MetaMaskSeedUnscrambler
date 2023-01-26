@@ -11,6 +11,7 @@
     <PackageReference Include="HDWallet.Tron" Version="0.7.0" />
     <PackageReference Include="NBitcoin" Version="7.0.23" />
     <PackageReference Include="Nethereum.HdWallet" Version="4.12.0" />
+    <PackageReference Include="Solnet.Wallet" Version="6.1.0" />
     <PackageReference Include="System.Security.Cryptography.Csp" Version="4.3.0" />
   </ItemGroup>
 
