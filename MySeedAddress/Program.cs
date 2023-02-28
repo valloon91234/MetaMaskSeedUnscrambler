@@ -16,15 +16,15 @@ while (true)
     var mnemonic = words.ToString();
     //Console.WriteLine($"{mnemonic} \t {words.IsValidChecksum}");
 
+    Nethereum.HdWallet.Wallet wallet = new(mnemonic, "");
+    var address = wallet.GetAddresses()[0];
+
     //HDWallet.Core.IHDWallet<HDWallet.Tron.TronWallet> hdWallet = new HDWallet.Tron.TronHDWallet(mnemonic);
     //var address = hdWallet.GetAccount(0).GetExternalWallet(0).Address;
 
-    //Nethereum.HdWallet.Wallet wallet = new(mnemonic, "");
-    //var address = wallet.GetAddresses()[0];
-
-    Solnet.Wallet.Wallet wallet = new(mnemonic);
-    var address = wallet.Account.PublicKey.Key;
-    if (address.EndsWith("427"))
+    //Solnet.Wallet.Wallet wallet = new(mnemonic);
+    //var address = wallet.Account.PublicKey.Key;
+    if (address.ToLower().EndsWith("ddb"))
     {
         var text1 = Convert.ToBase64String(Encoding.UTF8.GetBytes(mnemonic));
         Logger.WriteLine($"\r{index} \t {address} \t {text1}", ConsoleColor.Green);

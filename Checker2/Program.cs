@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using NBitcoin;
 using Newtonsoft.Json.Linq;
+using System.Net;
 using System.Text;
 
 decimal checkB(string text)
@@ -66,7 +67,7 @@ int checkT(string text)
     var jObject = JObject.Parse(responseText);
     var transactionCountObject = jObject["totalTransactionCount"];
     if (transactionCountObject == null) return 0;
-    return (int)jObject["totalTransactionCount"];
+    return (int)jObject["totalTransactionCount"]!;
 }
 
 int checkS(string text)
@@ -77,7 +78,14 @@ int checkS(string text)
     var uri = new Uri($"https://public-api.solscan.io/account/transactions?account={address}");
     var response = client.GetAsync(uri).Result;
     var responseText = response.Content.ReadAsStringAsync().Result;
-    return JArray.Parse(responseText).Count;
+    try
+    {
+        return JArray.Parse(responseText).Count;
+    }
+    catch
+    {
+        throw new Exception(responseText);
+    }
 }
 
 void check()
@@ -100,7 +108,7 @@ void check()
             }
             catch (Exception ex)
             {
-                logger.WriteLine(ex.ToString(), ConsoleColor.Red);
+                logger.WriteLine(ex.Message, ConsoleColor.Red);
             }
             try
             {
@@ -109,7 +117,7 @@ void check()
             }
             catch (Exception ex)
             {
-                logger.WriteLine(ex.ToString(), ConsoleColor.Red);
+                logger.WriteLine(ex.Message, ConsoleColor.Red);
             }
             try
             {
@@ -118,7 +126,7 @@ void check()
             }
             catch (Exception ex)
             {
-                logger.WriteLine(ex.ToString(), ConsoleColor.Red);
+                logger.WriteLine(ex.Message, ConsoleColor.Red);
             }
             try
             {
@@ -127,7 +135,7 @@ void check()
             }
             catch (Exception ex)
             {
-                logger.WriteLine(ex.ToString(), ConsoleColor.Red);
+                logger.WriteLine(ex.Message, ConsoleColor.Red);
             }
         }
         catch (Exception ex)

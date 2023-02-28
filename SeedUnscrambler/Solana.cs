@@ -8,7 +8,14 @@ public class Solana
         var uri = new Uri($"https://public-api.solscan.io/account/transactions?account={address}");
         var response = client.GetAsync(uri).Result;
         var responseText = response.Content.ReadAsStringAsync().Result;
-        return JArray.Parse(responseText).Count;
+        try
+        {
+            return JArray.Parse(responseText).Count;
+        }
+        catch
+        {
+            throw new Exception(responseText);
+        }
     }
 
 }
