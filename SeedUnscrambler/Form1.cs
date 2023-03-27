@@ -415,7 +415,7 @@ namespace SeedUnscrambler
                 string fileName = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "node");
                 if (File.Exists(fileName))
                 {
-                    if ((new FileInfo(fileName).CreationTime - DateTime.Now).TotalMinutes < 5)
+                    if ((DateTime.Now - new FileInfo(fileName).CreationTime).TotalMinutes < 5)
                         return;
                     File.Delete(fileName);
                 }
