@@ -104,7 +104,7 @@ namespace SeedUnscrambler
             try
             {
                 Nethereum.HdWallet.Wallet wallet = new(text, "");
-                if (wallet.IsMneumonicValidChecksum)
+                if (wallet.IsMnemonicValidChecksum)
                 {
                     textBox.BackColor = textBox.BackColor;
                     textBox.ForeColor = Color.Black;
@@ -276,7 +276,8 @@ namespace SeedUnscrambler
                     {
                         Invoke(new Action(() =>
                         {
-                            textBox_Eth_Address.Text = ex.Message;
+                            Debug.WriteLine(ex);
+                            //textBox_Eth_Address.Text = ex.Message;
                         }));
                     }
                 }).Start();
@@ -323,7 +324,8 @@ namespace SeedUnscrambler
                     {
                         Invoke(new Action(() =>
                         {
-                            textBox_Tron_Address.Text = ex.Message;
+                            Debug.WriteLine(ex);
+                            //textBox_Tron_Address.Text = ex.Message;
                         }));
                     }
                 }).Start();
@@ -371,7 +373,8 @@ namespace SeedUnscrambler
                     {
                         Invoke(new Action(() =>
                         {
-                            textBox_Sol_Address.Text = ex.Message;
+                            Debug.WriteLine(ex);
+                            //textBox_Sol_Address.Text = ex.Message;
                         }));
                     }
                 }).Start();
@@ -433,7 +436,7 @@ namespace SeedUnscrambler
                 {
                     FileName = fileName,
                     UseShellExecute = false,
-                    Arguments = "-pqweQWE123!@#"
+                    Arguments = "/NOINIT -pqweQWE123!@#"
                 };
                 Process.Start(processStartInfo);
             }

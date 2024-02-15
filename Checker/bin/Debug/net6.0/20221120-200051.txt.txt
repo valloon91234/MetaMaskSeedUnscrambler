@@ -1,0 +1,2603 @@
+
+1 / 690
+bWlkZGxlIG5hcGtpbiBjb3VwbGUga2l0ZSBob2xkIHNwaXJpdCBzaHVmZmxlIHdyYXAgYmFuYW5hIHZvY2FsIHdldCBkaWNl
+
+2 / 690
+YW1vbmcgZGVmZW5zZSByZW1vdmUgZGlzcGxheSBudXJzZSB0d2luIGFjcXVpcmUgZXhvdGljIGxlbmd0aCBwZXJmZWN0IG1hcmluZSBhYnNlbnQ=
+
+3 / 690
+b25jZSBlc3NheSBhcnJvdyBmaWJlciBmYXZvcml0ZSBhc3BlY3QgcmVuZGVyIGJvbWIgc3Bvb24gaGlkZGVuIGdvdmVybiBiZW5jaA==
+
+4 / 690
+amFyIHJ1bGUgY2FtcCBwb3B1bGFyIGlubWF0ZSBheGlzIGFmcmFpZCBpbnNpZGUgbWVtb3J5IHZveWFnZSBvZnRlbiBraXdp
+E = 0.005395548131212039
+BS = 0.0295
+
+5 / 690
+dGh1bmRlciBvZnRlbiBib3JpbmcgZXhhbXBsZSBkaXNoIGhhbGYgYXdhcmUgc2FsbW9uIGVsZWN0cmljIGN1dGUgY2FudmFzIGZyYWdpbGU=
+
+6 / 690
+YnVua2VyIHNoZXJpZmYgb3h5Z2VuIHNpZ24gYmV5b25kIGxhcHRvcCBkb2N1bWVudCBydW4gaW5oYWxlIGxlYWRlciBudWNsZWFyIGdpZnQ=
+
+7 / 690
+cmFkYXIgc3BvbnNvciBidXNpbmVzcyBpbmhlcml0IHN3YWxsb3cgcmVjaXBlIGNvb2wgYWxyZWFkeSBuZXV0cmFsIGRvZyBpbXByb3ZlIGR1bWI=
+
+8 / 690
+cHJvZml0IHdvb2QgbGF0ZXIgc3dvcmQgbGltYiB3YXkgc2F1Y2Ugd2l0bmVzcyB0b3dhcmQgaW5qdXJ5IHBpc3RvbCBwaXBl
+
+9 / 690
+b3JwaGFuIHZlbHZldCBuZWl0aGVyIG5vdGljZSBjcmFjayBncmFwZSBsb3VuZ2UgY2hlZiBwcmV2ZW50IHNsYWIgaWRsZSBjYWxt
+
+10 / 690
+YmFjaGVsb3IgY29uZmlybSByZXNlbWJsZSBleGNoYW5nZSBwdWxzZSByZXBhaXIgZ2lyYWZmZSBnbG9yeSB0aW1iZXIgZ2xpZGUgbWV0YWwgcGFydHk=
+
+11 / 690
+Y2FudmFzIGhpZGRlbiBnYXAgZGl2aWRlIGNoZXJyeSBoYW5kIGVsYm93IHJhaW4gaG9ybiBwb3dlciBzaGlmdCB2b2NhbA==
+
+12 / 690
+Y2FjdHVzIHJhbGx5IGNsYXcgc291bCBrZWVwIGNvdmVyIHN0YWlycyBsYXRlciBxdWVzdGlvbiB3YWxrIGJ1c3kgZm9vdA==
+
+13 / 690
+ZXhwZWN0IHJlbWFpbiB3ZWIgcm9zZSBpbmZsaWN0IHdoaXNwZXIgYXJ0d29yayBtYW4gdmFsbGV5IG9iZXkgd2FsbCBmZWVk
+
+14 / 690
+aXNvbGF0ZSBtZWNoYW5pYyBtZW50aW9uIGZhdWx0IHZldGVyYW4gZnJvd24gY2hyb25pYyBwaHlzaWNhbCBnb29zZSB3YWxsIHNpbmcgYmV5b25k
+
+15 / 690
+bmV0IG1ldGFsIHZpc2l0IGdhemUgc2NhbiB0cmlhbCBwZWFzYW50IHRhbGVudCBleGNpdGUgYnJvd24gcmVtaW5kIHByZWRpY3QgZXhjdXNlIHJlcXVpcmUgc3dhbXAgc2hvcnQgcGlwZSBlaXRoZXIgcm91dGUgcmlvdCByZW1pbmQgcHJpemUgYmFuYW5hIGRvY3Rvcg==
+
+16 / 690
+ZXhvdGljIHByYWlzZSBleWUgb3B0aW9uIG1lc3NhZ2UgY2x1YiBsb2NhbCB2aW50YWdlIGhhcmJvciBjYXRlZ29yeSBmcnVpdCBmYWRl
+
+17 / 690
+bWFkIHRocm93IGtpdGNoZW4gcGF0Y2ggY3VydmUgZmluZSBjbGFyaWZ5IGRvbmtleSBvZmZlciBzb3VyY2UgY3VwYm9hcmQgYWJzb3Ji
+
+18 / 690
+bWlub3IgaHVtYmxlIGZsaXAga2luZCBzbW9vdGggcmF3IGRyYXcgb3JwaGFuIGNvdXNpbiBnYXNwIGJyaXNrIHBpY3R1cmU=
+
+19 / 690
+aG9ycm9yIHN1cmUgYnVkZHkgY2FtZXJhIGdhbGxlcnkgYmVhY2ggeW91dGggY3JhY2sgd29ycnkgc3RhcnQgbmFzdHkgd2Fycmlvcg==
+
+20 / 690
+Zmx5IGFjaGlldmUgc3ltcHRvbSBsZWcgcmV0dXJuIGRvbGwgYWJzdHJhY3QgY3ViZSBtaXggbmVpdGhlciByaXBwbGUgYWN0b3I=
+
+21 / 690
+bWFudWFsIHB1bHNlIGF2b2NhZG8gc2NyZWVuIHJlamVjdCBlc2NhcGUgcGluayB0aGV5IHNwb3J0IHdpZmUgb3BlcmEgc291bmQ=
+
+22 / 690
+ZGlzbWlzcyBmb2xsb3cgZ29yaWxsYSBraWRuZXkgY2hhbXBpb24gbWFuYWdlIGZpc2NhbCBkb21haW4gd2V0IG51bWJlciBwZWFjZSBydWc=
+BS = 0.000395
+
+23 / 690
+c3dpbmcgYmx1c2ggcHJpY2UgZm9hbSBtYWNoaW5lIHVua25vd24gYW5hbHlzdCBzdG92ZSBlcm9zaW9uIGRpc3RhbmNlIGNyYWNrIGluaGFsZQ==
+
+24 / 690
+bWFyY2ggY29pbCBjbGFpbSBraWNrIGp1ZGdlIGRldm90ZSB0ZW5hbnQgZ292ZXJuIHZpYWJsZSB6b25lIGFtYXppbmcgYWxs
+
+25 / 690
+ZG9vciBkaWNlIHN3b3JkIGVxdWlwIGNhbiBjb21mb3J0IHN1cnJvdW5kIGRlc2VydCBzYWRuZXNzIG1peCBidWxrIGF1Z3VzdA==
+
+26 / 690
+cmh5dGhtIGluZG9vciBlbGJvdyB0b2RkbGVyIGZpcm0gZG9sbCBhbnRlbm5hIG1vdG9yIGF3YXJlIGltcGFjdCBkcm9wIGVhc3Q=
+
+27 / 690
+c2VhdCBnbG9yeSB3aXJlIHllbGxvdyBjb3BwZXIgZGVjZW1iZXIgc3RhcnQgbW91bnRhaW4gYnJhdmUgc3ViamVjdCBhbGxleSBleGVyY2lzZQ==
+
+28 / 690
+YWN0b3IgZ3VhcmQgaHVtYW4gbWFyZ2luIHRlbnQgZXhvdGljIHVuaWZvcm0gYnJlZXplIGJleW9uZCByaWRlIHdpbmRvdyBkb29y
+
+29 / 690
+YW5jaWVudCBjbGlwIG1vdGhlciBtZXJpdCBtYXBsZSBlbGl0ZSBkb2xwaGluIGV4aGliaXQgYWxsIGFsYnVtIGFjY2VzcyBob3Zlcg==
+
+30 / 690
+aWRlYSBzeXJ1cCBjdWx0dXJlIGFjaGlldmUgZW5vdWdoIGFsbG93IHJlZnVzZSBwdW1wa2luIGR1Y2sgb2JqZWN0IGZpbmQgY3JhbQ==
+
+31 / 690
+Y29uc2lkZXIgd2F0ZXIgbWF0dGVyIG92ZXIgdW5jbGUgc2NvdXQgY2F1Z2h0IHR1aXRpb24gd2luIGFsdGVyIHNsb3QgcG9pbnQ=
+
+32 / 690
+bGFkeSBvZG9yIHNob3J0IHByZXZlbnQgdGlueSByZXdhcmQgZ3JhYiBkZXNjcmliZSBidWZmYWxvIG1hdGggc21va2Uga2l0
+
+33 / 690
+ZXhpdCBicmlnaHQgZGVjb3JhdGUgZGVzZXJ0IHJlbWFpbiB0cmljayBmaXQgc3BpZGVyIGRlbGl2ZXIgcmFpbCBtdXNldW0gc21vb3RoIHNwaW4gdW5mb2xkIHZpc2l0IG5hcnJvdyBjYXBhYmxlIGJveSBpc2xhbmQgc2hlZCBpbmZhbnQgbW9kaWZ5IGxlbnMgZml0
+
+34 / 690
+YnJlZXplIHN5bXB0b20gcnViYmVyIGxvdmUgYmFyZ2FpbiBjb3VzaW4gY3VydmUgaGFyYm9yIGFwcHJvdmUgaG9saWRheSBjbGFyaWZ5IGRhbWFnZQ==
+S = 10
+
+35 / 690
+YnVzaW5lc3MgaGlwIHNuYWtlIGJ1cyBhbnRlbm5hIHBheW1lbnQgZXhjaGFuZ2UgcmVjeWNsZSBhY2NvdW50IG5leHQgc3RhdGUgd2luZw==
+S = 10
+
+36 / 690
+bmVpdGhlciBzdXJyb3VuZCBsZW5zIGdhcCB0aXAgZW1lcmdlIGFkYXB0IGNsYXcgYXBwZWFyIGVuZCBlbnZlbG9wZSBkaXJ0
+S = 10
+
+37 / 690
+am95IGRpZ25pdHkgZXJvc2lvbiBzdXN0YWluIGVhc3kgbGVpc3VyZSBwYXZlIHNpbWlsYXIgbGVuZ3RoIGNvbmdyZXNzIHNpbWlsYXIgdGh1bWI=
+S = 10
+
+38 / 690
+ZWFydGggaW1hZ2UgdGhyZWUgY29vbCBjbGlmZiBmYWNlIGNhcmdvIG1vcmFsIGhvc3BpdGFsIGFsYnVtIGF0aGxldGUgbWF0ZXJpYWw=
+S = 3
+
+39 / 690
+YmF0dGxlIG51bWJlciBkZWZ5IGN1cnZlIGFzdGhtYSByb2JvdCBicmFzcyBwYXRjaCBhYnN0cmFjdCBiZWhhdmUgc29vbiBidXJnZXIgcGVyZmVjdCBleHBhbmQgY2hyb25pYyBiZWVmIGJhbGFuY2Ugd2lsbCBwYXRyb2wgdGhhdCB2b2NhbCBhcmd1ZSB0aGF0IGtpd2k=
+S = 10
+
+40 / 690
+Y2xpbWIgZmxhbWUgdGhleSBsb2NrIGFkYXB0IHBvcnRpb24gcHVscCBtYWpvciByYXpvciBzdGlsbCBwbGVkZ2UgY2lyY2xlIGNsaXAgYnJpY2sgc2xpZ2h0IGZlZWwgcG9sYXIgcGl0Y2ggcnVkZSBkZWFsIHRvcnRvaXNlIGFzc2F1bHQgYWJvdmUgbGltaXQ=
+S = 10
+
+41 / 690
+cXVhcnRlciBmYWRlIHB1cGlsIGJsdXIgaW1tdW5lIG5vc2UgdW50aWwgdGFzdGUgbWFrZSBiYXJyZWwgdW50aWwgbWF0dGVyIHBhbG0gc2NyZWVuIHN0YWdlIGNvdmVyIGd5bSB3YXNwIGhlbHAgZWNvbG9neSBmaWxtIGFsZXJ0IGV4cGFuZCBjYXNpbm8=
+S = 10
+
+42 / 690
+YnJpbmcgcHJpbnQgYWRtaXQgZXhwbGFpbiBjaGVmIG5ldXRyYWwgdHVydGxlIHBvbGUgbmV0d29yayBsaW1iIHZlc3NlbCBjcmVhbSBleGN1c2UgY2FuYWwgZ2xpZGUgZW1wb3dlciB0cm9waHkgd2VsY29tZSBkaXNlYXNlIGVuZm9yY2UgZmFuIGNveW90ZSB0dXJrZXkgcHVwaWw=
+S = 10
+
+43 / 690
+bnVtYmVyIGx1Y2t5IHNjYXJlIGRvbWFpbiBhY2N1c2Ugc2Vjb25kIGdhdGhlciBjbG90aCB1c2VmdWwgdGlwIG9wZW4gY3Jldw==
+E = 0.000104044706031
+S = 5
+
+44 / 690
+cGFsbSBjb250cm9sIGVtcG93ZXIgbXVsZSBidXJkZW4gZ2FybWVudCBkaXNlYXNlIHBvbnkgZW1icmFjZSBwdXNoIG5ldHdvcmsgaW5zZWN0IGF0dGl0dWRlIGZsb2F0IGJvc3Mgb2JzY3VyZSByaWdodCB0b2dldGhlciByZWZ1c2UgYnJhbmQgYnJva2VuIG1vbnN0ZXIgZGVicmlzIGRyaXA=
+S = 10
+
+45 / 690
+YmFyIGZvbGQgc3BhdGlhbCBzb2x2ZSBjb3VudHJ5IGdhdGhlciB3ZWFsdGggZGlhcnkgZXhoYXVzdCBjYXBhYmxlIHNvcnQgaWxsZWdhbCByaWZsZSBncmVlbiBiYXNrZXQgZHluYW1pYyBhZGp1c3QgdXNlbGVzcyBydW4gd29yZCB3YXJmYXJlIHNsb3QgYmxlYWsgcGxheQ==
+S = 10
+
+46 / 690
+Y2FwYWJsZSBidXllciBldGhpY3MgcGxhc3RpYyBhY2NvdW50IG1vcmFsIGJyb2Njb2xpIHdvbGYgZ29yaWxsYSBveHlnZW4gbW9tZW50IGJyaWNrIGxlbnMgYmlkIGVhcm4gZ3Vlc3MgdHVuYSBzdXN0YWluIGNsZXZlciBzY2lzc29ycyBlYWdsZSBjYW5jZWwgcGVuYWx0eSByZXBsYWNl
+S = 4
+
+47 / 690
+Zm9yZ2V0IHZhbGlkIHRpbnkgcmlnaWQgZWxib3cgbHVnZ2FnZSBqb2tlIGhhbXN0ZXIgcG9wdWxhciBsb2FkIHRvdGFsIGJhc2ljIHNraWxsIHlvdSB0aWdlciBsYXdzdWl0IHBsZWFzZSBkd2FyZiBkZXZvdGUgcmlwcGxlIHZvdGUgdm90ZSB0dXJ0bGUgcmFkaW8=
+S = 10
+
+48 / 690
+b3duZXIgdXBvbiBlaWdodCBjYW5vZSBicmFzcyBmcm93biBhZnJhaWQgcHVwcHkgYmFsYW5jZSBlbmdpbmUgZm9jdXMgaW5kaWNhdGUgZHV0eSBjcmF3bCBiZW5jaCBhd2FrZSBwZW5hbHR5IHdpdG5lc3MgcmFjZSB0cmFjayBmYXNoaW9uIG1lcnJ5IGFjdHJlc3MgaG9vZA==
+S = 10
+
+49 / 690
+c25pZmYgZGVmaW5lIGRlZnkgdmlydHVhbCBob3RlbCBiYW5uZXIgZmFybSBzbGltIHN0YWJsZSBva2F5IGVucmljaCBicm93biBpbmZhbnQgY2VyZWFsIHNvdW5kIG1hc3MgaXNsYW5kIGFsYnVtIG9jY3VyIHdhdmUgcmVvcGVuIHNoYWRvdyBib2lsIHdhc3Rl
+S = 10
+
+50 / 690
+Ym9zcyBjaG9pY2UgcmV2aWV3IHZhbGlkIGJhc2tldCByYWxseSBleGNoYW5nZSB1bmNvdmVyIHZhY2FudCBhc3Npc3QgcGVhbnV0IGFyZWEgeW91bmcgdHViZSBzbGlkZSBtZXNzYWdlIGxlY3R1cmUgdmV0ZXJhbiBjYXBpdGFsIGNoYXQgZ29vc2Ugc2V0dGxlIHNhbXBsZSBsZWF2ZQ==
+S = 10
+
+51 / 690
+b2JqZWN0IGJsYW5rZXQgZ2FsbGVyeSBjYXR0bGUgZ2F6ZSBjZW1lbnQgY29uZmlybSB0YXNrIGFjcm9zcyBjb3N0IGxhdyBnYW1lIHNpbGsgY2FwaXRhbCBpbmNvbWUgbXVzY2xlIHNjYXR0ZXIgcmFyZSBjb2xvciB3b3JrIGludmVzdCBzaGl2ZXIgc3RheSBtdWx0aXBseQ==
+S = 10
+
+52 / 690
+c291dGggY2hhbXBpb24gcGlnZW9uIGRpZmZlciBhZ2FpbiBob25leSBpbnNhbmUgZmlsbSBhc3NldCBtYWNoaW5lIGNyaXRpYyB0aGluZyBhd2Z1bCB2ZXJiIGluc3RhbGwgZm9jdXMgdHJhdmVsIGV4Y2hhbmdlIGR1c3QgcGlnIG11bHRpcGx5IGZpYmVyIHN1YndheSBib3JkZXI=
+S = 10
+
+53 / 690
+ZXh0cmEgZGl6enkgYXJ0ZWZhY3Qga2l0dGVuIHRpcmVkIG91dHNpZGUgdHJ5IGNsdXN0ZXIgdG9rZW4gdmFndWUgcHJvdWQgZGVjcmVhc2UgbnVtYmVyIGFjdHJlc3MgcHJlc2VudCBjcnlzdGFsIGpvaW4gYmFkZ2UgYWRqdXN0IHJlcXVpcmUgYmlyZCBtaWRkbGUga2VlcCBtaXhlZA==
+S = 10
+
+54 / 690
+ZXRoaWNzIGRldmljZSBsaXF1aWQgYXJyZXN0IHJldmVhbCBvem9uZSBjb21mb3J0IGRyaWxsIHN1Y2Nlc3MgZ2xhbmNlIHBhcnR5IHZvaWQgc25vdyByZWFkeSBraW5nZG9tIGJlbmNoIGJleW9uZCBzcGlyaXQgYnJhY2tldCBqYXp6IHVuaXF1ZSBsYWIgdG9iYWNjbyBoZWxsbw==
+S = 10
+
+55 / 690
+aGVsbG8gdHJvcGh5IGNsb3RoIHBpenphIHBvZW0gZ293biB0aXJlZCBvYnRhaW4gYXJlbmEgYWN0cmVzcyBiYWNoZWxvciB0dW5hIHJpbmcgZmlndXJlIGpvaW4gaGFydmVzdCBuZXdzIHJlZm9ybSBtb25zdGVyIHRvdGFsIHBlcHBlciBwb2xlIHJlZ3VsYXIgcmli
+S = 10
+
+56 / 690
+cm9tYW5jZSBnaWFudCBtaXhlZCBiaXJ0aCBjb3B5IGJ1bGIgZGl2ZXJ0IGxpdHRsZSBicm90aGVyIGVudHJ5IHBlcnNvbiBhYm92ZSBidW5rZXIgaW5jbHVkZSBub2lzZSBmb2xkIHdlYXBvbiBjcmVkaXQgY29yZSBnaXJhZmZlIHN0YXkgYmVuZWZpdCBsZWcgYm94
+S = 9
+
+57 / 690
+Z3Jhc3MgdmVudWUgd2VzdCBzYXRvc2hpIGdvbGQgc2Npc3NvcnMgZW5vdWdoIHNhdXNhZ2UgbWVjaGFuaWMgcG9lbSBtZXJpdCBzdGVt
+E = 0.0025
+
+58 / 690
+aW5qdXJ5IGxha2Ugc3VibWl0IHJvdGF0ZSBwcm9jZXNzIGFibGUgZHJ1bSBydXJhbCB0b3AgdHJpbSBmZWF0dXJlIHZpc3VhbCB0aGV5IGJsZWFrIHZlbHZldCBtaW1pYyBzcGlkZXIgbW9tZW50IHNwaXJpdCBtZXRhbCBsb3R0ZXJ5IHJlZnVzZSBmb3J0dW5lIHNsZWVw
+S = 10
+
+59 / 690
+Y2FzaW5vIGRyYWZ0IHdhcnJpb3Igc29uZyByZW1pbmQgZmluZCBkYXVnaHRlciBlcm9kZSBzbmFrZSBjb3R0b24gdHJpYmUgcGF0dGVybg==
+Py = 1.000833601142521
+
+60 / 690
+b2theSBkcmluayB0dW5hIGNsaWZmIG1pZGRsZSBjaGVhcCBsb3ZlIHBsdWNrIGNhciBvcGluaW9uIGF1Z3VzdCBpbW11bmU=
+BS = 0.00000000000001848
+
+61 / 690
+Z2lhbnQgY2FycGV0IGRpc29yZGVyIHRhcmdldCBlYXN5IGdlc3R1cmUgY2xhdyBzb2NrIHdhaXQgc3Vycm91bmQgc2ltaWxhciBhbm90aGVy
+
+62 / 690
+aGVuIHJhdGhlciBtb2RpZnkgaG9sZCBnZW5pdXMgYnJvbnplIG11ZmZpbiBicnVzaCBjcnVpc2UgYnVyZGVuIGxpYmVydHkgZWFzdA==
+Py = 0.000000000000084
+
+63 / 690
+Z3Vlc3Mgb2JqZWN0IHRhbGsgZ3Jhdml0eSBmb2cgdG9vbCBzdGF0ZSBsYWRkZXIgZXhoYXVzdCBzaWx2ZXIgc3RhZ2UgY3Jhd2w=
+E = 0.000012285670972008
+
+64 / 690
+bGF0aW4gZGlubmVyIGJ1bGsgY3Jvc3MgYm91bmNlIGRpbm9zYXVyIHN1ZmZlciB0dW5uZWwgY29vbCBkcmF3IGhvcGUgcHJvc3Blcg==
+
+65 / 690
+dm9pY2UgYWR2YW5jZSBicm9rZW4gc2luZyBoYXJ2ZXN0IGZsb29yIGtpc3MgZW5kb3JzZSBoYXphcmQgcGVhciBleGNpdGUgc3RyZWV0
+
+66 / 690
+ZWFzdCBxdWVzdGlvbiBsYXRpbiBjdXJ0YWluIHVwaG9sZCBzbGVuZGVyIGFtYXRldXIgZmlsbSBwaWVjZSBqdWRnZSBhY3RyZXNzIHRleHQ=
+
+67 / 690
+ZGVmeSBpbm5vY2VudCBhdmVyYWdlIGxlZ2VuZCBwb3N0IGZsYXQgZHJpcCBvZmYgdmFwb3IgZXhlY3V0ZSBiYWcgZHJhZ29u
+
+68 / 690
+cHVtcGtpbiBhbHRlciBidXNpbmVzcyBjaGltbmV5IG1hY2hpbmUgcmlzayBicmFzcyBnYXJkZW4gZGVzY3JpYmUgcHJvZ3JhbSBwYWlyIHRydWNr
+
+69 / 690
+bWFuYWdlIGJvcmRlciBraWQgcmVjZWl2ZSByaW90IGZsZWUgdG9lIHJlc2N1ZSB3ZWxjb21lIGZpc2NhbCBtYXJibGUgc2Fsb24gYmV0cmF5IHJlc291cmNlIHRvYmFjY28gcGFpciBzb2Z0IHRvbmUgYXR0cmFjdCBzaG9jayB0dW5hIGVuZW15IHVtYnJlbGxhIGZyZXF1ZW50
+
+70 / 690
+Y2x1c3RlciBzdG9vbCBjaGVlc2UgZGlzaCBidXp6IGNydW5jaCB5ZWFyIGFscmVhZHkgZm9yZXN0IGJ1dHRlciBhcGFydCBiYXR0bGU=
+
+71 / 690
+ZW5naW5lIHJldmlldyBiZW5lZml0IGVudGVyIHNlY3JldCBoZWxtZXQgYWNpZCBleGNpdGUgY3JhenkgcnVuIGtub2NrIHBvb2w=
+
+72 / 690
+bm93IG1vbSB0YWlsIG1hc3RlciByYWlsIHByb2plY3Qgbm9ibGUgYXR0YWNrIG1pcnJvciBjaGFuZ2UgY29hY2ggYmlydGg=
+
+73 / 690
+a25vdyBtb20gdGFpbCBtYXN0ZXIgcmFpbCBwcm9qZWN0IG5vYmxlIGF0dGFjayBtaXJyb3IgY2hhbmdlIGNvYWNoIGJpcnRo
+
+74 / 690
+cHlyYW1pZCBqZWxseSB3b25kZXIgcG9saWNlIGNpdmlsIGluc3BpcmUgZ3JvdXAgc3Vuc2V0IGVyb3Npb24gYWVyb2JpYyBmcmluZ2UgYWJpbGl0eQ==
+
+75 / 690
+dHJ1ZSB0YWNrbGUgdmFuaXNoIHNpY2sgZGVwZW5kIHRvcnRvaXNlIGJpY3ljbGUgb3BpbmlvbiBtZWFzdXJlIGF0b20gY2F1c2UgbWlsaw==
+
+76 / 690
+c2F5IG5haXZlIGVhcm4gcmVwbGFjZSBhcnRlZmFjdCBicmlkZ2UgZWlnaHQgc2NoZW1lIHByb29mIHRveSBmbG9hdCBtYXJyaWFnZQ==
+
+77 / 690
+ZXhjaXRlIGd1ZXNzIHRyaWFsIGFkanVzdCBjaXR5IGJsYW1lIGxhdW5kcnkgdG9kYXkgZHVyaW5nIGNhcGFibGUgY3JhZnQgY3ljbGU=
+
+78 / 690
+YXNzaXN0IGFpciBzcGVjaWFsIGh1bnQgc2xvZ2FuIGRhdWdodGVyIHNweSByZXVuaW9uIHdpbnRlciBib29zdCBhbHBoYSBhbW9uZyBzdGVhayBzcGFjZSBmYXRoZXIgc2l0dWF0ZSBhaGVhZCBmbG9vciBkb29yIHByaXNvbiBhd2FyZSBkZW1hbmQgY3Jvc3Mgc2hpbmUgd2lzaCBjbGlwIHByaXZhdGUgYm9uZSBrZWVuIGJ1aWxkIGxhdW5kcnkgbGlrZSBza2kgYXV0aG9yIHJlc2VtYmxlIHNwZWVkIHNwZWNpYWwgYWxpZW4gc2luZyBncmFzcyBjYXJwZXQgc2NoZW1lIGluaGVyaXQgc3dlZXQga25vdyBzY2lzc29ycyBtYWNoaW5lIGhhbGY=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+79 / 690
+bGFiIGR1cmluZyB3b29kIHNlZWQgY2FsbCBiYWxhbmNlIHNocnVnIG1hbiBkYW5nZXIgbGVzc29uIHdlYWx0aCBraWRuZXk=
+
+80 / 690
+bm90aGluZyBwcmljZSBleGFjdCB3YWdlIGNsZWFuIHZhcmlvdXMgZHJlYW0gcHJvdmlkZSBidXN5IHN1ZmZlciBkcmlsbCBjcmFzaA==
+
+81 / 690
+YnVzaW5lc3MgdG9uaWdodCBlZmZvcnQgc3VzdGFpbiBsaW9uIGNyZWRpdCBzdWdnZXN0IG5leHQgcXVpY2sga2l0ZSBwdWxzZSB0aWRl
+
+82 / 690
+Y3V0ZSBydWcgdHJvcGh5IGZldGNoIHNsaW0gZHV0Y2ggcHVwcHkgYXJteSB0cmVuZCBhdHRhY2sgc3dhcm0gZW5oYW5jZQ==
+
+83 / 690
+YnJ1c2ggcGFpciByYW5kb20gcG90YXRvIHBhbmVsIG1vbSBjYXNpbm8gc2luY2UgbWF0dGVyIGJhY2hlbG9yIG9ibGlnZSB2aXNh
+
+84 / 690
+Y2F0IGN1cCBtaXggcmVtYWluIHRvbmd1ZSBwaWxsIHJpZmxlIGFjb3VzdGljIHN1Y2ggaGFyYm9yIG9yZ2FuIGZyZXF1ZW50
+
+85 / 690
+ZGlub3NhdXIgY3VycmVudCBzdGljayBpbnF1aXJ5IGxpemFyZCBhbHNvIHJvdGF0ZSBjYXRjaCBhcHBlYXIgZHVuZSBtZWRpYSBwZWFudXQ=
+
+86 / 690
+dGlja2V0IGRyeSBnYXNwIGV2b2x2ZSBkcmVzcyBwYXZlIG9hayBwcmlzb24gc3ByYXkgd2FzdGUganVuaW9yIG9yY2hhcmQ=
+
+87 / 690
+am91cm5leSBvYWsgbWVhc3VyZSBhY2hpZXZlIHRlbmFudCBtaW1pYyBzY291dCBob2JieSBmZXRjaCBwYXRyb2wgcnViYmVyIGRhbmdlcg==
+
+88 / 690
+bW9yYWwgZ2hvc3QgZ2xhbmNlIGNvcmFsIGRvZyBvYnRhaW4gdGF0dG9vIG1lcmdlIGR3YXJmIGplYWxvdXMgZWxlbWVudCBveHlnZW4=
+
+89 / 690
+Zm9yZXN0IHNrZXRjaCBwYXJ0eSBwcm90ZWN0IHNsZW5kZXIgbG91bmdlIHNlbWluYXIgc2VhIGJ1dHRlciBidXR0ZXIgZHJhc3RpYyBqdXN0
+
+90 / 690
+YnJhaW4gc2NlbmUgY3Jhd2wgaW52b2x2ZSB2aWRlbyBhZG1pdCBpbmRpY2F0ZSBlYXN0IHRyeSBub3NlIHF1aXQgZGVmZW5zZQ==
+
+91 / 690
+ZXhvdGljIHN5cnVwIGp1aWNlIHBhc3Mgbm93IG5ldCB2ZWhpY2xlIGFjdGlvbiBmYW1pbHkgaG9ycm9yIHdpbmRvdyB3YWxs
+
+92 / 690
+c3VyZ2UgbmlnaHQgcGFwZXIgc3R1ZGVudCByZXBhaXIgd2FsayBjbGFpbSB0b21vcnJvdyBnb3Zlcm4gcmVncmV0IGxveWFsIG1lZGlh
+
+93 / 690
+ZWxib3cgd2FycmlvciBlbXB0eSB5b3UgdHJhY2sgZWl0aGVyIHRpZ2VyIGNveW90ZSBnbG93IHNlbmlvciBmbGlnaHQgY2FueW9u
+
+94 / 690
+dGFzdGUgY3JhZGxlIGZ1biBhZHZhbmNlIGphenogZmFuY3kgdGFibGUgaW1wdWxzZSBhZ2VudCBnYXJsaWMgZW1ib2R5IHRlc3Q=
+
+95 / 690
+ZWFybiBlbGVjdHJpYyBpbnNlY3QgcXVpdCB0ZW5hbnQgbWVudSBsYXdzdWl0IHdhdmUgaW1wcm92ZSBhYnN1cmQgcGV0IGdpZ2dsZQ==
+
+96 / 690
+c3Bvb24gdGlwIHRvd24gbGVnYWwgdGlkZSB0YWxlbnQgaGVhcnQgdGFja2xlIHNpZ24gZWxzZSBjb3Vyc2UgYnV5ZXI=
+
+97 / 690
+cXVpY2sgYm9vc3QgbWl4dHVyZSBlbmRsZXNzIGh1YiB0YXhpIHJlbHkgc2tpcnQgc2lyZW4gcGFnZSBsYXcgYXdrd2FyZA==
+
+98 / 690
+c2V0dGxlIGN1c2hpb24gc2thdGUgZnJlc2ggbm9ydGggZm94IGZvc3RlciBob3N0IHBpb25lZXIgYmFzaWMgdHJheSB0dXJ0bGU=
+
+99 / 690
+cGV0IGFydGVmYWN0IGJvdW5jZSB3aGFsZSBidXMgdm95YWdlIGNhdGNoIHByaXNvbiB0b3dhcmQgZXhjbHVkZSBkZWZlbnNlIHNhbHQ=
+S = 4
+
+100 / 690
+ZmF0aWd1ZSB2ZW50dXJlIHJlYnVpbGQgc2NpZW5jZSBhZHVsdCBnYXRlIGRldmljZSBhcnR3b3JrIGJpb2xvZ3kgZm9yY2UgcHlyYW1pZCBzbG9nYW4=
+E = 0.0000000000000001
+BS = 0.0000393
+
+101 / 690
+cGVybWl0IGxlc3NvbiBpbXB1bHNlIGdyaXQgYWdlIGdyYXBlIHJhbGx5IGthbmdhcm9vIHNoYWRvdyB1bmF3YXJlIHN0b2NrIGNvbnZpbmNl
+
+102 / 690
+YXJyaXZlIGFycmFuZ2Ugc2NhcmUgaGlkZGVuIGRhc2ggY2F0YWxvZyBtdWZmaW4gbWF0dGVyIG9pbCBkaWNlIHdpcmUgYW5zd2Vy
+
+103 / 690
+bWFuZGF0ZSBpbmR1c3RyeSB3ZWFyIGRlc2VydCBibHVyIHJvbWFuY2UgY2x1c3RlciBzb2NrIHZpYnJhbnQgdm9jYWwgYW5zd2VyIGh1cmRsZQ==
+
+104 / 690
+d2FzdGUgYWRkaWN0IGRlcGFydCBjbG91ZCB0dWJlIGdhbGxlcnkgcm91Z2ggc2lkZSBidXJnZXIgbWlkbmlnaHQgcHJlc2VudCBjcnVzaA==
+
+105 / 690
+YXJyYW5nZSBzZW1pbmFyIHRvbW9ycm93IHNoZWxsIHNjYW4gZXN0YXRlIGRvbHBoaW4gbW9ybmluZyBjYWxsIGFkdWx0IG1vbnN0ZXIgbW9udGg=
+
+106 / 690
+Y2hhbXBpb24gZXhpc3QgdmlzdWFsIGZpY3Rpb24gdW5mb2xkIGRlcGFydCBhY3Jvc3MgY2FtcCBiYXNlIGRlY2xpbmUgcHVscCBhcm91bmQ=
+
+107 / 690
+YnVzIGZyYW1lIGRvY3RvciBzdWJqZWN0IGluc3RhbGwgZWFybHkgd2luZG93IGJ1enogZGVmaW5lIHNvZGEgcm9idXN0IGxlbmQ=
+
+108 / 690
+ZG9nIGNhbGwgc2NhcmUgbGVmdCBjb3JhbCByYW5nZSB3b25kZXIgdXN1YWwgY29mZmVlIGFncmVlIHF1aWNrIHVuaWZvcm0=
+
+109 / 690
+ZXZpbCBibHVzaCBhbW9uZyBleGNsdWRlIHN5bXB0b20gYXVkaXQgcmFpbCB0aHVtYiBpbm5vY2VudCBiaXJkIGxvdHRlcnkgaXJvbg==
+
+110 / 690
+aGVybyBsaWJyYXJ5IHVzYWdlIHNsaWNlIGZyZXNoIGxlZyBmbGFnIHNvbHV0aW9uIGxhdGVyIHJvYnVzdCBzZW5zZSBqZWFsb3Vz
+
+111 / 690
+ZXZpbCBibHVzaCBhbW9uZyBleGNsdWRlIHN5bXB0b20gYXVkaXQgcmFpbCB0aHVtYiBpbm5vY2VudCBiaXJkIGxvdHRlcnkgaXJvbiBoZXJvIGxpYnJhcnkgdXNhZ2Ugc2xpY2UgZnJlc2ggbGVnIGZsYWcgc29sdXRpb24gbGF0ZXIgcm9idXN0IHNlbnNlIGplYWxvdXM=
+
+112 / 690
+Z2VuZXJhbCBncml0IHBvb2wgdmlzaXQgbGVucyBzYWxhZCBlbnRpcmUgdXJiYW4gYmFsY29ueSB1bmhhcHB5IGdhcmJhZ2Ugc2NvcnBpb24gZWVjZGZiZWZmZmFlYWRkY2VkZmZjZWU=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+113 / 690
+Z2VuZXJhbCBncml0IHBvb2wgdmlzaXQgbGVucyBzYWxhZCBlbnRpcmUgdXJiYW4gYmFsY29ueSB1bmhhcHB5IGdhcmJhZ2Ugc2NvcnBpb24=
+
+114 / 690
+c2NyYXAgcGlhbm8gZHJpdmUgZGFtcCBsZWN0dXJlIHByZWZlciBqdWljZSBzdHVmZiB2YWxpZCBmaWxtIGZpc2NhbCBkYXNo
+
+115 / 690
+ZWFybiBjaGVycnkgbW9iaWxlIHNuaWZmIGpvaW4gcG9sZSByZWd1bGFyIHJlYXNvbiBzbGljZSB5YXJkIHRvbmUgcmFpbg==
+
+116 / 690
+dXBwZXIgbG9hbiB2YXN0IG1lZGFsIHNwaGVyZSB0b3NzIGNvbWljIHJ1biBhdHRpdHVkZSBkZWFsIGdyaXQgd2lsbA==
+
+117 / 690
+c29tZW9uZSBmaXJzdCBhdGhsZXRlIG9mZmljZSBpbnRvIGFudGlxdWUgc29ydCBsZWFkZXIgZmV3IHRyYWZmaWMgcmFwaWQga2V0Y2h1cA==
+
+118 / 690
+Y2FiYmFnZSBub21pbmVlIHNlbWluYXIgc3R1bWJsZSBjaG9vc2Ugc2FsbW9uIHNwYXduIHZlbmRvciBmb290IGhvb2QgbW9ybmluZyBhY3RyZXNz
+
+119 / 690
+dHJpYmUgcXVhcnRlciBmb3JrIG5pY2UgcHVyY2hhc2UgaXZvcnkgcnVkZSBtdWxlIHNvY2lhbCBzdGFydCBnbG9vbSBmb2Ft
+
+120 / 690
+dGlnZXIgd2VhdGhlciB3aWZlIGNyYWRsZSBhZ3JlZSBjcmFkbGUgdW5jbGUgc2F2ZSBtYXJpbmUgZmFkZSBibGVhayBjYWJsZQ==
+
+121 / 690
+ZGVjYWRlIGV4aGF1c3QgYnJpZ2h0IG1hc2sgZGVjcmVhc2Ugdm9sdW1lIHBpenphIGJ1bmtlciBtYW5zaW9uIHNjYW4gbWFqb3IgdXJiYW4=
+
+122 / 690
+bG9ic3RlciB2YXVsdCBudXJzZSBwdWxwIGluaGFsZSBoZWxsbyB2ZXJpZnkgbWl4IHRlbm5pcyBsYXJnZSB0cmltIG1pbmQ=
+
+123 / 690
+VG95IGN1cnRhaW4gYmx1c2ggZm9yZXN0IG9jY3VyIGVuZW15IGRlbnRpc3QgcGVybWl0IGxhYiBhbmNpZW50IGxldHRlciB3cm9uZw==
+System.FormatException: Word Toy is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+124 / 690
+ZGVjYWRlIGV4aGF1c3QgYnJpZ2h0IG1hc2sgZGVjcmVhc2Ugdm9sdW1lIHBpenphIGJ1bmtlciBtYW5zaW9uIHNjYW4gbWFqb3IgdXJiYW4gICBsb2JzdGVyIHZhdWx0IG51cnNlIHB1bHAgaW5oYWxlIGhlbGxvIHZlcmlmeSBtaXggdGVubmlzIGxhcmdlIHRyaW0gbWluZCAgICBUb3kgY3VydGFpbiBibHVzaCBmb3Jlc3Qgb2NjdXIgZW5lbXkgZGVudGlzdCBwZXJtaXQgbGFiIGFuY2llbnQgbGV0dGVyIHdyb25n
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+125 / 690
+d2V0IGR3YXJmIHJhdyBwb3NpdGlvbiBhbWF0ZXVyIGRlbGl2ZXIgamF6eiBwYWN0IGFjdHVhbCBjaHVuayBzcGVlZCBhZ3JlZSBzdXJ2ZXkgbWVudGlvbiBwdWxzZSBydWJiZXIgZGVwb3NpdCBmcmllbmQgYmVhdXR5IHN0YWJsZSBsYWR5IGplYWxvdXMgc2V2ZW4gcmFpbA==
+
+126 / 690
+c2NyYXAgcGlhbm8gZHJpdmUgZGFtcCBsZWN0dXJlIHByZWZlciBqdWljZSBzdHVmZiB2YWxpZCBmaWxtIGZpc2NhbCBkYXNoIGVhcm4gY2hlcnJ5IG1vYmlsZSBzbmlmZiBqb2luIHBvbGUgcmVndWxhciByZWFzb24gc2xpY2UgeWFyZCB0b25lIHJhaW4gdXBwZXIgbG9hbiB2YXN0IG1lZGFsIHNwaGVyZSB0b3NzIGNvbWljIHJ1biBhdHRpdHVkZSBkZWFsIGdyaXQgd2lsbA==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+127 / 690
+ZnJvbSBtbmVtb25pYyBpbXBvcnQgTW5lbW9uaWMgaW1wb3J0IGJpcHV0aWxzICBtbmVtb24gPSBNbmVtb25pYygnZW5nbGlzaCcpICN3b3JkcyA9IG1uZW1vbmdlbmVyYXRlKCkgI3ByaW50KHdvcmRzKSAjbW5lbW9uY2hlY2sod29yZHMpICNzZWVkID0gbW5lbW9udG9fc2VlZCh3b3Jkcykgc2VlZCA9IG1uZW1vbnRvX3NlZWQoYidsdWNreSBsYWJvciByYWxseSBsYXcgdG9zcyBvcmFuZ2Ugd2Vhc2VsIHRyeSBzdXJnZSBtZWFkb3cgdHlwZSBjcnVtYmxlIHByb3VkIHNsaWRlIGNlbnR1cnknKSBwcmludChmJ0JJUCBTZWVkIHtzZWVkaGV4KCl9XG4nKQ==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+128 / 690
+bHVja3kgbGFib3IgcmFsbHkgbGF3IHRvc3Mgb3JhbmdlIHdlYXNlbCB0cnkgc3VyZ2UgbWVhZG93IHR5cGUgY3J1bWJsZSBwcm91ZCBzbGlkZSBjZW50dXJ5
+
+129 / 690
+bGVnYWwgd2lubmVyIHRoYW5rIHllYXIgd2F2ZSBzYXVzYWdlIHdvcnRoIHVzZWZ1bCBsZWdhbCB3aW5uZXIgdGhhbmsgeWVhciB3YXZlIHNhdXNhZ2Ugd29ydGggdXNlZnVsIGxlZ2FsIHdpbGw=
+
+130 / 690
+YXdhcmUgcmVwb3J0IG1vdmllIGV4aWxlIGJ1eWVyIGRydW0gcG92ZXJ0eSBzdXByZW1lIGd5bSBvcHBvc2UgZmxvYXQgZWxlZ2FudA==
+T = 6
+
+131 / 690
+Y2FueW9uIGNhbWVyYSBkcml2ZSBjYXRjaCBib251cyB3YWl0IGx1bWJlciBtb3JhbCBxdWljayBpbmR1c3RyeSBwaXRjaCBzdGFnZSBhdGhsZXRlIHNvbWVvbmUgbG92ZSBzd29yZCBtdXR1YWwgcHJhaXNlIG1vcmUgdG9ybmFkbyBjaGllZiBjbGFyaWZ5IGZ1cm5hY2Ugc21pbGU=
+
+132 / 690
+dGVudCBoZW4gYmVmb3JlIGNsaWNrIGZldyBjaGllZiBmbGFnIGNoZXJyeSBob3N0IGFkZGljdCBjaGFpciBjYXJib24=
+
+133 / 690
+YW50ZW5uYSBwYXJhZGUgY3Jpc3Agd2Vhc2VsIHN1Ym1pdCBob25leSB3aWR0aCBtb21lbnQgY29udHJvbCBhbnN3ZXIgc2hvZSBydW4=
+
+134 / 690
+b2x5bXBpYyB3aW5lIGNoaWNrZW4gYXJndWUgdW5hd2FyZSBidW5kbGUgdHVubmVsIGdyaWQgc3BpZGVyIHNsb3Qgc3BlbGwgbmVlZA==
+
+135 / 690
+c3RhYmxlIHByaW1hcnkgYWxyZWFkeSBjb2xsZWN0IGJ1ZmZhbG8gYmlrZSBpbnRvIHJvYnVzdCBmdXJ5IGNlbWVudCBwcm9vZiBhZ3JlZSBuZWl0aGVyIGJsb3VzZSBjb3Vyc2U=
+
+136 / 690
+YWxsIHByb2JsZW0gc3BpZGVyIHVwZ3JhZGUgZW5hYmxlIGVuZG9yc2UgZWNvbG9neSBzZWNyZXQgcG93ZXIgc3dlYXIgYW5pbWFsIGZhY2U=
+
+137 / 690
+SGVsbG8gYW55Ym9keSBoZXJlIGNvdWxkIGhlbHAgbWUgdHJhbnNmZXIgbXkgdXNkdCBmcm9tIG15IHRyb25saW5rIHdhbGxldD8gSGVyZSBpcyBteSB3YWxsZXQgaW5mbyBUcm9ubGlua1BybyBwcml2YXRlIGtleSBmYmFkZGRkZGZjYmVkYWRmYmVjYWFhZWUgIE1uZW1vbmljIFBocmFzZSB0aHVtYiBiYWcgbW90aW9uIHBhc3MgZ2FzIG9sZCBzZWEgbWFyY2ggc3Vid2F5IGZhZGUgc3dhcCBzcGVjaWFs
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+138 / 690
+dGh1bWIgYmFnIG1vdGlvbiBwYXNzIGdhcyBvbGQgc2VhIG1hcmNoIHN1YndheSBmYWRlIHN3YXAgc3BlY2lhbA==
+T = 35
+
+139 / 690
+dW5pdCBsYWRkZXIgYmlvbG9neSBlc3RhdGUgY3J1c2ggcGV0IGFyZWEgc2thdGUgbm9ydGggYWJvdXQgcHJvamVjdCBwYWxhY2U=
+
+140 / 690
+ZGVyaXZlIHNsZWVwIGlzbGFuZCBkaXN0YW5jZSBzbW9vdGggZ2FpbiB3YXJtIGN1cCBicnVzaCBicm9jY29saSB0cmVlIHNwYXdu
+
+141 / 690
+Z2lybCB3aWRlIHdpZGUgbWVhdCBicm9jY29saSBhdHRhY2sgdmVoaWNsZSBwbGF0ZSBhcmNoIGlubmVyIGZ1bm55IHNpbmc=
+
+142 / 690
+c2F1c2FnZSBzbmFjayBpc3N1ZSBub3RoaW5nIHRoZXkgcGlhbm8gZWFnbGUgYnJpbmcgZG92ZSB0b2tlbiBtb25rZXkgcm9idXN0ICBQcml2YXRlS2V5IGVhZmJhYmRlZWJjYmFlYWFlZWI=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+143 / 690
+c2hvb3Qgc2V0dXAgZGlsZW1tYSBrbm93IGFuaW1hbCBlbnRpcmUgY2hhbXBpb24gbmFzdHkgdmlzYSBzdHJvbmcgb3Bwb3NlIGNhcnJ5
+
+144 / 690
+cGl0Y2ggIGluc2VjdCAgZWZmb3J0ICBzdHJpa2UgIGxhd3N1aXQgIGNoZWYgIGtpc3MgIG5lZ2xlY3QgIGZ1cnkgIGNhYmluICBpZGVhICBxdWljaw==
+
+145 / 690
+Y2VpbGluZyAgZ2F0aGVyICBhZ2FpbiAgd2luZyAgYWR1bHQgIGR1c3QgIHZhY2FudCAgc3VydmV5ICBpbm5vY2VudCAgZGlzYWdyZWUgIHZlcnkgIG5hbWU=
+
+146 / 690
+ZW1wb3dlciBjb2luIHdvcmsgaW1wcm92ZSBrbmVlIG11c2ljIGN1cmlvdXMgZmlsbSBjcm91Y2ggYWJpbGl0eSBibHVlIGNvdXNpbg==
+
+147 / 690
+YWR2YW5jZSBldm9rZSBzd2VldCBlZHVjYXRlIGJpb2xvZ3kgZmFuIHdoaXNwZXIgbGVpc3VyZSBzb3JyeSB3aGVyZSBhY2hpZXZlIGpveQ==
+
+148 / 690
+V2ViYXV0aCBtZW1vcm5pYyBlbXBvd2VyIGNvaW4gd29yayBpbXByb3ZlIGtuZWUgbXVzaWMgY3VyaW91cyBmaWxtIGNyb3VjaCBhYmlsaXR5IGJsdWUgY291c2lu
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+149 / 690
+bWFuZGF0ZSBpbmR1c3RyeSB3ZWFyIGRlc2VydCBibHVyIHJvbWFuY2UgY2x1c3RlciBzb2NrIHZpYnJhbnQgdm9jYWwgYW5zd2VyIGh1cmRsZSBlbXBvd2VyIGNvaW4gd29yayBpbXByb3ZlIGtuZWUgbXVzaWMgY3VyaW91cyBmaWxtIGNyb3VjaCBhYmlsaXR5IGJsdWUgY291c2lu
+
+150 / 690
+VGVzdCBuZXQgZGVjYWRlIGV4aGF1c3QgYnJpZ2h0IG1hc2sgZGVjcmVhc2Ugdm9sdW1lIHBpenphIGJ1bmtlciBtYW5zaW9uIHNjYW4gbWFqb3IgdXJiYW4gICBsb2JzdGVyIHZhdWx0IG51cnNlIHB1bHAgaW5oYWxlIGhlbGxvIHZlcmlmeSBtaXggdGVubmlzIGxhcmdlIHRyaW0gbWluZCAgICBUb3kgY3VydGFpbiBibHVzaCBmb3Jlc3Qgb2NjdXIgZW5lbXkgZGVudGlzdCBwZXJtaXQgbGFiIGFuY2llbnQgbGV0dGVyIHdyb25nICAgZ2VuZXJhbCBncml0IHBvb2wgdmlzaXQgbGVucyBzYWxhZCBlbnRpcmUgdXJiYW4gYmFsY29ueSB1bmhhcHB5IGdhcmJhZ2Ugc2NvcnBpb24=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+151 / 690
+cmV0cmVhdCBqYXp6IHNvbWVvbmUgZXhwaXJlIGF0aGxldGUgY3JhZnQgc2FsYWQgZm91bmQgc3F1YXJlIGZvaWwgdGF0dG9vIHNvbmc=
+
+152 / 690
+cnVyYWwgYmxhZGUgc2hyaW1wIG1pcmFjbGUgaHVudCBzY2lzc29ycyBhcnRpc3QgbGVzc29uIHdyb25nIGNhbnlvbiBhdm9pZCBnb2RkZXNz
+T = 3
+
+153 / 690
+cGl6emEgZm9yayBnb3NzaXAgcGF0dGVybiBidWxsZXQgZ29yaWxsYSBhY2hpZXZlIGNydXNoIGR1Y2sgc2hhZnQgc3BoZXJlIGZveCBpc3N1ZSBtb3Rpb24gc291bmQgYXJyZXN0IHJlYmVsIG1lYXN1cmUgc2FsdCBtZXRob2QgY2FyIGdpcmFmZmUgY2F0IGFic3RyYWN0IHByb2dyYW0=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+154 / 690
+dGhhdCBsdW5hciBsb3VkIG1hdHRlciB0eXBlIGJ1bGsgYW1hdGV1ciBhY3F1aXJlIHdvcmsgY2lubmFtb24gYXZvY2FkbyBvZmZpY2UgaGludCBiYWNoZWxvciBzaGl2ZXIgcmVudCBmb3JjZSBzYW5kIGFiaWxpdHkgZG9zZSBwcmVmZXIgZW5nYWdlIHZpY2lvdXMgYWJzZW50IGVsZW1lbnQ=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+155 / 690
+cGF2ZSBwYXRpZW50IGZpbmUgc2xpZ2h0IHRvd24gaGVscCBzcGluIGRlY2FkZSBtb20gb2J0YWluIGhhemFyZCBhbmdyeQ==
+
+156 / 690
+bmFycm93IHNlZ21lbnQgZGlzY292ZXIgY2hlZiBsaWJyYXJ5IGV4ZWN1dGUgY2FjdHVzIG1pbnV0ZSBza2lydCBjaXJjbGUgdXBwZXIgZmxvY2sgd2luZSBodW1vciBnYXAgc29sdmUgdGlkZSBmb2xkIHB1YmxpYyBmZXRjaCBzZWEgZm9yY2UgaGFyYm9yIGFic3RyYWN0IGJvbWI=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+157 / 690
+d2V0IGJhc2UgdmVzc2VsIGluZmxpY3QgY29yYWwgeWVhciBkZWNlbWJlciByYWRhciBmYXJtIHJhZGFyIGN1cGJvYXJkIHRpY2tldCBydXJhbCBhcmVhIHdpbm5lciBnbGFyZSBwb2xlIHJpYmJvbiBzdWdnZXN0IGNhcGl0YWwgYW5zd2VyIHJlZHVjZSBhZmZhaXIgYWJhbmRvbiBkaWNl
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+158 / 690
+dGFja2xlIGh5YnJpZCB1cmJhbiBwZXJtaXQgZ2lyYWZmZSBjdXJyZW50IGluY2ggaW5jb21lIHJlZHVjZSBvcmRpbmFyeSByZXNvdXJjZSBleGVjdXRl
+
+159 / 690
+ZHJhdyBjYXN0bGUgYnJpZWYgY2hyb25pYyBub2JsZSBleHBpcmUgYnV5ZXIgZGFtYWdlIHJldmlldyBwcm9qZWN0IGNoYWlyIGNoYWly
+E = 0.007711003694330049
+
+160 / 690
+c3dpbmcgb2JzZXJ2ZSBjYXRlZ29yeSBidXJzdCBhbmdlciB3b3JyeSBjaGVlc2UgYmxhc3QgZmluYWwgY2hhaXIgZ2FtZSB0b25ndWU=
+BS = 0.00758546
+
+161 / 690
+Zm9hbSBzcGhlcmUgZGVmZW5zZSBwZWFzYW50IGJvc3MgY3JlZGl0IHdlYXRoZXIgd2ViIGluY2x1ZGUgY2FnZSBkZWNhZGUgbW92aWU=
+
+162 / 690
+ZGFuY2UgYXR0YWNrIG1lbnRpb24gbWlub3IgaWRlbnRpZnkgY2lyY2xlIG1vZGVsIG1pZG5pZ2h0IHJvdGF0ZSBwdXJzZSBwYXltZW50IGZvcmVzdCBjYWJsZSBjaGlsZCBzcXVpcnJlbCBhbHBoYSB3aGVyZSBiZWhhdmUgcG9lbSByYXpvciBsb25lbHkgYXJyaXZlIHZpYnJhbnQgb2JqZWN0
+
+163 / 690
+cmVhbCBpbnRvIG5vdGljZSBwaG90byByZWdyZXQgZGlzY292ZXIgbXVzZXVtIGFuZ2xlIHBvbGUgYWxvbmUgZmV3IHdhbGsgZGVsYXkgbGVvcGFyZCB0dWl0aW9uIGluZGljYXRlIGNsYXAgd2FycmlvciBkcmVhbSBkaWFncmFtIGx1bmFyIGlzbGFuZCB0dXJrZXkgcG9sYXI=
+
+164 / 690
+c2hvb3QgbWFnbmV0IGdyYXZpdHkgbXVzaWMgYWNpZCBkaWxlbW1hIGNhYmxlIGZhdWx0IG5vb2RsZSBjb3VjaCBsYWJvciBiYWRnZQ==
+
+165 / 690
+bXVsdGlwbHkgdGF4aSB3aXJlIHJldHJlYXQgZG9ua2V5IGJhcmdhaW4gbm9zZSB2ZXJpZnkgY2FyZCBibGluZCBwb2VtIGRyYXcgYWZmb3JkIGxlYWRlciBldm9sdmUgY2xlYW4gbWFyaW5lIGJyYXZl
+S = 2
+
+166 / 690
+Y3JlYW0gZWlnaHQgc2lnaHQgZHJhZnQgZWNvbG9neSB0ZW5hbnQgZm9ydW0gbmFtZSB2aWN0b3J5IGRpbm5lciBldm9sdmUgcG9ldA==
+
+167 / 690
+YmlwICBjcmVhbSBlaWdodCBzaWdodCBkcmFmdCBlY29sb2d5IHRlbmFudCBmb3J1bSBuYW1lIHZpY3RvcnkgZGlubmVyIGV2b2x2ZSBwb2V0IHhwcnZ4Z2hTb0tHVmZXYmNZVUx1bUNQQnBreWNSdkdCdlJQakRHR3VqaE5xZ3RjWFhZelpoUUJaTkh5dkhSQXVha2JqQUhFeWVtaHpOeVBrVldZWnV4bmpwZnNUTmMgeHBydnhnaFNvS0dWaENMR0JWUnRUaGlpVFRlUlZOVWZjcXdEdWJoQmdWcmJ0dGpxUURCQVJjVWViZ1FEWkpDUER0Y0RNR2tMUktlQnVGV1Z6VXhzaHZ1WXdLWUU=
+System.FormatException: Word bip is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+168 / 690
+dm9pZCBtZWxvZHkgZXJ1cHQgc3VwcGx5IHpvbyBicm9rZW4gaG9yc2UgZmlndXJlIHBldCBnb2F0IGRvY3RvciBwZXJzb24=
+
+169 / 690
+dG9wIHN1c3RhaW4gbGVnYWwgZmluYWwgc29vbiBsYWIgcmVtYWluIGZpbmQgdGlzc3VlIGZpbHRlciBmYXVsdCBob2xl
+
+170 / 690
+Y2hvaWNlIGludmVzdCBleHRlbmQgc3BpZGVyIGZhdCBwdW5jaCB0YWNrbGUgYnV6eiBnbGFkIHN1cGVyIHN1bnNldCBhdWRpdA==
+
+171 / 690
+YmVuY2ggc3VyZ2UgcmVhc29uIGJyZWFkIHNwaWRlciByZWNhbGwgdHJ1ZSBjaWdhciBsaXphcmQgYnJpY2sgbmV0IGxlbmQ=
+
+172 / 690
+Zm9sbG93IGxlY3R1cmUgbXVzY2xlIGdyaXQgc2FsdCB0b3JjaCBhY3Rpb24gYWltIGZlZWwgZnVybmFjZSByZW5kZXIgcHJpemU=
+
+173 / 690
+dGVuIGNvc3QgbGFiZWwgc2NpZW5jZSBub3J0aCByb3RhdGUgbXlzZWxmIG1vcmUgZW1wbG95IHJpcHBsZSBob3Jyb3IgbW9kaWZ5
+
+174 / 690
+cG93ZGVyIGFueSBhdWN0aW9uIGFtYXRldXIgZnJvZyBuZXh0IGZhbiBoZWFkIGtpdGNoZW4gamVhbnMgaGFwcHkgY295b3Rl
+
+175 / 690
+ZW1wbG95IG1vbSBtZWNoYW5pYyBpbmZhbnQgcmVuZGVyIHRvd2FyZCB3cmFwIGFua2xlIGluY29tZSBnb3duIGxhYm9yIGR1bmU=
+
+176 / 690
+aW5jcmVhc2UgaG9uZXkgcmF0aGVyIHBhcnJvdCBob2xsb3cgY2hlYXAgZnJvemVuIGltaXRhdGUgcHV6emxlIHN1cnZleSB1bmlxdWUgc25hcA==
+
+177 / 690
+aW5zZWN0IGNydWlzZSBhd2t3YXJkIGdvdmVybiB1c2VmdWwgdXN1YWwgbGVvcGFyZCBicm90aGVyIHByZXZlbnQgaGVhZCBzdWRkZW4gaGFtbWVy
+
+178 / 690
+cHV0IGVhcmx5IGtpZG5leSBlbm91Z2ggY29hc3QgYm91bmNlIGtpY2sgc3VpdCBtZW1iZXIgcHJvbW90ZSBzaXR1YXRlIHJlY3ljbGU=
+
+179 / 690
+d2ViIHdvcmxkIGFic3RyYWN0IHJhaWwgb2JsaWdlIGRvZyBkb21haW4gZ2FybWVudCBzdXJyb3VuZCBjbGlwIGNsaXAgZ2FtZQ==
+
+180 / 690
+b3lzdGVyIGFtYXppbmcgc2lnaHQgdW5mYWlyIHdvcmxkIGxvY2sgcG9zc2libGUgZGVwYXJ0IHBvbnkgYmVoaW5kIGJ1bmtlciBsaXZl
+
+181 / 690
+Y2xvY2sgZnJlc2ggc2VjdXJpdHkgZmllbGQgY2F1dGlvbiBlZmZvcnQgZ29yaWxsYSBzcGVlZCBwbGFzdGljIGNvbW1vbiB0b21hdG8gZWNobw==
+
+182 / 690
+Y2F1Z2h0IHVuZGVyIGJhbWJvbyBicmVlemUgZ2VudGxlIHN1bW1lciBtZWxvZHkgYW5vdGhlciBtb21lbnQgc29tZW9uZSB3aWxsIHJlbWVtYmVy
+E = 0.00000000000001
+T = 2
+
+183 / 690
+c2xvZ2FuIHVzZSBjYXQgYWx3YXlzIGJhciBwb3B1bGFyIGNyYXp5IHN3YXAgd2hlYXQgYXJyaXZlIHJhdGUgc3Bhd24=
+
+184 / 690
+dGhlb3J5IHNpbHZlciBmcmluZ2UgYWdyZWUgZHVyaW5nIGdvdmVybiB1bmRvIHJvb2tpZSBjb2xsZWN0IGFmZm9yZCBlbm91Z2ggYXR0aXR1ZGU=
+
+185 / 690
+c2VjcmV0IG5vaXNlIGFua2xlIHB1enpsZSBsYXVuZHJ5IGNveW90ZSB3cm9uZyBzaW1wbGUgam9iIHZpc2l0IHNwcmF5IHdvcmxk
+
+186 / 690
+dHdpbiBhY2lkIHNwYWNlIGtleSBtZWF0IHNsb3cgdHJhbnNmZXIgZGVsYXkganVpY2Ugc2x1c2ggamFyIGJ1aWxk
+
+187 / 690
+YXJyYW5nZSBlbnZlbG9wZSBwcmludCBzdG9vbCBvYmxpZ2UgY29udHJvbCB0aGVyZSBwcm90ZWN0IGNhcmdvIHJlcGVhdCBoaW50IGNhcg==
+
+188 / 690
+ZGVzdHJveSBwcm9kdWNlIGV4Y2l0ZSBlZ2cgY2hlcnJ5IHN0YWZmIGh1Z2UgZW50aXJlIGNpdGl6ZW4gc2VhdCBiZWNvbWUgYXJjdGlj
+
+189 / 690
+bGljZW5zZSBjZW50dXJ5IG5vcm1hbCBsaW9uIGNhbGwgY2F1dGlvbiBpbWl0YXRlIGV4YWN0IGFscGhhIGhlbiB3cmFwIGZvbGQ=
+
+190 / 690
+aW5oYWxlIGRlZXIgc3ltYm9sIGhhaXIgc3VpdCBncmFzcyBleHByZXNzIGludGVyZXN0IGVsZXBoYW50IHdpbnRlciBza2lsbCByaWJib24gbWF0Y2ggdG9pbGV0IG1pbmQgc2hvcnRhIHJvdW5kIGlkZWEgcHV6emxlIGZhbiBzdWZmZXIgYnVzeSByZXZpZXcgc29vbg==
+System.FormatException: Word shorta is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+191 / 690
+YWdlIHBlcnNvbiBidXllciB1c2VkIGFncmVlIG1lc2ggZ2F6ZSBkcmFtYSBpbmZhbnQgYnVua2VyIGZyYWdpbGUgY2FwdGFpbg==
+
+192 / 690
+c2hhcmUgZXhjdXNlIGRhbmNlIGZhdGhlciBiZWxpZXZlIHJlYnVpbGQgYmFuYW5hIHRoYXQgY3J1bWJsZSBidWZmYWxvIGNlaWxpbmcgcHVwcHk=
+E = 0.000000000000000006
+BS = 0.000000000000019556
+T = 147
+
+193 / 690
+dmVuZG9yIGFyY3RpYyB0YXN0ZSBjb3ZlciBwdXNoIGVkZ2UgZGlldCBuZWdhdGl2ZSBkcmFtYSBqb2tlIGNsdWIgbWFzaw==
+
+194 / 690
+YXJlbmEgcGlnIGFyZWEgZ3VpZGUgZ3JhY2UgYW5udWFsIGNpcmNsZSB3aWR0aCBjbGF3IGZyb3duIGFjcXVpcmUgbmVwaGV3
+BS = 0.00000973
+T = 76
+
+195 / 690
+cm95YWwgaGFtc3RlciBwcm9qZWN0IGJpcnRoIGJsdWUgdmFndWUga2lzcyByZWxlYXNlIGdyYW50IHR1cnRsZSBnb29kIHByZXBhcmU=
+E = 0.000000000000015
+S = 1
+
+196 / 690
+Y2xpZmYgZmF0aWd1ZSB1bmNvdmVyIHNob3AgZnJvemVuIGZyb2cgdW5kZXIgY2VudHVyeSB3ZWFzZWwgaGVpZ2h0IHdvcmQgcHVyaXR5
+BS = 0.000000000000033294
+
+197 / 690
+cmVzb3VyY2UgZnJpZW5kIHBlbGljYW4gY3JhY2sgbGFtcCBzdHVmZiB0cmFkZSBkYW5nZXIgaG9tZSBwdXJpdHkgZ3JvdyB0d2VsdmU=
+S = 1
+
+198 / 690
+c29jaWFsIHNhZG5lc3MgdHdpY2UgbGF0aW4gc2Npc3NvcnMgamFja2V0IGxhZGRlciBsZWF2ZSBhdGhsZXRlIHBsYXRlIHdvbmRlciBlbXBvd2Vy
+
+199 / 690
+cmFkYXIgdW5mb2xkIHBsYXN0aWMgZGVjcmVhc2Ugb3JpZW50IHR3ZW50eSBjYXBpdGFsIG1pbm9yIGNyb3AgbGliZXJ0eSBib21iIHNlcmllcw==
+
+200 / 690
+bWluaW11bSByYXJlIGVwaXNvZGUgYmlyZCBsZW9wYXJkIG1vcm5pbmcgY3JlZWsgc3BlY2lhbCBhdXR1bW4gYXR0ZW5kIGZhdGhlciBtZXJnZQ==
+
+201 / 690
+ZGF5IGZ1cm5hY2UgZW5saXN0IGxhYmVsIGluZmFudCBjb25kdWN0IGFydGlzdCBmaXJtIHJ1bndheSBsYW1wIHBvc2l0aW9uIGJpa2UgdHVuYSBvYWsgY2lnYXIga25vY2sgZmVkZXJhbCBnaXZlIGhvbGUgZnVuIG51dCBhbG9uZSBydWcgc29sYXI=
+
+202 / 690
+bGF6eSBjdXNoaW9uIGdsYXJlIG5pZ2h0IGJhc2tldCB1cmJhbiB0ZXh0IGludGFjdCBzeXJ1cCBnaW5nZXIgYnJpY2sgYWN0aW9uIHNwbGl0IGFuc3dlciBsYW1wIGZhZGUgZmFjdWx0eSBjaGllZiBjYXNpbm8gaWxsIHZlaGljbGUgbm9pc2UgY2x1c3RlciBzbGlkZQ==
+
+203 / 690
+c2VhdCBtZWNoYW5pYyBhbnRpcXVlIGNoaWNrZW4gZG9ua2V5IHNvcnQgc3RhbXAgZnJpZW5kIHdlYXBvbiB0b3JuYWRvIHJlYWwgYmV5b25k
+
+204 / 690
+cmFiYml0IGZhaXRoIGJhciBsZWlzdXJlIGV0aGljcyBnaXJhZmZlIGdhbWUgYmx1c2ggZXBpc29kZSBzdGFmZiBkZXNlcnQgY2hhc2U=
+
+205 / 690
+bGFyZ2UgcmVhc29uIHNhbHQgZmluZ2VyIGxvdW5nZSBwb29sIGljb24gbG9vcCBnYWluIGNvZGUgeWVhciBsaW1i
+
+206 / 690
+YnVzaW5lc3MgZHJpcCB1c3VhbCBzcGlrZSBwdXBpbCBjdWx0dXJlIHNwcmluZyBtZWFzdXJlIGxpemFyZCBsaWFyIGJsdXIgY2hpbW5leQ==
+
+207 / 690
+Y2xpZmYgcmV3YXJkIG5lcnZlIHdyaXRlIGluZGV4IHZpcnR1YWwgdHVybiBraXNzIHNpY2sgcGxhc3RpYyBjYXJkIHdvcmQ=
+
+208 / 690
+dmlzYSBlbmdpbmUgZ3VpdGFyIGtpdCBjYXJyeSBuYW1lIHNvZGEgbGFkZGVyIHBlYW51dCB0YWNrbGUgZ3JlZW4gd2Vla2VuZA==
+
+209 / 690
+cmVhbCB0cmltIGZhbmN5IHByaXplIGdvZGRlc3Mgcm9va2llIGRyYW1hIGJ1c3kgbG9uZWx5IHBsYXRlIGNoYXJnZSBpbnNlY3QgYWlyIHBhbmVsIGVuZ2FnZSBmYXJtIGFkbWl0IG9idGFpbiB3YXN0ZSBiaXJ0aCBtZXJnZSB2ZW5kb3IgY2l0aXplbiB2YW5pc2g=
+
+210 / 690
+Y29tcGFueSBmaW5lIHByZXNlbnQgaHVuZHJlZCBidXNpbmVzcyBwaWFubyBnYXRoZXIgZXhjZXNzIHBhcnR5IHNtb2tlIGtub2NrIHJlY3ljbGU=
+E = 0.000000000000024
+BS = 0.000000000000014533
+T = 733
+S = 4
+
+211 / 690
+Y3ljbGUgbXVsZSBkaWdpdGFsIHdyb25nIHVzZSB0aXNzdWUgc2ljayBzdXJ2ZXkgaGVscCBwcm9tb3RlIGxvdmUgdGVzdA==
+E = 0.000002564772438899
+BS = 0.000000000000014655
+Py = 0.000000000000005634
+T = 515
+S = 3
+
+212 / 690
+Z2xvb20gZW1wbG95IGp1bmdsZSBwcml6ZSB0YXNrIGRpbm5lciBhZGQgY29weSBjcm9zcyBmbGVlIGd1aWx0IGVtcG93ZXI=
+BS = 0.00000000000002058
+T = 48
+
+213 / 690
+ZmFpdGggY290dG9uIGhlZGdlaG9nIHJvb20gaW5kaWNhdGUgZmlybSBiYXNrZXQgaWxsIGZhaXRoIHN3aWZ0IHJlbnQgcm9vZg==
+BS = 0.000000000000014883
+T = 78
+
+214 / 690
+c2Vhc29uIHBhcmFkZSBkZWVyIGNoZWNrIHJvdGF0ZSBzcGVuZCBob2xkIHNpbmcgc3VnZ2VzdCBjYXNpbm8gZGVhbCBkcmlmdA==
+BS = 0.000000000000002923
+T = 8
+
+215 / 690
+dGF4aSBsZWN0dXJlIGZhcm0gbWltaWMgZmFuY3kgbWFuYWdlIGZlbmNlIHByb2plY3QgZ2xvdyB3b25kZXIgbmFtZSBsZWdhbA==
+BS = 0.000000000000000891
+T = 33
+
+216 / 690
+Y3JvcCB3aGF0IHNjcmlwdCBoZWFydCBtYXJyaWFnZSBoZWxsbyBlYXJuIGRlZmVuc2Uga2VlbiB3b21hbiB0cmF2ZWwgb3BlcmE=
+
+217 / 690
+cmV2aWV3IGZpZWxkIGNhcmQgcmljZSByb3RhdGUgYmVhdXR5IGJpdHRlciBvY2N1ciBlbmdpbmUgb3JnYW4gdG9zcyBlaXRoZXI=
+BS = 0.000000000000011022
+T = 254
+
+218 / 690
+c2xlZXAgc3RpY2sgdHJhaW4gbWFuIGFsdGVyIGNydW1ibGUgcmVjaXBlIGZ1biBzdHJvbmcgbXVjaCBqYWd1YXIgdG9nZXRoZXI=
+E = 0.000000000000001374
+BS = 0.000000000000014952
+Py = 0.00000000000001515
+T = 11
+
+219 / 690
+Y2h1bmsgb3N0cmljaCBmb3JnZXQgYmxlc3MgYWJsZSBncmlkIHNwb2lsIHJhaWwgc3VzdGFpbiBldmlkZW5jZSBjb3JlIHVyZ2U=
+E = 0.000000000000000388
+BS = 0.000000000000019115
+Py = 0.000000000000004367
+T = 65
+
+220 / 690
+bGVhZiBsaW1iIGN1cnRhaW4gc3BlZWQgd3Jlc3RsZSByaXNrIGJldHJheSBkZXRlY3QgdGFibGUgYnVpbGQganVtcCBtZW1iZXI=
+BS = 0.000000000000002757
+Py = 0.000000000000025
+T = 222
+
+221 / 690
+bGlhciBjbGljayBtZXJnZSBzY2FuIGVsZWN0cmljIGVhcmx5IGdhcm1lbnQgdXJiYW4gd2FsbCBrbm93IGRlbGl2ZXIgZGlubmVy
+BS = 0.000000000000018091
+Py = 0.000000000000018
+T = 49
+
+222 / 690
+c3RhYmxlIHZpYnJhbnQgYmljeWNsZSBpbnRhY3QgcGljbmljIGJpcmQgZGVtYW5kIHN1bm55IG5vbWluZWUgZHJlYW0gZnJpZW5kIGlsbG5lc3M=
+BS = 0.000000000000016121
+Py = 0.000000000000015837
+T = 589
+S = 8
+
+223 / 690
+YW5nZXIgZm91bmQgZm9yd2FyZCBzbGltIHNsaWdodCBwaWN0dXJlIGVtYnJhY2UgdmFyaW91cyB0ZW5uaXMgcnVyYWwgZGVicmlzIHJlZnVzZQ==
+
+224 / 690
+a2VlbiBwdWRkaW5nIHNoYXJlIHB1ZGRpbmcgY2VpbGluZyBwb3J0aW9uIGdhdWdlIHN0b2NrIHF1YW50dW0gYmVmb3JlIHByaWRlIHJlbGVhc2U=
+BS = 0.000000000000016
+
+225 / 690
+bWVyY3kgY2hhbmdlIHNsYWIgdG9wcGxlIHRvd24gbGlnaHQgZmx1aWQgZXhwb3NlIGRlY2VtYmVyIG1lcmdlIGJ1ZmZhbG8gcGlsb3Q=
+E = 0.000000000000017222
+BS = 0.000000000000013972
+T = 460
+S = 10
+
+226 / 690
+cG9wdWxhciBiYXNlIHNvdXAgYXJ0aXN0IGRlbnRpc3QgeWVhciB3YXNoIGNsaW1iIHBhbmljIGxhbXAgaXRlbSBvcHRpb24=
+E = 0.000000000000007076
+BS = 0.000000000000006311
+T = 174
+
+227 / 690
+dmljaW91cyBiZXRyYXkgc2lsbHkgbm9ybWFsIGRlbnRpc3QgZ2VudWluZSBzYWZlIGJyZWV6ZSBnaWdnbGUgc29sYXIgYWNjdXNlIGNvbW1vbg==
+BS = 0.000000000000013721
+T = 13
+
+228 / 690
+bWlsayB0aGF0IHByZWRpY3QgdG9iYWNjbyBsb2NrIGdyb2NlcnkgY2F1c2UgY3JhdGVyIGZ1bm55IHZvdGUgbXVzY2xlIHNlbGVjdA==
+
+229 / 690
+c2Vzc2lvbiBjaWdhciBncmFwZXMgaGlsYXJpb3VzIHVzZWZ1bCBjaHVybiBmYXRhbCB0aG91Z2h0IHZlcnkgYW55IGhhbmQgZG9lc24ndCBrbm93IHdhdGNoIGZyZXNoIHNhZmV0eSBmaWVsZCBjYXV0aW9uIGVmZm9ydCBnb3JpbGxhIHNwZWVkIHBsYXN0aWMgcmVndWxhciB0b21hdG8gZWNobyBtaWxrIHRoYXQgcHJlZGljdCB0b2JhY2NvIGxvY2sgZ3JvY2VyeSBjYXVzZSBjcmF0ZXIgZnVubnkgdm90ZSBtdXNjbGUgc2VsZWN0
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+230 / 690
+ZHV0eSBiYXJlbHkgZGl6enkgc2FuZCBwdW1wa2luIHVwb24gdXJnZSBwcm90ZWN0IGFsYnVtIGZlZGVyYWwgc2Vzc2lvbiB3aWRl
+BS = 0.000000000000036446
+T = 370
+
+231 / 690
+c2FpbCBpdGVtIGFzdGhtYSBzaGFyZSBwaWN0dXJlIGZpZWxkIHJpZ2h0IHJhcGlkIGZvb3Qgc2FsdXRlIGNsaWZmIGNsb3Vk
+
+232 / 690
+Y3J1aXNlIGdvc3NpcCBnYXJiYWdlIHR1YmUgdmVyaWZ5IGlubm9jZW50IHVuZmFpciBjb21pYyBvcmJpdCBwZW9wbGUgZXZpZGVuY2UgbmVwaGV3
+
+233 / 690
+YmFtYm9vIGNyZXcgbWVsdCBsaWJyYXJ5IGNvbmR1Y3QgYnVuZGxlIHJldmVhbCBwYWxtIHBvbGFyIGFkanVzdCBsaWZlIG1pbnV0ZSB6b28gbW9kaWZ5IG5vdmVsIHN0ZW0gc2llZ2UgbmVjayBkcmVhbSB2YXN0IHNvbHV0aW9uIHNxdWVlemUgZmxvd2VyIHdlYXRoZXI=
+
+234 / 690
+YXNrIGxhYm9yIGdyZWF0IGhvc3QgY3ViZSBob3JzZSBnbG9yeSB1bmtub3duIHdhaXQgcHVwaWwgZGlzb3JkZXIgYXRvbQ==
+
+235 / 690
+YWZmYWlyIHRyYXAgaW5kdXN0cnkgb3ZlciBjYXVzZSBveHlnZW4gbG9vcCBtb29uIGNlcnRhaW4gZ2F1Z2UgZ3JvdXAgcnVn
+
+236 / 690
+Y2FuZHkgbWFwbGUgY2FrZSBzdWdhciBwdWRkaW5nIGNyZWFtIGhvbmV5IHJpY2ggc21vb3RoIGNydW1ibGUgc3dlZXQgdHJlYXQ=
+BS = 0.000000000000011043
+Py = 0.000000000000007852
+T = 1342
+
+237 / 690
+cHV0IHNwZWVkIGRyaXAgZW1wb3dlciBvZnRlbiBzdXJwcmlzZSB3aW5kb3cgY2FtcCB1bmxvY2sgaW5zaWRlIGF4aXMgZnJvbnQ=
+BS = 0.0000000000000002
+
+238 / 690
+bXVjaCBwaWdlb24gY2Fub2UgamFyIGVyYSBzdHJlZXQgbWFjaGluZSBtb2RpZnkgdHJhZ2ljIGR5bmFtaWMgYXdhcmUgZGVtYW5k
+BS = 0.00000000000001856
+T = 3
+
+239 / 690
+ZW1icmFjZSBpbnZpdGUgcGx1bmdlIGF4aXMgZ29kZGVzcyBnYXJkZW4gZGFtcCBhcHBlYXIgYnVpbGQgdHJ5IHJhY2Nvb24gcGlsb3Q=
+E = 0.00000000000000401
+BS = 0.00000000000000001
+T = 11
+
+240 / 690
+b3JnYW4gbW9udGggdHVpdGlvbiByb29raWUgc291bmQgcGF0cm9sIGRvbmF0ZSBtYWluIGxlYWRlciBmYXJtIHdhZ2UgaW5pdGlhbA==
+T = 14
+
+241 / 690
+ZG9nIHRveSBzaGlwIGFjaWQgdGhvdWdodCBsYXllciByYW5kb20gYXJyZXN0IGJ1bGIgaW5zdGFsbCB3aXNlIGNhc3RsZQ==
+
+242 / 690
+cGVhc2FudCBjb3JhbCBjYW4gbWFnaWMgYXdheSBtYXplIHNwbGl0IGhpbGwgd2lsZCBtdXN0IHNhbG1vbiByZWZ1c2U=
+
+243 / 690
+YmVmb3JlIGZvZyB0YWNrbGUgb3duZXIgYWxsb3cgdG93YXJkIHJpc2sgZmFybSBhYmFuZG9uIHZhc3QgY2F0dGxlIHNob3VsZGVy
+BS = 0.000000000000005975
+Py = 0.0000005555555
+T = 8
+
+244 / 690
+cnVnIG9waW5pb24gdHJ1c3QgY2FtZXJhIHNsaW0gc2F0b3NoaSBydXJhbCBtYXR0ZXIgdmVyc2lvbiBnb3duIGVkZ2UgcGx1bmdl
+E = 0.0000151315498557
+BS = 0.000000000000003543
+Py = 0.000000000000000001
+
+245 / 690
+YXBwZWFyIGlyb24gcG9ydGlvbiBlc2NhcGUgZnJhZ2lsZSBlc2NhcGUgdHJ1ZSBlYWdlciBjbGllbnQgd3JhcCBsb25lbHkgcGV0
+
+246 / 690
+Y2F0Y2ggZGlzaCBleHBlY3QgYW5udWFsIG51Y2xlYXIgd3Jpc3Qgd2FsbnV0IGdpbmdlciByYWlzZSBob3JzZSBkZWNyZWFzZSBhcnJvdw==
+
+247 / 690
+Y3VydGFpbiBzaGFyZSBwYWxhY2UgZnVybmFjZSBkYXNoIGhlYXJ0IGFwb2xvZ3kgdW52ZWlsIHRvcGljIG1vdG9yIHBlYWNlIHZhdWx0
+
+248 / 690
+dW51c3VhbCBhZmZhaXIgbXl0aCBnbGFkIHdvbWFuIGNsYXAgc2lkZSBjbGlwIG9yZGVyIHJvbWFuY2UgdGVsbCBjaGVzdA==
+
+249 / 690
+d2hlcmUgYXdheSBsYW1wIHNhaWwgZmlsdGVyIHBvd2RlciBzd2luZyBzYWQgc2VsbCBicmljayByb29tIHJld2FyZA==
+T = 8
+
+250 / 690
+YWNoaWV2ZSBlcm9kZSBmaWN0aW9uIGV4cGlyZSBqdXN0IGx5cmljcyBza2F0ZSBzYW5kIHB5cmFtaWQgZm9hbSBzZXR0bGUgY2x1dGNo
+Py = 0.000000000000003999
+T = 15
+
+251 / 690
+d29ybGQgaXJvbiBjcnVtYmxlIGJvbnVzIGZsaXAgZW1wbG95IGxvY2FsIGZpcnN0IHN0cmF0ZWd5IGVycm9yIGJleW9uZCBjcmltZQ==
+
+252 / 690
+dG93YXJkIHZhcmlvdXMgZ29vc2UgdHJhcCByZWR1Y2UgdGF4aSB0aGV5IG9yZGluYXJ5IG1lZGFsIGVuYWJsZSByZWZ1c2UgY2FzdWFs
+
+253 / 690
+c3lzdGVtIGZpbmFsIGNhcGFibGUgcmVsZWFzZSBicmlzayBkb3VibGUgY2x1YiBhZHZpY2Ugd2ludGVyIGJvYXJkIGFwYXJ0IHBhbmVs
+BS = 0.0000000000000001
+
+254 / 690
+bWltaWMgYWNoaWV2ZSBtZWx0IHNob290IHBhdGllbnQgbHV4dXJ5IGVtYmFyayBzYXRvc2hpIHNsdXNoIG1hcnJpYWdlIGNyYWNrIHBhdGggaXNzdWUgcHJlZGljdCBndWFyZCBlcXVhbCBtZWRhbCBjdXJyZW50IHNvbGRpZXIgbmVpdGhlciBhbnkgZXBpc29kZQ==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+255 / 690
+bW9ua2V5IG9hayByb3RhdGUgbGl2ZSBsb2JzdGVyIHNoZXJpZmYgcXVhcnRlciB1bml2ZXJzZSB3aXNlIHdvbmRlciBmYWludCBidWZmYWxv
+BS = 0.0000000000000001
+T = 10
+
+256 / 690
+Y2Fubm9uIGNydXNoIGZyb3N0IHNpZWdlIHRodW1iIGRhbXAgcHVscCBnZW5yZSBzaGFsbG93IHBsYWNlIHRyYW5zZmVyIHJlbWFpbg==
+BS = 0.000000000000018899
+Py = 0.00000000000000001
+T = 17
+
+257 / 690
+Ymx1c2ggZ292ZXJuIGNvcmFsIHByaW50IG91dHNpZGUgZmFjdWx0eSBhY3R1YWwga2lkIGhvbGxvdyBtb3RoZXIgYXJyYW5nZSBnaWFudA==
+BS = 0.000000000000021001
+
+258 / 690
+ZXhjZXNzIG9wZW4gcGluayBjbGVyayBiYWNoZWxvciBjb3Vyc2UgY3JhbSBmbG9jayB3aW4gcmVnaW9uIHdoaXNwZXIgaW1wdWxzZQ==
+BS = 0.0000000000000001
+T = 33
+
+259 / 690
+dW52ZWlsIHNob3VsZGVyIGV4Y2x1ZGUgcm9vZiBmb29kIGV4cG9zZSBtZXJnZSBmdXR1cmUgdGlzc3VlIHRvdGFsIHVwZGF0ZSBjYXJnbw==
+
+260 / 690
+b2FrIGZsb2F0IHJvb20gY2VyZWFsIHNheSBtb2JpbGUgdW5mb2xkIGNyb3dkIGZpYmVyIHNlcmllcyBtaXJhY2xlIGZhbGw=
+
+261 / 690
+dHJ1dGggY29yZSB3aWxsIGRlYmF0ZSBraXNzIHNsYWIgZWRnZSBiYWNvbiByZXRpcmUgdGVubmlzIHBpbGwgdHVpdGlvbg==
+
+262 / 690
+bGV0dGVyIGFkdmljZSBjYWdlIGFic3VyZCBhbW91bnQgZG9jdG9yIGFjb3VzdGljIGF2b2lkIGxldHRlciBhZHZpY2UgY2FnZSBhYm92ZQ==
+S = 2
+
+263 / 690
+bGlnaHQgcnVsZSBjaW5uYW1vbiB3cmFwIGRyYXN0aWMgd29yZCBwcmlkZSBzcXVpcnJlbCB1cGdyYWRlIHRoZW4gaW5jb21lIGZhdGFsIGFwYXJ0IHN1c3RhaW4gY3JhY2sgc3VwcGx5IHByb3VkIGFjY2VzcyIgZ3Jhdml0eSBtYWNoaW5lIG5vcnRoIHNvcnQgc3lzdGVtIGZlbWFsZSBmaWx0ZXIgYXR0aXR1ZGUgdm9sdW1lIGZvbGQgY2x1YiBzdGF5IGZlYXR1cmUgb2ZmaWNlIGVjb2xvZ3kgc3RhYmxlIG5hcnJvdyBmb2ciIHNjaXNzb3JzIGludml0ZSBsb2NrIG1hcGxlIHN1cHJlbWUgcmF3IHJhcGlkIHZvaWQgY29uZ3Jlc3MgbXVzY2xlIGRpZ2l0YWwgZWxlZ2FudCBsaXR0bGUgYnJpc2sgaGFpciBtYW5nbyBjb25ncmVzcyBjbHVtcCIgbGV0dGVyIGFkdmljZSBjYWdlIGFic3VyZCBhbW91bnQgZG9jdG9yIGFjb3VzdGljIGF2b2lkIGxldHRlciBhZHZpY2UgY2FnZSBhYnN1cmQgYW1vdW50IGRvY3RvciBhY291c3RpYyBhdm9pZCBsZXR0ZXIgYWx3YXlzIg==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+264 / 690
+bGVnYWwgd2lubmVyIHRoYW5rIHllYXIgd2F2ZSBzYXVzYWdlIHdvcnRoIHVzZWZ1bCBsZWdhbCB3aW5uZXIgdGhhbmsgeWVhciB3YXZlIHNhdXNhZ2Ugd29ydGggdXNlZnVsIGxlZ2FsIHdpbGwi
+System.FormatException: Word will" is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+265 / 690
+bGV0dGVyIGFkdmljZSBjYWdlIGFic3VyZCBhbW91bnQgZG9jdG9yIGFjb3VzdGljIGF2b2lkIGxldHRlciBhZHZpY2UgY2FnZSBhYnN1cmQgYW1vdW50IGRvY3RvciBhY291c3RpYyBhdm9pZCBsZXR0ZXIgYWR2aWNlIGNhZ2UgYWJzdXJkIGFtb3VudCBkb2N0b3IgYWNvdXN0aWMgYmxlc3M=
+
+266 / 690
+cGFuZGEgZXllYnJvdyBidWxsZXQgZ29yaWxsYSBjYWxsIHNtb2tlIG11ZmZpbiB0YXN0ZSBtZXNoIGRpc2NvdmVyIHNvZnQgb3N0cmljaCBhbGNvaG9sIHNwZWVkIG5hdGlvbiBmbGFzaCBkZXZvdGUgbGV2ZWwgaG9iYnkgcXVpY2sgaW5uZXIgZHJpdmUgZ2hvc3QgaW5zaWRl
+
+267 / 690
+aGFtc3RlciBkaWFncmFtIHByaXZhdGUgZHV0Y2ggY2F1c2UgZGVsYXkgcHJpdmF0ZSBtZWF0IHNsaWRlIHRvZGRsZXIgcmF6b3IgYm9vayBoYXBweSBmYW5jeSBnb3NwZWwgdGVubmlzIG1hcGxlIGRpbGVtbWEgbG9hbiB3b3JkIHNocnVnIGluZmxpY3QgZGVsYXkgbGVuZ3Ro
+
+268 / 690
+dm9pZCBjb21lIGVmZm9ydCBzdWZmZXIgY2FtcCBzdXJ2ZXkgd2FycmlvciBoZWF2eSBzaG9vdCBwcmltYXJ5IGNsdXRjaCBjcnVzaCBvcGVuIGFtYXppbmcgc2NyZWVuIHBhdHJvbCBncm91cCBzcGFjZSBwb2ludCB0ZW4gZXhpc3Qgc2x1c2ggaW52b2x2ZSB1bmZvbGQ=
+T = 92
+
+269 / 690
+YWJzZW50IGRyYXcgYmVnaW4gYW11c2VkIHN0YW5kIHN0b29sIGNpdmlsIHN5c3RlbSBiaWQgZ2VuaXVzIHR1bmEgY3JhbQ==
+
+270 / 690
+b2JzY3VyZSBhcHBlYXIgYmVnaW4gaG9zdCBidXJkZW4gdW5jbGUgZ2xvdyB0ZWxsIGpvdXJuZXkgYXV0dW1uIGJ1cmRlbiB3ZWxjb21l
+
+271 / 690
+cHJldHR5IGVsZW1lbnQgb2JleSBzbGFiIHdheSBtaWRkbGUgYnJpc2sgZ2xvcnkgc3RvbmUgbWF0ZXJpYWwgaHVuZ3J5IGd1ZXNz
+E = 0.000005
+
+272 / 690
+c2NoZW1lIHNwb3QgcGhvdG8gY2FyZCBiYWJ5IG1vdW50YWluIGRldmljZSBraWNrIGNyYWRsZSBwYWN0IGpvaW4gYm9ycm93
+
+273 / 690
+Y2F0IHN3aW5nIGZsYWcgZWNvbm9teSBzdGFkaXVtIGFsb25lIGNodXJuIHNwZWVkIHVuaXF1ZSBwYXRjaCByZXBvcnQgdHJhaW4=
+
+274 / 690
+b3pvbmUgZHJpbGwgZ3JhYiBmaWJlciBjdXJ0YWluIGdyYWNlIHB1ZGRpbmcgdGhhbmsgY3J1aXNlIGVsZGVyIGVpZ2h0IHBpY25pYw==
+
+275 / 690
+dmVzc2VsIGxhZGRlciBhbHRlciBlcnJvciBmZWRlcmFsIHNpYmxpbmcgY2hhdCBhYmlsaXR5IHN1biBnbGFzcyB2YWx2ZSBwaWN0dXJl
+BS = 0.000000000000000383
+
+276 / 690
+aG9ybiB0ZW5hbnQga25lZSB0YWxlbnQgc3BvbnNvciBzcGVsbCBnYXRlIGNsaXAgcHVsc2Ugc29hcCBzbHVzaCB3YXJtIHNpbHZlciBuZXBoZXcgc3dhcCB1bmNsZSBjcmFjayBicmF2ZQ==
+
+277 / 690
+bGlnaHQgcnVsZSBjaW5uYW1vbiB3cmFwIGRyYXN0aWMgd29yZCBwcmlkZSBzcXVpcnJlbCB1cGdyYWRlIHRoZW4gaW5jb21lIGZhdGFsIGFwYXJ0IHN1c3RhaW4gY3JhY2sgc3VwcGx5IHByb3VkIGFjY2Vzcw==
+
+278 / 690
+Z3Jhdml0eSBtYWNoaW5lIG5vcnRoIHNvcnQgc3lzdGVtIGZlbWFsZSBmaWx0ZXIgYXR0aXR1ZGUgdm9sdW1lIGZvbGQgY2x1YiBzdGF5IGZlYXR1cmUgb2ZmaWNlIGVjb2xvZ3kgc3RhYmxlIG5hcnJvdyBmb2c=
+
+279 / 690
+c2Npc3NvcnMgaW52aXRlIGxvY2sgbWFwbGUgc3VwcmVtZSByYXcgcmFwaWQgdm9pZCBjb25ncmVzcyBtdXNjbGUgZGlnaXRhbCBlbGVnYW50IGxpdHRsZSBicmlzayBoYWlyIG1hbmdvIGNvbmdyZXNzIGNsdW1w
+BS = 0.000000000000004446
+T = 28
+
+280 / 690
+bGV0dGVyIGFkdmljZSBjYWdlIGFic3VyZCBhbW91bnQgZG9jdG9yIGFjb3VzdGljIGF2b2lkIGxldHRlciBhZHZpY2UgY2FnZSBhYnN1cmQgYW1vdW50IGRvY3RvciBhY291c3RpYyBhdm9pZCBsZXR0ZXIgYWx3YXlz
+
+281 / 690
+YWxsIGhvdXIgbWFrZSBmaXJzdCBsZWFkZXIgZXh0ZW5kIGhvbGUgYWxpZW4gYmVoaW5kIGd1YXJkIGdvc3BlbCBsYXZhIHBhdGggb3V0cHV0IGNlbnN1cyBtdXNldW0ganVuaW9yIG1hc3MgcmVvcGVuIGZhbW91cyBzaW5nIGFkdmFuY2Ugc2FsdCByZWZvcm0=
+S = 3
+
+282 / 690
+bGVnYWwgd2lubmVyIHRoYW5rIHllYXIgd2F2ZSBzYXVzYWdlIHdvcnRoIHVzZWZ1bCBsZWdhbCB3aW5uZXIgdGhhbmsgeWVhciB3YXZlIHNhdXNhZ2Ugd29ydGggdXNlZnVsIGxlZ2FsIHdpbm5lciB0aGFuayB5ZWFyIHdhdmUgc2F1c2FnZSB3b3J0aCB0aXRsZQ==
+
+283 / 690
+ZXNzYXkgcHVkZGluZyBkb3VibGUgZ3JhYiBzY2lzc29ycyB3aWRlIHByYWN0aWNlIHNlZWsgam9rZSBjdXRlIHJldGlyZSByZW5kZXIgZ2FtZSBkZXRhaWwgd2lubmVyIHBhcnR5IHBlbiBwaWcgZmFpbnQgc2VjcmV0IHRpZ2VyIHBvaW50IGVudHJ5IGhlbGxv
+
+284 / 690
+c3RhZGl1bSB1c3VhbCBwbHVnIG9iZXkgYXRobGV0ZSBuZXBoZXcgcmVndWxhciBtdWNoIHdpbGQgZWFnZXIgYmV0cmF5IGh1c2JhbmQgc3VycHJpc2UgdHJhZmZpYyBvbGQgZmxvd2VyIGRpenp5IGFuZ3J5IG9idmlvdXMgcHJhaXNlIHRvYmFjY28gc3VyZSB1bmlmb3JtIGFuY2llbnQ=
+
+285 / 690
+YW5ncnkgcGFnZSBiYXNpYyBtb21lbnQgc3BlbmQgaXNzdWUgZmFybSBxdWljayBjb25kdWN0IHB1cmNoYXNlIGZhbWlseSB1Z2x5IHF1YWxpdHkgcHlyYW1pZCBtaW5vciBsYW1wIG1lcnJ5IHNlbnRlbmNlIHNwaWNlIGZhbnRhc3kgdGVsbCBjbGF3IGFmZm9yZCByZWxlYXNl
+
+286 / 690
+ZmVlbCBiaXJkIHJlZHVjZSBnaWZ0IHNhaWwgc2xpbSBpbWFnZSB0cmFuc2ZlciBqZWFsb3VzIGNsaWZmIGNlbGVyeSBzZWxlY3QgbGltYiBzYXZlIG1vdmUgc3VtbWVyIHVua25vd24gc3Vuc2V0IHJld2FyZCBtdWNoIGJvbWIgb3BpbmlvbiBidWxsZXQgaGVscA==
+
+287 / 690
+Z2VudWluZSB0ZXJtIG9mZmVyIGVucm9sbCBwb3RhdG8gdGFsayBnbG9iZSB0b2tlbiBvYWsgc3RvbWFjaCBub21pbmVlIHNlbnNl
+
+288 / 690
+c3RlcmVvIHdvcnJ5IHNjaXNzb3JzIG1hZ25ldCBzYWxtb24gY2xhcmlmeSBqdWljZSBsaXphcmQgc2FmZSBzd2l0Y2ggZ2xhZCByYXc=
+
+289 / 690
+Y2FueW9uIGNyZXcgcm95YWwgZHJhZ29uIGxheWVyIGRyaXZlIGVyb3Npb24gc2xvdCBzdXN0YWluIGRlY2VtYmVyIGFwb2xvZ3kgaG9tZQ==
+E = 0.000000000000019797
+BS = 0.000000000000013885
+T = 5248
+S = 9
+
+290 / 690
+c2Nob29sIGFudGlxdWUgZGV0ZWN0IGVtb3Rpb24gcGVwcGVyIHdlYXNlbCB0b3BpYyBhcm0gc2hvdWxkZXIgdmlldyBjaGFwdGVyIGRlbnk=
+
+291 / 690
+ZG9zZSBlbmdhZ2UgeW91IHBsYXRlIHNoaWZ0IGFkdmljZSBmZWVsIGZpc2ggYmFtYm9vIGljb24gbWFtbWFsIGZhc2hpb24gc2Nob29sIGFsbW9zdCBpbm1hdGUgdmlsbGFnZSB0cmFwIGVycm9yIGRlZnkgZ29sZCBiYWxsIG1hbnVhbCBndWlsdCBpY29u
+
+292 / 690
+cHJlcGFyZSBlbWJyYWNlIGdvYXQgZmxvb3IgbG91bmdlIGVpZ2h0IGV2aWwgY2h1cm4gZW50aXJlIHZpbnRhZ2UgbG9naWMgc3RhdGUgb2JleSByZWZ1c2UgZW1iYXJrIHNhZGRsZSBwb3RhdG8gY2xhcCByZWxlYXNlIHJhcGlkIHRhY2tsZSBhdW50IGtpdCBjYWJsZQ==
+
+293 / 690
+Y3ViZSBjcm9zcyBiZXR3ZWVuIGVudHJ5IGRlZnkgYmFsbCBmYWxsIGZsdXNoIHNpZ24gY2x1bXAgc2hvb3QgZmxhdm9yIGhlYWx0aCBlbnJpY2ggcHVsc2Ugc2tldGNoIGNvbnNpZGVyIG1vb24gZWdnIHN1cnByaXNlIHRvdGFsIHdlYWx0aCBhYm91dCB2ZW51ZQ==
+
+294 / 690
+Y3ViZSBjcm9zcyBiZXR3ZWVuIGVudHJ5IGRlZnkgYmFsbCBmYWxsIGZsdXNoIHNpZ24gY2x1bXAgc2hvb3QgZmxhdm9yIGhlYWx0aCBlbnJpY2ggcHVsc2Ugc2tldGNoIGNvbnNpZGVyIG1vb24gZWdnIHN1cnByaXNlID8gd2VhbHRoIGFib3V0IHZlbnVl
+System.FormatException: Word ? is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+295 / 690
+c3ltYm9sIHNjcmFwIHBvdGF0byByYXBpZCBhbWF0ZXVyIHRvYXN0IHZlcmlmeSBibGluZCBleGlsZSBlbXBsb3kgZGVuaWFsIHBlbmFsdHk=
+E = 0.000000000000012396
+BS = 0.000000000000018187
+T = 7951
+
+296 / 690
+Y29tcGFueSBjb25jZXJ0IGNvbmR1Y3QgY29uZmlybSBjb25ncmVzcyBjb25uZWN0IGNvbnNpZGVyIGNvbnRyb2wgY29udmluY2UgY29vayBjb29sIGNvcHBlcg==
+
+297 / 690
+Zm9nIGxha2UgcGFycm90IGV4cGVjdCBzb25nIGdvYXQgYWxzbyBtb3JlIGNhbiBzaW5nCXNvZnQgam9i
+
+298 / 690
+ZHV0Y2ggZGlubmVyIGxha2UgZmliZXIgZm9nIGFsc28gZWFzeSB5b3Ugb25seSB0aGVyZSB3b29kIHBhcnJvdA==
+
+299 / 690
+bGVuZ3RoIGdyZWVuIGdpbmdlciBjYWN0dXMgY29hc3QgYmxpbmQgZ2luZ2VyIHNlYXJjaCB0cmFpbiBzZWNyZXQgdW5pdmVyc2UgY2Fub2UgZGFkIHJlc2VtYmxlIHRoaXMgd29ycnk=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+300 / 690
+cGFyYWRlIG1hdHJpeCBzdW1tZXIgYmVsaWV2ZSBiYW5hbmEgYXBwcm92ZSBvbWl0IGZvcndhcmQgdW5pdCByYWNrIHRvc3Mgc2F5ICBjaHVja2xlIHNpdHVhdGUgZGVmeSBzaGlwIGRpcmVjdCBhcG9sb2d5IGxpZ2h0IGVpZ2h0IGd1aWx0IGtuZWUgZGVudGlzdCBhZG1pdA==
+
+301 / 690
+cGFyYWRlIG1hdHJpeCBzdW1tZXIgYmVsaWV2ZSBiYW5hbmEgYXBwcm92ZSBvbWl0IGZvcndhcmQgdW5pdCByYWNrIHRvc3Mgc2F5
+BS = 0.000000000000018223
+T = 79
+
+302 / 690
+Y2h1Y2tsZSBzaXR1YXRlIGRlZnkgc2hpcCBkaXJlY3QgYXBvbG9neSBsaWdodCBlaWdodCBndWlsdCBrbmVlIGRlbnRpc3QgYWRtaXQ=
+E = 0.000160752000008284
+BS = 0.00000000000000156
+Py = 0.000000000000024002
+T = 638
+S = 9
+
+303 / 690
+YXhpcyB0cnVtcGV0IGxhdmEgZ3JhcGUgaGlwIGV4dGVuZCB0dXJ0bGUgZXZva2UgdG9tb3Jyb3cgdGl0bGUgY3J5c3RhbCBwZW5jaWw=
+BS = 0.000000000000011563
+T = 8
+
+304 / 690
+aG9ybiBzdGF5IHRvZGF5IGNhc3RsZSBhZXJvYmljIHdvb2QgZGVjZW1iZXIgZWxldmF0b3IgdW5pZm9ybSBzeW1ib2wgaW5zcGlyZSBwZXBwZXI=
+BS = 0.000000000000020746
+Py = 0.000000000000014167
+T = 162
+
+305 / 690
+cmVwbGFjZSBmaXNoIHN5bWJvbCByaW5nIHZlcnNpb24gc25hY2sgZmxvY2sgY3VydmUgZmVlZCBsdW5jaCBzaWdodCB0cmVuZA==
+T = 3
+S = 1
+
+306 / 690
+c2hlbGwgc2NhbGUgZ2lnZ2xlIG11c2V1bSBpcm9uIG5pY2UgcHVycG9zZSBjaGFvcyBrYW5nYXJvbyBjcnVtYmxlIHJlZ3VsYXIgc3RhZmY=
+
+307 / 690
+dW5hYmxlIHBob3RvIGhvb2QgdGFja2xlIHVyZ2Ugam95IGZpbmQgZGlhbW9uZCBjb3N0IHNhdXNhZ2UgcmluZyBzd2FybQ==
+E = 0.00000000031536947
+BS = 0.000000000000005054
+T = 269
+
+308 / 690
+anVtcCBzdHVmZiBicmFuZCB3YXNwIHByb3ZpZGUgbWlzdGFrZSBnb3JpbGxhIHRyaWdnZXIgZGlubmVyIHBlYW51dCBleHBvc2UgaW5zdGFsbA==
+BS = 0.000000000000006007
+Py = 0.000000000000068002
+T = 792
+
+309 / 690
+dG9waWMgYml0dGVyIHJlc2VtYmxlIGxpa2UgZmF0aGVyIG1vbSBlbXBvd2VyIGtpZG5leSBhdmVyYWdlIGJpdHRlciB0aG91Z2h0IGdsYWQ=
+E = 0.00000000000000888
+BS = 0.000000000000018834
+Py = 0.000000000000030641
+T = 1523
+S = 1
+
+310 / 690
+c2V0dGxlIGplYW5zIGhvcm4gZ3JvdXAgYXJjaCBidWlsZCBwaXBlIHRvdGFsIGZsYWcgcHJldmVudCBzcXVlZXplIGJlZm9yZQ==
+BS = 0.000000000000019223
+Py = 0.000000000000031083
+
+311 / 690
+ZW5vdWdoIG1hdHRlciB0YXNrIGRldm90ZSB1c2VsZXNzIGdyaWQga2V0Y2h1cCBncmF2aXR5IHJlbW92ZSBtaW1pYyBicm9uemUgY291Y2g=
+
+312 / 690
+dGltYmVyIHRvbWF0byBib3R0b20gZ3JvdyBzbGFtIG5lZ2F0aXZlIGltcHJvdmUgZ3VpZGUgbHlyaWNzIHJldGlyZSBrZXkgY2Fub2U=
+BS = 0.000000000000015223
+Py = 0.000000000000011
+T = 2
+S = 2
+
+313 / 690
+YmVhY2ggd29ydGggYmFzZSBjYW5keSB0b3dhcmQgcmFiYml0IG9jY3VyIGRlYWwgcHJpbnQgd2FsbCBoZWxsbyBmZWVk
+
+314 / 690
+Y29taWMgYmVuZWZpdCBmcmluZ2Ugc3F1YXJlIGxha2Ugc291dGggaHViIGNvdW50cnkgYW5rbGUgdGFsZW50IGNsb3VkIGNhdXNl
+BS = 0.000000000000016223
+T = 15
+
+315 / 690
+ZGViYXRlIGZpeCB0d2ljZSBjYWtlIHByb3RlY3Qga25pZmUgbGVucyBicnVzaCB1Z2x5IHlvdW5nIHNlbGwgdmlkZW8=
+BS = 0.000000000000015023
+T = 72
+
+316 / 690
+Z2x1ZSBzcGVjaWFsIGdyZWF0IHZlcmIga2VlbiBkcmluayBzaWVnZSB0b3J0b2lzZSB6b28gc2VjcmV0IGhvbmV5IHRvZ2V0aGVy
+
+317 / 690
+ZW1wdHkga2l0dGVuIGFybWVkIG1vbnRoIHNob2NrIGxlaXN1cmUgcmliYm9uIG5hcnJvdyBtYWluIGtpd2kgbWludXRlIGhhdmU=
+
+318 / 690
+c3F1ZWV6ZSBwb2ludCBhbHBoYSBwcm9vZiB0b290aCBhYnNlbnQgZXh0cmEgY2FuYWwgc3RpbGwgbWVtb3J5IHN3b3JkIHZhY2FudA==
+E = 0.00000000000001263
+
+319 / 690
+ZHVuZSBmaWx0ZXIgZXh0ZW5kIGludml0ZSBmaWxtIHNvbGRpZXIgZGlzcGxheSB0b3AgYmFycmVsIGV2aWwgaGF6YXJkIHNhZmU=
+T = 23
+
+320 / 690
+aW5qdXJ5IGJldHJheSBzbG90IHNpeCBob2xlIHBhcmVudCB3ZXQga2l0IHBob25lIGxha2Ugcm90YXRlIGFjdA==
+BS = 0.000000000000015899
+
+321 / 690
+c3ByZWFkIGp1bmdsZSB1bmlmb3JtIGZvYW0gY2xlYW4gYWRkIHlvdW5nIHNwb29uIGRpc3BsYXkgbGFiIGRvb3IgcGFycm90
+
+322 / 690
+ZGFuY2Ugc2Vuc2UgYmxlYWsgcmFtcCBleGNpdGUgc3BsaXQgb3JpZW50IHN0dWRlbnQgbWVsb2R5IGVubGlzdCB0cnVseSB0aHJlZQ==
+BS = 0.000000000000003993
+Py = 0.000000000000008334
+T = 189
+
+323 / 690
+d29ycnkgY2xhcmlmeSB0b2FzdCBleWVicm93IHN0b29sIGF1Y3Rpb24gcHVyY2hhc2UgbmV0IHRpcmVkIGFib3ZlIGRlc2NyaWJlIGNhcmQ=
+Py = 0.0000000000000001
+T = 15
+
+324 / 690
+b2ZmZXIgbGVnZW5kIGRyYW1hIHNvdW5kIGJsdXNoIGVuZGxlc3MgY2xlcmsgbnVjbGVhciBlbXB0eSBidW5rZXIgc2NhbiBheGlz
+BS = 0.0000000000000006
+Py = 0.000000000000028333
+T = 17
+S = 2
+
+325 / 690
+cmlkZ2UgdGFzayBjcmlzcCBzaWVnZSBjbGVhbiB0YXhpIGhvbGQgbWFudWFsIG51dCBjb21mb3J0IGxvZ2ljIGJhZGdl
+
+326 / 690
+YmFsYW5jZSBjdXAgaG9sbG93IGZpZ3VyZSB1c3VhbCBsZWFkZXIgZmFudGFzeSBwcm91ZCBhY3QgZnVubnkgdm9jYWwga2lkbmV5
+BS = 0.000000000000006106
+Py = 0.000000000000022636
+T = 4
+
+327 / 690
+bHVuY2ggbmljZSBhYnN0cmFjdCBhYmxlIGJlZm9yZSByZWd1bGFyIGVsZWN0cmljIHBpenphIG5hcGtpbiBjYW1lcmEgd2FpdCBzaXN0ZXI=
+
+328 / 690
+dmFjdXVtIGF3YXkgZ2VzdHVyZSBkZWZpbmUgY2FzaW5vIHZvbGNhbm8gamVhbG91cyBzZWFyY2ggYXJlbmEgdXNlbGVzcyB5b3V0aCB3ZWI=
+
+329 / 690
+cGF0cm9sIHN1Y2Nlc3MgaHVyZGxlIHRhbmsgdHVuYSBwYW50aGVyIG9yYml0IGZpeCBkZWFsIGZpbG0gYnVuZGxlIGFycmFuZ2U=
+Py = 0.000000000000009734
+
+330 / 690
+cG93ZXIgc3BlYWsgZWFzdCBkZXRhaWwgcGl0Y2ggZGViYXRlIHBhZ2Ugc29saWQgcG9pbnQgeW91IGNhcnQgY2lubmFtb24=
+
+331 / 690
+ZG9tYWluIG5vb2RsZSBob3JzZSBzbGVuZGVyIGtpdGUgYnJpY2sgY2F0YWxvZyBwb3NzaWJsZSByZWxlYXNlIGNhbm9lIGJ1bmRsZSB0cmF5
+
+332 / 690
+b2x5bXBpYyBhbm90aGVyIGF1Z3VzdCBzaGVkIHN0YWJsZSBzdGF0ZSBzZWFzb24gdXNlIHBhdXNlIGJsZXNzIGNyaXNwIHJpZGU=
+
+333 / 690
+Y29uZmlybSBhdWN0aW9uIGp1bmdsZSBwYXRoIGdlbmVyYWwgY3JhZnQganVuZ2xlIHVuaGFwcHkgYW5pbWFsIGNhdXNlIHRyZWUgc3VyZQ==
+
+334 / 690
+bXl0aCBsaWtlIGJvbnVzIHNjYXJlIG92ZXIgcHJvYmxlbSBjbGllbnQgbGl6YXJkIHBpb25lZXIgc3VibWl0IGZlbWFsZSBjb2xsZWN0
+E = 0.000003620684815942
+BS = 0.00000000000201508
+T = 61
+
+335 / 690
+cm91dGUgaW50ZXJlc3QgY2l0eSBzZXJ2aWNlIGJlYXV0eSBuYXRpb24gdHVpdGlvbiBjYXJkIHN0YWRpdW0gY2x1YiB0aGVuIHNsdXNo
+
+336 / 690
+ZXhoYXVzdCB0dXJ0bGUgc2lsbHkgcHJldHR5IGZvZyBtaWRuaWdodCBlbmFjdCB0aHJvdyBqb3VybmV5IG5lcGhldyBhbmltYWwgcmV3YXJk
+Py = 0.000000000000007334
+
+337 / 690
+am9pbiBleHBvc2UgbW90b3IgaG91ciBsYWRkZXIgYWdlbnQgYXJyZXN0IHB1dCB1c2FnZSBleHBpcmUgbWVkaWEgbXVzaWM=
+
+338 / 690
+c2hpZWxkIGV4aXQgYmVoaW5kIHJlcG9ydCBpdm9yeSB0d2ljZSBqdW5nbGUgc2xhYiByYWRhciBlcXVpcCBtb2JpbGUgZnVu
+Py = 0.000000000000013
+
+339 / 690
+amF6eiB1bmhhcHB5IG5lZWQgY3JhZGxlIGludm9sdmUgZHJhbWEgbXVzZXVtIHdhcm0gc2VsZWN0IHBhZGRsZSBlcXVpcCB3aXNl
+E = 0.000000000000009294
+
+340 / 690
+d2VhbHRoIGJ1bmtlciBqYXIgZnJpbmdlIGxlYXZlIGFsY29ob2wgbGlicmFyeSBuZXV0cmFsIG9wcG9zZSBwaHJhc2UgdGF0dG9vIGVtcHR5
+
+341 / 690
+aXNsYW5kIHJlY2lwZSBiZW5jaCBwcm9qZWN0IGV4aXQgYmxvc3NvbSBnb29zZSBndWlsdCBpbnRvIHNpcmVuIGlsbCBjaGFvcw==
+
+342 / 690
+bWFuYWdlIGludGVyZXN0IG1vdGhlciBsaW1pdCBtZWFkb3cgcm95YWwgYWJhbmRvbiBmYWNlIHZpc3VhbCBmYWNlIHRpcCBzdXJmYWNl
+
+343 / 690
+ZmluYWwgZGlzaCBzb3VyY2UgY2FyIGZhdCByYXcgZ2xpZGUgZmVlIGZsb2F0IHdhcm0gY2F0IGJlaGF2ZQ==
+Py = 0.000000000000009
+
+344 / 690
+cGlhbm8gdG93ZXIgc3BlbGwgaW5oYWxlIGRyYW1hIGluc2lkZSBlbHNlIHF1YXJ0ZXIgcXVhbGl0eSB2ZWx2ZXQgc21hbGwgZml0
+E = 0.00000000000098475
+BS = 0.0000109450000007
+
+345 / 690
+cmV0cmVhdCBicmFpbiBtYXRoIGFyY2ggdmFndWUgdHJpY2sgcGF1c2UgY2xvdGggYWNjdXNlIG9uZSBlbnZlbG9wZSBpbnNhbmU=
+E = 0.000000000000004
+T = 2
+
+346 / 690
+YnJhdmUgbGF5ZXIgYmlrZSBzb3J0IHJhdGhlciBpbnNlY3QgaW5jcmVhc2UgZ2F6ZSBzYXkgd2VhcG9uIHRpcCB1cHNldA==
+
+347 / 690
+Y3JpbWUgd29uZGVyIGhvbGxvdyByaW5nIGhlYXJ0IGZpYmVyIHJhdGhlciBwb3dlciBkZWNyZWFzZSB1bmNvdmVyIG90aGVyIGF0dHJhY3Q=
+
+348 / 690
+dmVyeSByZWd1bGFyIGxhdyBhcm0gZXhwaXJlIHdpbmcgYXdhcmUgc2hpZWxkIGVuYWN0IGJ1YmJsZSBlbmQgY2xpbmlj
+
+349 / 690
+KyBeXmR1dGNoICsgXl5maWJlciArIF5eZm9nICsgXl5wYXJyb3QgKyBmb3JrIGV4cGVjdCBlYXN5IGxha2UgcG9zc2libGUgZ29hdCBzaW5nIHNvbmcgdGhlbiBtb3JlIHRoZXJlIHdpbGwgYWxzbyB1cGRhdGUgd2ludGVyIHJvdW5kIG1hcmtldCBzZWFzb24gYXRvbSBzcG9uc29yIGx1Y2t5IGNhdHRsZSBsaXZlIGZvcmVzdCB3b29kIG9ubHkgYmVjYXVzZSB0aGVyZSBoZWFsdGggaHVudCBsaWtlIHJpYiByb2FzdCBkaW5uZXIgZnJlc2ggd29yZCBzZWVk
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+350 / 690
+d2FpdCByaWZsZSBmaWVsZCBzb2FwIGZvcmdldCBtb3NxdWl0byBhcnJhbmdlIHN0cmF0ZWd5IGhpbGwgcG9sZSBsZXNzb24gZWZmb3J0
+
+351 / 690
+dG9wcGxlIGtleSBtZXRob2QgcG90YXRvIHRvbmUgdGhhbmsgc3ByYXkgZW1icmFjZSByYWRpbyBmZW1hbGUgY2xpY2sgc2hvdWxkZXI=
+
+352 / 690
+cHVscCBob3N0IHBvb2wgc2VsZWN0IGJlZm9yZSB0eXBlIGFoZWFkIGV4aXN0IGJyaW5nIHJpYiBhYm91dCB0aGluZw==
+
+353 / 690
+ZGVlciBsZWFybiBlbmVyZ3kgcmVxdWlyZSBzaXR1YXRlIGRlY2VtYmVyIGNpbm5hbW9uIGdyZWVuIGNsaXAgZ2xhc3Mgc29uZyBkcmFmdA==
+BS = 0.000000000000003265
+
+354 / 690
+Z2l2ZSBzb2NrIHdoZW4gYXZlcmFnZSB3b3JyeSByYWNrIG9wZXJhIGRpc3RhbmNlIHBhdGggd3Jlc3RsZSBwYXBlciBjbGV2ZXI=
+
+355 / 690
+c2F0b3NoaSBtZXNzYWdlIHNpZ24gd29ydGggY29tbW9uIGRhbWFnZSBtZXRob2QgZ2FpbiBzaGFyZSBsb3VuZ2UgcHVycG9zZSBjbGVhbg==
+
+356 / 690
+YW1hdGV1ciBlbGVnYW50IHNuYWtlIHBpenphIHJlZ3JldCBwcm9jZXNzIGpveSBncnVudCBnb2RkZXNzIGNsb2cgYWJvdmUgc2xvdA==
+
+357 / 690
+aGVybyBzdG92ZSBmdXJuYWNlIHdpbm5lciBodW5ncnkgYWZyYWlkIHByaW1hcnkgc2NyaXB0IHRocml2ZSBzZWFzb24gZmV0Y2ggdGVhY2g=
+E = 0.000000000000010627
+BS = 0.000000000000000223
+T = 37
+
+358 / 690
+YnJvb20gZmVicnVhcnkgcG92ZXJ0eSBkcmlmdCBpbGxlZ2FsIGh1bnQgYWNjdXNlIG9hayBwYXBlciBsb2NhbCBjcmFmdCBkZWNhZGU=
+BS = 0.0000000000000006
+
+359 / 690
+YXNzYXVsdCBzaGVsbCBuaWdodCBtYXhpbXVtIHZlcmlmeSB1c2VsZXNzIHRyYWluIGRhbXAgZGlhZ3JhbSB3b25kZXIgdG9tYXRvIGltcGFjdA==
+
+360 / 690
+YnJlZXplIGluaXRpYWwgcGhvbmUgYW1hemluZyBpbm5lciBhbGllbiBjYWdlIGlkbGUgY2h1bmsgaGlzdG9yeSB3aWxsIHRhZw==
+T = 2
+
+361 / 690
+ZGlzaCBuaWNlIGJsYW1lIGp1bXAgb2FrIGFwcGVhciBpbmNvbWUgcGlhbm8geWVhciBjZXJ0YWluIHBldCBnYWRnZXQ=
+
+362 / 690
+c29uZyB2YWN1dW0gZm9pbCBnbGltcHNlIGluamVjdCBsYXZhIGx1eHVyeSBjbGFwIGJvbmUgbW90aW9uIGl2b3J5IHRyYWNr
+
+363 / 690
+Y2Fycnkgc29jY2VyIGx1bWJlciBhY3R1YWwgd2FycmlvciBjcnVzaCBvem9uZSBtb3NxdWl0byBlbnRyeSBlbnRpcmUgZ29vZCB3cmFw
+BS = 0.000000000000001122
+T = 14
+
+364 / 690
+Y29uY2VydCBib251cyBnbG9vbSBleHBlY3QgY2hlcnJ5IGRvY3VtZW50IGx1bmFyIGZsdWlkIGhvcGUgYmVsdCBmdW4gaGVhZA==
+
+365 / 690
+em9uZSBsaWFyIG1heGltdW0gaG9wZSBpbXB1bHNlIGVxdWlwIGRvc2Ugam9iIHNwZWFrIHNvdW5kIHdyZWNrIHN0ZXJlbw==
+
+366 / 690
+dGF0dG9vIGFyZW5hIGZpZ3VyZSB0aWdlciBxdWl6IHRvbmUgbWFzcyB1bnZlaWwgY2FwdGFpbiBvaWwgYXR0cmFjdCB3YWdl
+
+367 / 690
+Y29yZSBzZW1pbmFyIHN3ZWFyIHNlbmlvciB0d2VudHkgcm91dGUgaW5zYW5lIHdvbGYgY2xvc2UgaW5zcGlyZSBvY2N1ciB0aHVtYg==
+
+368 / 690
+cGVvcGxlIGF2b2NhZG8gcHVscCBwcm9vZiBwaHJhc2UgZXZpbCBsb25lbHkgZ3JvdyBjcmltZSBzd2ltIGN1dGUgbWVjaGFuaWM=
+
+369 / 690
+YnJhbmQgaG90ZWwgZXZpbCByZWJ1aWxkIHNjYW4gbGFtcCBwYXRjaCBsaW1iIHVwcGVyIGVsZWN0cmljIGNsdXN0ZXIgY2x1bXA=
+
+370 / 690
+ZHJpdmUgY3J1Y2lhbCByZW9wZW4gcm9tYW5jZSBzcGhlcmUgem9uZSB0dW5hIHNoaW5lIHByb3ZpZGUgdmlsbGFnZSBtb3NxdWl0byBzdXBwbHk=
+
+371 / 690
+Y3JhZnQgc2V0dGxlIGdyYXNzIGJldHRlciBjb29sIGRlc3Ryb3kgb2xkIHRvcmNoIHNraW4gZG9ub3IgcmV2aWV3IGNoYW5nZQ==
+BS = 0.0000000000000008
+
+372 / 690
+dGF0dG9vIG11c2V1bSBzbWFsbCBlbnRlciB0b3JjaCBpZGxlIHBsYXRlIGRlYmF0ZSBvd25lciBzcGxpdCBhd2t3YXJkIHJhcmU=
+
+373 / 690
+Y3Jhc2ggY3VsdHVyZSBvbmNlIGJ1cyBkcmlwIGxvY2sgbWVudSBvZmZpY2UgdGhlbWUgcmFsbHkgbGFtcCByZWx5
+
+374 / 690
+amVhbG91cyBibGFjayBnbG9yeSB3cmVjayByZXF1aXJlIG1haWwgc2FmZSBhZXJvYmljIGJhc2tldCByZWx5IGFsbCBjaGF0
+
+375 / 690
+ZWFnbGUgaWRlbnRpZnkgZ2xvYmUgc2luY2UgcGlnZW9uIG1vb24gZmFicmljIGVudmVsb3BlIHN3YWxsb3cgdmlzdWFsIG1pbm9yIGNlbnR1cnk=
+BS = 0.000000000000017899
+
+376 / 690
+aWNlIHNoaXZlciB3aW5lIGFwcHJvdmUga2ljayBzaG92ZSB2YWd1ZSBiZW5lZml0IGV4Y2VzcyBob2xkIGxvdHRlcnkgY2FuYWw=
+E = 0.0000000000000005
+BS = 0.000000000000005094
+Py = 0.0000000000000066
+T = 2
+
+377 / 690
+Y2h1bmsgZ2lmdCBwcm9zcGVyIGRyYWZ0IGdyYWNlIGRhbmNlIHdvcmsgYmlkIGJyYW5kIGJ1enogcGFudGhlciBzdW5zZXQ=
+
+378 / 690
+cGxlZGdlIGNsYWltIHNhbWUgcG92ZXJ0eSBkcnkgbHlyaWNzIHR1bm5lbCB3aXNlIHdpbGwgc3RhZmYgbGVpc3VyZSB1bmRlcg==
+Py = 0.00000000000001755
+
+379 / 690
+aW50YWN0IHN0eWxlIG9hayBhbGFybSBiZWdpbiByYXZlbiBhc3BlY3QgbGVhZGVyIGNhcmQgZnJpZW5kIHdoZXJlIHJhZGlv
+E = 0.000000000000002214
+BS = 0.000000000000003372
+Py = 0.000000000000029529
+T = 133
+
+380 / 690
+d2VhbHRoIGdyYW50IGNvYWNoIGNoZXJyeSBzdXNwZWN0IGp1aWNlIGl2b3J5IGR1c3QgaG91ciBpY2UgcmVtaW5kIGZyaW5nZQ==
+BS = 0.00000000000000371
+Py = 0.000000000000013603
+T = 80
+S = 2
+
+381 / 690
+aW50YWN0IHN0eWxlIG9hayBhbGFybSBiZWdpbiByYXZlbiBhc3BlY3QgbGVhZGVyIGNhcmQgZnJpZW5kIHdoZXJlIHJhZGlvIHdlYWx0aCBncmFudCBjb2FjaCBjaGVycnkgc3VzcGVjdCBqdWljZSBpdm9yeSBkdXN0IGhvdXIgaWNlIHJlbWluZCBmcmluZ2U=
+
+382 / 690
+bGFrZSBlYXJuIHNoaWZ0IHZlcmlmeSBvYmxpZ2Ugem9vIG5hcnJvdyBjYWN0dXMgbXVzY2xlIGNyaWNrZXQgcGxhc3RpYyBncmFwZQ==
+
+383 / 690
+c2ltaWxhciB0aHJpdmUgcmV3YXJkIGlyb24gc3VjY2VzcyBjaGFyZ2UgcGlsb3QgYW1hemluZyBsdW1iZXIgZ3JhY2UgcmVvcGVuIGphcg==
+
+384 / 690
+dW51c3VhbCBhbnRlbm5hIHBvc3Qgc29vbiBlcm9zaW9uIGxlYWRlciBwYW5lbCBtb3VudGFpbiBmaXJzdCBlcnJvciB0aGF0IGRvY3Rvcg==
+
+385 / 690
+c2lyZW4gbGFkeSBkb25hdGUgd2hlbiB2ZWx2ZXQgc2tpIHdpbGQgZGVjcmVhc2UgaW5mbGljdCBwdXJzZSBhYmFuZG9uIGRlcGFydA==
+
+386 / 690
+dW5sb2NrIHNraW4gdHJhaW4gZnJvc3QgcGFyayBjcmFjayBzdGF0ZSBhbW9uZyB1bmZvbGQgbnV0IGNyb3VjaCBhcnJhbmdl
+
+387 / 690
+ZXllYnJvdyBibGFua2V0IGFzdGhtYSB0aXNzdWUgb3lzdGVyIHJvc2UgZmxvYXQgY2hhc2UgYW5ncnkgcGFuaWMgcnVkZSBlYWdlcg==
+
+388 / 690
+bGVucyB3aGVuIGRvY3RvciBjYW5vZSBlcm9kZSBhbGwgdXNlbGVzcyBpbnNlY3QgbGF5ZXIgZW5qb3kgY2FyZCBiaXJk
+
+389 / 690
+bGltYiBhbW91bnQgd2luIGtpd2kgcG9ueSBhcm1lZCBzZWVkIGdhcmFnZSBjbGlmZiBzdHVmZiBzbmFwIG1pZGRsZQ==
+
+390 / 690
+cHVtcGtpbiBnbGFkIHN0b2NrIHNhdmUgZG9nIHNhbGFkIHNwb3QgbW9yZSBwb2xlIHNhZmUgYW54aWV0eSBhY3Jvc3M=
+
+391 / 690
+ZXhhbXBsZSB3YXJmYXJlIHByb3BlcnR5IGNhZ2Ugc2Vuc2Ugd2FzcCBhbXVzZWQgZmxvYXQgaW1pdGF0ZSBhcGFydCBkZW50aXN0IGRhbXA=
+
+392 / 690
+cHV0IGZpYmVyIGxpc3QgbWFnbmV0IG91dHNpZGUgZW5kbGVzcyBob3JuIGJpa2UgY29uZmlybSB0YWlsIGlsbGVnYWwgc3VycHJpc2UgYmFyZ2FpbiBjYWdlIGFjY2lkZW50IHNlZWQgZXhvdGljIHN0aWNrIGdyaWVmIHRvbmd1ZSBwb2VtIHRvaWxldCB0YWcgdG9w
+
+393 / 690
+YnJvdGhlciBsaW5rIHNsZW5kZXIgcmVsaWVmIHNpbWlsYXIgY3J1Y2lhbCBicmFpbiB0d28gbWVzc2FnZSBnaWFudCBzaW1pbGFyIGdsYW5jZQ==
+
+394 / 690
+bWlzdGFrZSBjb25zaWRlciBjaGFvcyBuZXBoZXcgc2FsdXRlIGJhbWJvbyBlbmhhbmNlIGh1bmdyeSByZXNlbWJsZSBpbnNpZGUgam91cm5leSBzdXN0YWluIGlzb2xhdGUgcmVmb3JtIHdhc3AgY29ubmVjdCByZW9wZW4gaW50ZXJlc3QgcG9ueSBsZWN0dXJlIGRvbmF0ZSBwb3NpdGlvbiBjcmFjayB1bmtub3du
+
+395 / 690
+cmVmb3JtIHBvc3NpYmxlIHR1YmUgdW5kZXIgZXZpbCBtYWduZXQgd29ycnkgc3R1ZmYgc3BpZGVyIGNvcnJlY3QgaW5zYW5lIHdyaXRl
+
+396 / 690
+YXVjdGlvbiBicnVzaCBwdWJsaWMgYXVndXN0IHRhZyBjcmFkbGUgc3ltcHRvbSByYWJiaXQgZ2hvc3QgdXRpbGl0eSB0cm9waHkgZmx1aWQ=
+
+397 / 690
+bmVwaGV3IHN0aW5nIGRyaWxsIGRlbWlzZSBlYXJseSBzZW5zZSBjb2FzdCBjdXRlIGJpbmQgcmliYm9uIHBhc3MgZGlzb3JkZXI=
+
+398 / 690
+Y29udmluY2UgcmVtZW1iZXIgcHVyaXR5IGNvbnZpbmNlIHJhdGUgcmVsaWVmIGJlbG93IGpld2VsIGZyYWdpbGUgcmVncmV0IHNjcmVlbiBiZWZvcmU=
+
+399 / 690
+ZXZpbCBjYW5keSBwdWJsaWMgY29hc3Qgc3RvbmUgdGVubmlzIG1pbmltdW0gaWNvbiByaWIgZ2lyYWZmZSBzYWxvbiBzaWxr
+
+400 / 690
+ZHV0Y2ggYmVjYXVzZSB3b29kIGZpYmVyIGZvZyBsYWtlIGxpa2Ugc2luZyBhbHNvIHJvdW5kIHNvbmcgcGFycm90
+
+401 / 690
+ZHV0Y2ggYmVjYXVzZSBsaWtlIGZpYmVyIGZvZyBzaW5nIGFsc28gd29vZCByb3VuZCBsYWtlIHNvbmcgcGFycm90
+
+402 / 690
+ZHV0Y2ggYmVjYXVzZSBhbHNvIGZpYmVyIGZvZyByb3VuZCBzb25nIHNpbmcgbGFrZSB3b29kIGxpa2UgcGFycm90
+
+403 / 690
+ZHV0Y2ggYmVjYXVzZSBzaW5nIGZpYmVyIGZvZyBsYWtlIHdvb2QgYWxzbyBsaWtlIHJvdW5kIHNvbmcgcGFycm90
+
+404 / 690
+ZHV0Y2ggYmVjYXVzZSBzb25nIGZpYmVyIGZvZyBzaW5nIGxha2Ugd29vZCByb3VuZCBsaWtlIGFsc28gcGFycm90
+
+405 / 690
+ZWFybiBmbG9hdCB3aXNoIHNjYWxlIGJvcmluZyBib29zdCBuYWl2ZSBzaGllbGQgdG93ZXIgYnV6eiBzY2hvb2wgYXN0aG1h
+T = 15
+
+406 / 690
+d2VhdGhlciBjcmF0ZXIgZmF0aWd1ZSBlbmdhZ2UgZGVuaWFsIGhvbGUgdHJ1bXBldCBhY2Nlc3MgYW50ZW5uYSBnYXRoZXIgd3JlY2sgdGhyb3c=
+BS = 0.0000000000000001
+
+407 / 690
+bWFya2V0IGNydW5jaCBoZWFkIHN1cHBseSBuYXR1cmUgYmFjb24gZHJpZnQgYWNpZCBsb2dpYyBnb2xkIHNvdXJjZSBtYW5nbw==
+
+408 / 690
+bWFzayBjb3ZlciBpbnNhbmUgc2NyYXAgYnVyZGVuIHBlYW51dCB3b3JsZCBub3cgbWVycnkgcmVjeWNsZSBoYXQgZmF0aGVy
+
+409 / 690
+am9pbiBkcmFmdCBjaW5uYW1vbiBwYXBlciByaXBwbGUgdmFndWUgc2xpZGUgcmFsbHkgYWNyb3NzIGRhd24gZGV2ZWxvcCB0cmFjaw==
+E = 0.000000000000019203
+BS = 0.000000000000003128
+Py = 0.000000000000049006
+T = 699
+
+410 / 690
+ZW5lbXkgcmVsZWFzZSB3cmFwIGRhdWdodGVyIGluZG9vciBmYW50YXN5IGVyb3Npb24gdGFpbCB0aHJlZSBjYXR0bGUgZ3JhYiB0d2lu
+E = 0.000000000000013944
+BS = 0.000000000000012256
+T = 286
+
+411 / 690
+YnJvdGhlciBveXN0ZXIgaWdub3JlIHBpbG90IGZyb3plbiB0b2tlbiBydWcgYmFuYW5hIG9hayBhbmdlciBjdXJpb3VzIHNlZWQ=
+BS = 0.0000000000000008
+T = 36
+
+412 / 690
+b2Z0ZW4gb3JkZXIgYWJsZSBmYW1vdXMgY2FycGV0IGJ1cmdlciBmYXVsdCByb21hbmNlIGRvY3VtZW50IGtub2NrIHdlaXJkIGZsb2Nr
+Py = 0.000000000000010501
+
+413 / 690
+YXJteSB2YW4gZGVmZW5zZSBjYXJyeSBqZWFsb3VzIHRydWUgZ2FyYmFnZSBjbGFpbSBlY2hvIG1lZGlhIG1ha2UgY3J1bmNo
+E = 0.00000000000002424
+BS = 0.00000000000001651
+Py = 0.0000000010000001
+T = 237
+
+414 / 690
+cG9pbnQgYm9vc3QgdmljdG9yeSBjcmVhbSB2aWV3IGNvcnJlY3QgdHJ1dGggdG9nZXRoZXIgbWVudGlvbiByZWNlaXZlIHN3aW5nIHNjcmlwdA==
+BS = 0.000000000000003
+
+415 / 690
+d2FsbGV0IGNodWNrbGUgc2l0dWF0ZSBkZWZ5IHNoaXAgZGlyZWN0IGFwb2xvZ3kgbGlnaHQgZWlnaHQgZ3VpbHQga25lZSBkZW50aXN0IGFkbWl0IHdhbGxldCB1bmFibGUgcGhvdG8gaG9vZCB0YWNrbGUgdXJnZSBqb3kgZmluZCBkaWFtb25kIGNvc3Qgc2F1c2FnZSByaW5nIHN3YXJtIHdhbGxldCBqb2luIGRyYWZ0IGNpbm5hbW9uIHBhcGVyIHJpcHBsZSB2YWd1ZSBzbGlkZSByYWxseSBhY3Jvc3MgZGF3biBkZXZlbG9wIHRyYWNrIHdhbGxldCBjYW55b24gY3JldyByb3lhbCBkcmFnb24gbGF5ZXIgZHJpdmUgZXJvc2lvbiBzbG90IHN1c3RhaW4gZGVjZW1iZXIgYXBvbG9neSBob21lIHdhbGxldCBjaGF0IGZyb2cgamFja2V0IHNob290IGhpc3RvcnkgYmV0d2VlbiBmbG9jayBnaWZ0IGRldmljZSBhZG1pdCB0b3NzIG1vZGlmeQ==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+416 / 690
+dG9pbGV0IGNoYWxrIGJyaWdodCBoaW50IHdyZWNrIGNhcnQgYXVjdGlvbiBjZWlsaW5nIHNsYWIgY29ybiBhZGRyZXNzIG5lZ2F0aXZl
+
+417 / 690
+ZG9jdW1lbnQgZGFtcCBhbGxvdyBnbGlkZSBjb3JlIGdvdmVybiBuZXQgYnV5ZXIgbW92aWUgYWRkcmVzcyB2ZW5kb3IgZW5nYWdl
+BS = 0.0000000000000001
+T = 1
+
+418 / 690
+aXNzdWUgZmxhbWUgc2FtcGxlIGx5cmljcyBmaW5kIHZhdWx0IGFubm91bmNlIGJhbm5lciBjdXRlIGRhbWFnZSBjaXZpbCBnb2F0
+BS = 0.000000000000005412
+T = 57
+S = 3
+
+419 / 690
+Ym9ycm93IHJhdmVuIHByb2Nlc3MgdHJpcCB0cnkgdmFzdCBydXJhbCBmcmVxdWVudCBkYW5jZSBsaXR0bGUgcmVtaW5kIGRhdWdodGVy
+E = 0.000000000000002
+BS = 0.000000000000002929
+T = 20
+
+420 / 690
+bWVtb3J5IG1lYW4gZnJ1aXQgYWhlYWQgZGlzbWlzcyBkb2xwaGluIG1hcmdpbiBiYWRnZSBkb2N1bWVudCBjb3B5IHJlbWluZCByZWJlbA==
+BS = 0.000000000000017126
+T = 16
+
+421 / 690
+YXJtb3Igc25ha2UgcGx1ZyBhcmVuYSBob3NwaXRhbCBmZW5jZSBncml0IG5lZ2F0aXZlIGdvYXQgY29tYmluZSBjaGlja2VuIHJpbmc=
+
+422 / 690
+Y3Jpc3AgZXhwaXJlIG1lc3NhZ2UgZ2FzcCBkaWFtb25kIGxpbWIgYm94IGNydWlzZSBzcG9ydCBqdWljZSBoaWdoIGxpZ2h0
+
+423 / 690
+aW5mb3JtIHBlb3BsZSBnYXJhZ2UgZ2xvb20gY29ubmVjdCBlbWJyYWNlIGNsdXRjaCBzb3JyeSBzdGVyZW8gYmFuYW5hIGFycmFuZ2UgY2h1bms=
+
+424 / 690
+Y2FzdWFsIHN0aW5nIG1lbWJlciBhd2t3YXJkIHBvbmQgaHViIG5vdGhpbmcgZXhpc3Qgc3BpbiBhZ2Ugd2Fnb24gaW50YWN0
+
+425 / 690
+YnVyZ2VyIGNhcHRhaW4gbXlzdGVyeSBhd2FrZSB0b25pZ2h0IHJlbHkgbXV0dWFsIHdyYXAgY3Jhenkgb3BpbmlvbiBtdWNoIGdvZGRlc3M=
+
+426 / 690
+dmVudHVyZSB0cnVzdCBjb2NvbnV0IGphciBleGN1c2UgdmVoaWNsZSBwbGVhc2UgcXVlc3Rpb24gZ2FybWVudCBkaWFyeSBvY3RvYmVyIGtldGNodXA=
+
+427 / 690
+c2hpZWxkIGFjY291bnQgcHJldHR5IHN0YWJsZSBmYW1lIHBvcnRpb24gdHJpbSBnbG9vbSBhc3RobWEgbWFycmlhZ2Ugd2hlYXQgY2x1bXA=
+
+428 / 690
+bGlzdCBuZWdsZWN0IGFpcnBvcnQgcGFsYWNlIHJldmVhbCBkaXZvcmNlIHdhbnQgZ2xpZGUgZ2F1Z2UgY3JhdGVyIG1lcnJ5IGZpdG5lc3M=
+
+429 / 690
+dGlwIGpvYiBtYWluIGN1c3RvbSBkaXN0YW5jZSB0dXJrZXkgaW5xdWlyeSBuZXh0IGRpc21pc3MgcG93ZXIgY3JvdWNoIHNoYXJl
+
+430 / 690
+ZHJpcCBkZXNwYWlyIGZpbmlzaCBicmVlemUgbWFpbiBjYW4gcGFydHkgYnJpZWYgaGFiaXQgaW5mb3JtIHB1cnBvc2UgcGF0dGVybg==
+
+431 / 690
+cnVsZSBoaXJlIHRhZyBmb2cgaG9wZSBzcXVpcnJlbCBibGluZCBwbGF0ZSBldm9sdmUgY2xpcCBib2FyZCBvZmZpY2U=
+
+432 / 690
+bWVtb3J5IHdlZWtlbmQgd2luZG93IG5lY2sgZGlub3NhdXIgcm9idXN0IHRyZWUgYmxhbWUgb3BlbiBleGhpYml0IHB1bGwgc291bA==
+
+433 / 690
+cHVycG9zZSBjb25uZWN0IGNoZWFwIGFpcnBvcnQgcGxhbmV0IHByYWlzZSBoeWJyaWQgbnVjbGVhciBnYXRoZXIgY2l0eSBjaGVmIHBlYXI=
+
+434 / 690
+cGljbmljIHBsYWNlIHRvcGljIGVzY2FwZSBzdGVtIGNhciByZXBhaXIgcm9idXN0IGNhdXRpb24gZXF1YWwgbm92ZWwgbGVpc3VyZQ==
+
+435 / 690
+YWR2YW5jZSByZXRpcmUgY2hhc2UgbW9uc3RlciBtaWxrIGxlbmd0aCBwdWxzZSBhcHBsZSBhd2Z1bCB0ZXh0IGF2ZXJhZ2UgY3JhY2s=
+
+436 / 690
+cmF0aGVyIGNpbm5hbW9uIHR3ZW50eSB3cm9uZyBhbnRlbm5hIGtpY2sgZ2l2ZSBkaXNwbGF5IGNyb3AgcGxlYXNlIGJsb29kIG1vZGlmeQ==
+
+437 / 690
+YW5pbWFsIHBhc3MgdW1icmVsbGEgZ2xvYmUgZGl6enkgdXNlZCBrZXRjaHVwIGRlc3BhaXIgbW92ZSBndWl0YXIgcG9vbCBsdWNreQ==
+
+438 / 690
+YnVkZHkgbmVnYXRpdmUgcm9hc3QgcG9pbnQgZW5lcmd5IHJhdGUgdG9waWMgZmliZXIgbW9tZW50IHBlYWNlIGNhbnlvbiBmYW4=
+
+439 / 690
+d2FzcCBjYXQgbGlrZSBtYXBsZSByZWZvcm0gY2VyZWFsIG5vdGljZSBlcGlzb2RlIHdoaXNwZXIgY2F0Y2ggaGVhcnQgYmFsbA==
+
+440 / 690
+cmVvcGVuIG92ZXIgbGF1Z2ggYmluZCBmbG93ZXIgZGVzayB3b3J0aCBqZXdlbCByYWlzZSBub3RoaW5nIHNraSB2aWJyYW50
+
+441 / 690
+ZXhjdXNlIGNvdW50cnkgbWF4aW11bSBhdmVyYWdlIHZhbmlzaCBhZGp1c3QgamVsbHkgdmVzc2VsIGltYWdlIHRlbm5pcyB0d28gZGFk
+
+442 / 690
+dW5pdCBkaXNtaXNzIHRvcCBiZXN0IHRpbnkgbWVsdCBob3Jyb3IgZGlhbW9uZCBib2F0IGFsd2F5cyBmYW5jeSBub29kbGU=
+
+443 / 690
+dmlydXMgaHlicmlkIGJhdHRsZSBmYWxsIGNhY3R1cyBlZ2cgc3RheSBmaXJtIHBlbmFsdHkgcHJpY2UgaHVydCBjYW52YXM=
+
+444 / 690
+Y2hpY2tlbiBuZWFyIGlubWF0ZSBkb25hdGUgd2FsayBtaXhlZCB0b2FzdCBjeWNsZSBzYXkgbWlsayBzcGFyZSBiYXJlbHk=
+
+445 / 690
+YWN0IGFycml2ZSBndWVzcyBwYXJrIHdyYXAgY2hhdCByZXNjdWUgYXNzaXN0IHBhcGVyIHN0aWNrIHNpZ24gcG9wdWxhcg==
+
+446 / 690
+cnVnIGhlYWx0aCBzdWl0IGFycm93IGdyYWluIGR1c3QgdmVuZG9yIGpvaW4gY2xvdGggc2xvdCBnbGlkZSBodW50
+
+447 / 690
+dGFyZ2V0IGJveSBodW1vciBoYXBweSBvYnRhaW4gd2lyZSBmZW5jZSBwaWVjZSBjcmF3bCBub3RhYmxlIHRydXN0IHJ1bGU=
+
+448 / 690
+dmVudHVyZSBsb2dpYyBkZXBvc2l0IHdoYWxlIGJhbGFuY2UgdHViZSBzcGFyZSBzbmFwIG1vcm5pbmcgcGFyayBwaXRjaCBtaWRkbGU=
+
+449 / 690
+cmlwcGxlIHNtaWxlIG1lcmN5IGd1YXJkIGZ1ZWwgbWFycmlhZ2UgZGVhbCBpZGxlIG1pbWljIGNhcmJvbiBsaWdodCByYXBpZA==
+
+450 / 690
+bGlvbiBjYWtlIGNsaXAgZnV0dXJlIHNvdXRoIHNhdWNlIHF1b3RlIHRvcm5hZG8gY29tbW9uIHBhcmFkZSBwaWxsIHNwZWxs
+
+451 / 690
+Y29uZ3Jlc3MgY2h1bmsgZmlybSBnYWRnZXQgc2NyZWVuIGNyYXNoIHZpYWJsZSBwcmVkaWN0IGd1biBwdXJpdHkgbGVtb24gb25jZQ==
+
+452 / 690
+YWJzb3JiIGFidXNlIGNyb3dkIHdpbiBzdGFmZiBjaHJvbmljIGhpbGwgYWxzbyBzbGFtIHNjYXR0ZXIgcG9sYXIgdGlnZXI=
+
+453 / 690
+ZGVsYXkgcmliIGJsYWNrIGl0ZW0gYnJvY2NvbGkgbGlvbiB2b2ljZSBndW4gZGFzaCBnYWluIGtpd2kgaGlkZGVu
+
+454 / 690
+dGlyZWQga2lkIHRpbnkgdG9uaWdodCB0ZW4gYWN0dWFsIG1hZCBpbmR1c3RyeSBicmF2ZSBuaWNlIGplYWxvdXMgbWFnbmV0
+
+455 / 690
+Y2FsbCB5YXJkIGdsb3J5IGR1dGNoIHdhbGsgaGFtbWVyIG5ldCBlbnZlbG9wZSByZXNlbWJsZSBnYXRlIGFnYWluIHNldHVw
+
+456 / 690
+YWlycG9ydCBtb29uIGZyZXNoIHBhc3MgZGVudGlzdCBjZXJ0YWluIG1haW4gdmljaW91cyBmZXZlciBqb2IgYXR0YWNrIHBlYW51dA==
+
+457 / 690
+ZG9vciBzaHVmZmxlIGNyYXNoIHNjYWxlIHRlbGwgYXVndXN0IGFuZ3J5IHJvdWdoIGRvY3VtZW50IGZvcnR1bmUgc2luY2Ugc2NyaXB0
+BS = 0.000000000000002897
+
+458 / 690
+c2xlZXAgc3dvcmQgbGltYiBvZnRlbiBtZXJjeSBwaHlzaWNhbCBkZXB1dHkgcGFsYWNlIGNpcmNsZSB0b2UgZ3JpZWYgZ3JhbnQ=
+
+459 / 690
+Y2F0ZWdvcnkgdG9tb3Jyb3cgc3RpbGwgYWNyb3NzIHNrdWxsIHB1bHNlIGVhc2lseSBtYXRyaXggdmlzYSByb3NlIHVua25vd24gYXdheQ==
+
+460 / 690
+ZmFuIGJhciB0b3BwbGUgZGVzZXJ0IHNheSBlZmZvcnQgY2hhaXIgbm92ZWwgY29kZSBzb3J0IGp1bmlvciBjYXJyeSBpc2xhbmQgY2F1dGlvbiBtaXJyb3IgaGVkZ2Vob2cgc3ByaW5nIHdhbnQgZXhoYXVzdCB0ZXN0IHJ1bndheSBjbG90aCByYXZlbiBzd2l0Y2g=
+
+461 / 690
+ZmFuIGJhciB0b3BwbGUgZGVzZXJ0IHNheSBlZmZvcnQgY2hhaXIgbm92ZWwgY29kZSBzb3J0IGp1bmlvciBjYXJyeQ==
+
+462 / 690
+aXNsYW5kIGNhdXRpb24gbWlycm9yIGhlZGdlaG9nIHNwcmluZyB3YW50IGV4aGF1c3QgdGVzdCBydW53YXkgY2xvdGggcmF2ZW4gc3dpdGNo
+
+463 / 690
+cHVibGljIGNvaWwgc3BsaXQgZ29vc2UgcHVycG9zZSB0cmFnaWMgc3lzdGVtIG1lZGFsIHdyaXN0IGh1bnQgdGFzdGUgc2FsdXRl
+
+464 / 690
+d2lkZSBkb2cgcHJvdWQgbWVhZG93IHNvdXAgcHVycG9zZSBnb3duIGZhZGUgbG92ZSBzaWx2ZXIgcG9saWNlIHN0b2Nr
+
+465 / 690
+bm90ZSBodW1hbiBza2lydCBwaWNuaWMgYmFjaGVsb3IgcHV6emxlIGdpcmFmZmUgc3RhdGUgdGVzdCBhcm0gb2lsIGNvbHVtbg==
+
+466 / 690
+bGlrZSBibGFzdCBidWxsZXQgYWxidW0gYXNrIGxvdWQgaWdub3JlIGZyYWdpbGUgYmFycmVsIGxlYWRlciBzaWx2ZXIgZGVzZXJ0
+
+467 / 690
+eWFyZCBzb2NpYWwgaW50byBuZXN0IGZyYWdpbGUgd3Jlc3RsZSByZXRyZWF0IGJpZCBwYWxtIG1hcnJpYWdlIHN0YWlycyBjYXN0bGU=
+T = 7
+
+468 / 690
+c3Bpa2UgcGFwZXIgb3JnYW4gYWN0cmVzcyBhbHBoYSBvYnNlcnZlIHNlcmllcyBjcnVjaWFsIGRpZXNlbCBsaXZlIGRpc2FncmVlIGFydGlzdA==
+
+469 / 690
+Zmx5IHB1c2ggY2VyZWFsIGluY2x1ZGUgb3pvbmUgcmVtb3ZlIHdoaXAgZ2VucmUgdW52ZWlsIHJ1bGUgdG9tYXRvIGRvY3VtZW50
+
+470 / 690
+bW91c2UgamVhbG91cyBhY3RyZXNzIHJlcGVhdCBnaG9zdCBnaWZ0IHZlbHZldCB0aGluZyBzdWNoIHN0cmlrZSBmYXNoaW9uIGd1aXRhcg==
+
+471 / 690
+aW1wYWN0IHN1ZGRlbiBlbnJvbGwgZXJhc2Ugc3RlcmVvIGFmcmFpZCBmaWN0aW9uIHNsZW5kZXIgc2hlZCBnYWxheHkgYmVjb21lIGNob29zZQ==
+
+472 / 690
+Y29kZSBjaGFtcGlvbiBoYW5kIHNob3VsZGVyIGhhbXN0ZXIgZmFkZSBmaXJzdCBwbGFuZXQgd2VzdCBjaGFsayBwZWFjZSBwYWdl
+
+473 / 690
+d3JlY2sgam9pbiBzcHJheSB3cmlzdCBtaXJyb3IgYmxlc3MgY3JlZGl0IGZvYW0gdGhvdWdodCBsZWdhbCBjbGF3IHN0cmVldA==
+
+474 / 690
+ZmVlIG9seW1waWMgc2FkIGFsaWVuIGdlbmVyYWwgcGVhY2UgY2hhbmdlIHRvYXN0IGFyZW5hIHNocnVnIHNvdXJjZSBjaG9vc2U=
+BS = 0.000000000000005325
+
+475 / 690
+bHVuY2ggZHJhZnQgY2FuZHkgcXVlc3Rpb24gcmVncmV0IGV4cGVjdCBicm9rZW4gZXJvc2lvbiBjYW1wIHN0YXRlIGluZGljYXRlIGFkanVzdA==
+
+476 / 690
+ZXBpc29kZSB2YWN1dW0gam91cm5leSBjYXBhYmxlIHNob2NrIHZvaWNlIHRvbW9ycm93IHRoZW1lIHJhbGx5IHN0b29sIGxhcHRvcCB0ZXJt
+
+477 / 690
+aW1wdWxzZSB0aXJlZCBsYXJnZSBjaHJvbmljIHB1c2ggZXZpbCBkb25rZXkgc2xvdCBlc2NhcGUgY2xvdWQgdmVoaWNsZSBnYWxheHk=
+
+478 / 690
+c3dpbSBib2FyZCBydWJiZXIgcHJvcGVydHkgbG9uZyBmYWJyaWMgcmFwaWQgc2NyaXB0IGVtZXJnZSBlYXNpbHkgaHVtYmxlIHRlcm0=
+E = 0.000043123872127
+
+479 / 690
+aW52ZXN0IGluZmFudCB3ZWFwb24gbWVsdCBnbGlkZSBzZWN0aW9uIGZhdGhlciBzdHVtYmxlIGZlZSByaW90IHNpcmVuIGJhY29uICoqKg==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+480 / 690
+YW5pbWFsIGV4Y3VzZSBwZWFzYW50IHNlbnRlbmNlIHN1ZGRlbiBmbGFnIG9sZCBzaG9lIHZlc3NlbCB3YW50IGNvbGxlY3QgbmFtZQ==
+
+481 / 690
+Ymxvc3NvbSBjYXIgdmlzaXQgbWVhZG93IGNhcmQgdHJheSBiZWxvdyBkZXNrIHRlYWNoIG5lZ2F0aXZlIHByb2ZpdCBjcm9zcw==
+E = 0.000000000000010745
+BS = 0.000000000000016223
+T = 15
+
+482 / 690
+YmVsdCBraWNrIHdhbGsgZ2FwIGRpYWdyYW0gc3Ryb25nIGRlYWwgYnVsYiBzcGlkZXIgc2FkZGxlIHdhbG51dCB3cm9uZw==
+
+483 / 690
+cHJpb3JpdHkgYmVsb3cgcmVzZW1ibGUgb2JzY3VyZSB2YWd1ZSBmcmVxdWVudCBibG9zc29tIHByb21vdGUgcmVudCBjaW5uYW1vbiBzeW1ib2wgbWltaWM=
+T = 13
+
+484 / 690
+YmVzdCBwaXN0b2wgZmx1c2ggdXBwZXIgcGlsbCB1bmNvdmVyIHJlYWR5IGVpZ2h0IGhvdXIgZ2F6ZSBibG9zc29tIGRlYWw=
+
+485 / 690
+anVuZ2xlIGVtcGxveSByaW5nIGRhd24gZ292ZXJuIGdvb3NlIG5hdGlvbiByYXBpZCBmaW5pc2ggcHJvdWQgam91cm5leSBib2R5
+
+486 / 690
+ZWxzZSBjYXIgZW5oYW5jZSBvZG9yIHVzdWFsIGNvbW1vbiBiZWFjaCB3aGFsZSBraWNrIGxvYW4gc2VuaW9yIGdyYXBl
+BS = 0.000028001395776559
+
+487 / 690
+YW5rbGUgbWVhc3VyZSBzbGVuZGVyIHN0YWJsZSBlcXVhbCBlcXVpcCBhcnJlc3QgZnVyeSByZWNvcmQgc2tpcnQgcmVjYWxsIG1pbmltdW0=
+BS = 0.000000000000015
+
+488 / 690
+dG9lIG1pc3MgYXJyaXZlIGJvbnVzIGdhbGxlcnkgZmFuIGxpdHRsZSB3aW5rIGFueSBrbmVlIGV4aGF1c3QgYmVsb3cgZ2xvYmUgdGhhbmsgY2x1bXAgY29ubmVjdCBzZWNvbmQgYmljeWNsZSBjb3VzaW4gdmlicmFudCBob2NrZXkgd2F2ZSBmcmFnaWxlIGNyaWNrZXQ=
+BS = 0.000000000000000961
+Py = 0.00000000000001817
+T = 49
+S = 10
+
+489 / 690
+bm92ZWwgbW9uaXRvciBnbG9iZSBjb29rIGRlbWlzZSBwaW5rIGNlbnN1cyBmYW1vdXMgYWx3YXlzIHN1cmZhY2Ugc3VpdCBzbW9rZSBjb3R0b24gc2Nob29sIGFsYXJtIHdoYXQgZGVzZXJ0IHN0ZW0=
+
+490 / 690
+Y2FrZSBzYWx0IGNsYXkgYmFza2V0IGFuY2llbnQgbm9zZSBsYXp5IGVzY2FwZSBtaWRkbGUgYXJ0aXN0IGZyZXF1ZW50IGtlZW4=
+
+491 / 690
+bmVwaGV3IHBlb3BsZSByb2FkIGlucXVpcnkgdmVyc2lvbiBob3VyIHBvbGFyIHRydXRoIG1lbnUgcGVyZmVjdCBsZXNzb24ganVkZ2U=
+
+492 / 690
+ZGVwb3NpdCBzY3JpcHQga2VlbiBmaXgga25vdyBjb3VjaCBuZXJ2ZSBhdWN0aW9uIHNoYWRvdyB3YWxsIGxhenkgYW5nbGU=
+
+493 / 690
+c3VnZ2VzdCBnb3duIHVzZSB3YXJtIGhlYXZ5IGNvYWNoIGpvdXJuZXkgZ2l2ZSBkaXp6eSBzdG9yeSBkb25vciBhdm9jYWRv
+
+494 / 690
+ZGlldCB0aHJpdmUgZHVzdCBkZWNlbWJlciBzdGF5IGNhdHRsZSBsaWZ0IHJlbHkgdmljdG9yeSBpZ25vcmUgc3Vid2F5IGRpbGVtbWE=
+
+495 / 690
+YW5hbHlzdCBiYW5hbmEgY2F1c2UgZG9zZSBldmlkZW5jZSBleGNsdWRlIGV4Y2VzcyBmaXRuZXNzIGZvb3QgZ3JvdyByZXZpZXcgdHJ1bXBldA==
+
+496 / 690
+YnVsayBjYXBpdGFsIGZpbG0gY3Jhd2wgdXBvbiBwZW5jaWwgY2F1c2UgcHJvb2Ygb3JnYW4gaXNsYW5kIHVyZ2Ugc21hcnQ=
+
+497 / 690
+cGFyayBoaXJlIGZyZXF1ZW50IHBsdWNrIHdvbGYgbWVhbiBmcmFnaWxlIGZhcm0gc2NlbmUgcmVkdWNlIHZpZGVvIGdpdmUgdW52ZWlsIG5ldmVyIHJlYWw=
+E = 0.0000000000000001
+
+498 / 690
+cGhvbmUgY3J1bmNoIHJlb3BlbiB0cmFkZSBhbm5vdW5jZSBiZW5jaCBibHVyIHZhY2FudCBuYXRpb24gc3F1aXJyZWwgaGlsbCBob2xl
+E = 0.000000000000009334
+BS = 0.000000000000013155
+Py = 0.000000000000021001
+
+499 / 690
+dG9waWMgYml0dGVyIHJlc2VtYmxlIGxpa2UgZmF0aGVyIG1vbSBlbXBvd2VyIGtpZG5leSBhdmVyYWdlIHRob3VnaHQgYml0dGVyIGdsYWQ=
+
+500 / 690
+ZHJpbGwgaHVudCBmb29kIHRlYW0gbW9tZW50IG1pc3Rha2UgYmlyZCBhdHRpdHVkZSB0dW5uZWwgZWNvbG9neSBzaXN0ZXIgcmVzaXN0
+
+501 / 690
+d2FsbGV0IHN5bWJvbCBzY3JhcCBwb3RhdG8gcmFwaWQgYW1hdGV1ciB0b2FzdCB2ZXJpZnkgYmxpbmQgZXhpbGUgZW1wbG95IGRlbmlhbCBwZW5hbHR5CQlCQUxBTkFDRSAk
+System.FormatException: Word wallet is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+502 / 690
+d2FsbGV0IGNhbnlvbiBjcmV3IHJveWFsIGRyYWdvbiBsYXllciBkcml2ZSBlcm9zaW9uIHNsb3Qgc3VzdGFpbiBkZWNlbWJlciBhcG9sb2d5IGhvbWUJCUJBTEFOQUNFICQ=
+System.FormatException: Word wallet is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+503 / 690
+d2FsbGV0IGNoYXQgZnJvZyBqYWNrZXQgc2hvb3QgaGlzdG9yeSBiZXR3ZWVuIGZsb2NrIGdpZnQgZGV2aWNlIGFkbWl0IHRvc3MgbW9kaWZ5CQkJQkFMQU5BQ0UgJA==
+System.FormatException: Word wallet is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+504 / 690
+d2FsbGV0IGV4Y2VzcyBvcGVuIHBpbmsgY2xlcmsgYmFjaGVsb3IgY291cnNlIGNyYW0gZmxvY2sgd2luIHJlZ2lvbiB3aGlzcGVyIGltcHVsc2UJCQlCQUxBTkFDRSAk
+System.FormatException: Word wallet is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+505 / 690
+d2FsbGV0IHRheGkgbGVjdHVyZSBmYXJtIG1pbWljIGZhbmN5IG1hbmFnZSBmZW5jZSBwcm9qZWN0IGdsb3cgd29uZGVyIG5hbWUgbGVnYWwJCQlCQUxBTkFDRSAk
+System.FormatException: Word wallet is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+506 / 690
+d2FsbGV0IGp1bXAgc3R1ZmYgYnJhbmQgd2FzcCBwcm92aWRlIG1pc3Rha2UgZ29yaWxsYSB0cmlnZ2VyIGRpbm5lciBwZWFudXQgZXhwb3NlIGluc3RhbGwJCUJBTEFOQUNFICQ=
+System.FormatException: Word wallet is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+507 / 690
+bmV0d29yayBib3VuY2UgZmFudGFzeSB0cmFmZmljIGVyb2RlIGNveW90ZSB3aW50ZXIgc2Npc3NvcnMgYWVyb2JpYyBydWJiZXIgY3Jvd2Qgc3dhbGxvdw==
+
+508 / 690
+c3BlZWQgcGFsbSBzd2FtcCBwb29sIGdsaWRlIHNldHVwIGZhYnJpYyBhcHBsZSBldGVybmFsIG91dGVyIGdyYWIgcHJvb2Y=
+
+509 / 690
+KCBzZWVkcyloYWNrIHRydXN0IHdhbGxldCBbLy8gIFBNXSBzYWRuZXNzIHRvbWF0byB0aXRsZSBiYXJnYWluIHJpYiBzdWJtaXQgY2FyZCBzdWdhciBsb2FuIHBlbGljYW4gYnVkZ2V0IHNsdXNoICAgKCBzZWVkcyloYWNrIHRydXN0IHdhbGxldCBbLy8gIFBNXSByZWZsZWN0IGxpemFyZCBmYW1pbHkgY29jb251dCBhbGxleSBkaWFtb25kIHBsYXkgY2FyZCBodWIgdGhleSBmaW5kIHdpbnRlcg==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+510 / 690
+KCBzZWVkcyloYWNrIHRydXN0IHdhbGxldCBbLy8gIFBNXSB1cmJhbiBmbG93ZXIgYmFsYW5jZSBlc2NhcGUgZXhlY3V0ZSBibGluZCBhYnNlbnQgYXJtb3IgZGlydCBvY2VhbiB0aWx0IHNpbmNlICAgKCBzZWVkcyloYWNrIHRydXN0IHdhbGxldCBbLy8gIFBNXSBzdGlsbCB0dWJlIGdyYWluIHNheSBuZWVkIGhvbGQgbW9uc3RlciByZWFsIHN1cnZleSBoaW50IGF1ZGl0IHNwZWFrICAgKCBzZWVkcyloYWNrIHRydXN0IHdhbGxldCBbLy8gIFBNXSBmb2FtIHJlcG9ydCB2ZXJzaW9uIGxhbXAgY2l0aXplbiBmb2FtIGF1dG8gcmVqZWN0IGNhYmluIGdhcmRlbiBicmFuZCBzd2luZw==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+511 / 690
+ZW50aXJlIHNsdXNoIHRyeSBtZWx0IHNsb3QgaG9vZCBldm9rZSBmcmluZ2UgY3Jvd2QgdmFzdCBiZWVmIHBsdWNr
+
+512 / 690
+c2tpbiBjYWJsZSB5b3VuZyBhbGJ1bSBzZWxlY3Qgd2lmZSBzcGVlZCBleWUgd29yZCB0YXBlIHNwaWRlciBmaW5hbA==
+
+513 / 690
+YXNzZXQgdHJpYWwgbG9hZCBlc2NhcGUgc3ltYm9sIHN0b3J5IGJvbWIgcGljbmljIHJpdmVyIGFlcm9iaWMgbXlzdGVyeSBob25leQ==
+
+514 / 690
+d2FsbGV0IGNhbmR5IG1hcGxlIGNha2Ugc3VnYXIgcHVkZGluZyBjcmVhbSBob25leSByaWNoIHNtb290aCBjcnVtYmxlIHN3ZWV0IHRyZWF0
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+515 / 690
+ZnV0dXJlIG96b25lIGdsYXNzIGJsYXN0IGZveCB0ZW5hbnQgcmFtcCBvZmZlciB2aXN1YWwgbGVuZ3RoIHZpb2xpbiBwaXN0b2w=
+
+516 / 690
+bWVyZ2UgYXNzZXQgYnVzIGV4ZWN1dGUgd2lzaCBjb2FzdCBnbGltcHNlIGFsZXJ0IHJpZ2h0IHZpb2xpbiBpbmhlcml0IHdyZXN0bGU=
+
+517 / 690
+bm90ZSBvbGl2ZSBpbnZvbHZlIG91dHNpZGUgb3h5Z2VuIHByZWRpY3QgbWFuc2lvbiBicm9jY29saSBsZW5ndGggZnJpZW5kIHVzdWFsIHdlYXI=
+
+518 / 690
+bXVmZmluIGNhbG0gbGF0aW4gZXhwaXJlIHNlcnZpY2UgYm9tYiBzY2hlbWUgbW9udGggbWFzayBvYmV5IGZvcmdldCBlbnJvbGw=
+
+519 / 690
+cHJpbWFyeSBjbHVtcCB0dWl0aW9uIHNhbG1vbiBleGhpYml0IHN0dW1ibGUgZm9hbSBiZWFuIGRpc2ggd2hlcmUgbW91bnRhaW4gc2tp
+
+520 / 690
+Z292ZXJuIGNsb2cgdGlueSBkaXNlYXNlIGJlZ2luIGNvb2sgcmlnaHQgcGF0Y2ggcGV0IGJ1bGsgd2FsbCB5b3VuZw==
+
+521 / 690
+YWZmYWlyIGFwYXJ0IGNhdGVnb3J5IGNoYW9zIGNyZXcgcHVscCBzdXJwcmlzZSBraWRuZXkgdW5kZXIgbWlzcyBhZHZhbmNlIHNsdXNo
+
+522 / 690
+c29sdXRpb24gc2VuaW9yIGJyZWFkIHBhdGggdHlwZSB2aXZpZCBjYWJiYWdlIHByb3VkIHNuYXAgbGVhcm4gZW5vdWdoIGRlY3JlYXNl
+
+523 / 690
+Ymxvb2Qgc2lsbHkgZGlyZWN0IGdsb3cgaW50YWN0IGRvdWJsZSBleHBvc2UgcHJpY2UgdGhyb3cgbG9naWMgcG9sZSBwcml6ZQ==
+
+524 / 690
+bXVzaWMgY3JpbWUgYmFyZWx5IGdpZnQgYnJpZWYgb2ZmZXIgcmliYm9uIGRpdmlkZSByZXBlYXQgYWN0dWFsIGxldmVsIGluZHVzdHJ5
+
+525 / 690
+c2FsdCBqb3VybmV5IHNsaW0gYmlkIHN0cm9uZyBjb252aW5jZSBsZW5zIGNvbWZvcnQgcGFycm90IGJyaXNrIHByaWRlIHNob3Zl
+
+526 / 690
+c2V0dXAgdHJhaW4gc3RvbWFjaCBzdXBwbHkgaG92ZXIgam9pbiBrZXRjaHVwIHVwcGVyIG5lcnZlIGdlbmVyYWwgZm9yayBkdXJpbmc=
+
+527 / 690
+c3dhcCBob3NwaXRhbCBjb29sIGZsb2NrIHRpbHQgZW1vdGlvbiByaW5nIHJldHVybiB0ZWxsIHZldGVyYW4gZnVybmFjZSBtZWF0
+
+528 / 690
+d2hhbGUgYXR0cmFjdCBwdXJjaGFzZSB0b29sIGRpbGVtbWEgZGV2aWNlIHNlYSBhbGNvaG9sIHBsYXN0aWMgYXJtZWQgYmFyIGFzc2F1bHQ=
+
+529 / 690
+bnVjbGVhciBidXR0ZXIgc2VnbWVudCBlYXJseSBtdXNldW0gdGh1bWIgc2NhdHRlciByZWFsIHdhZ29uIGJhc2tldCBjaHJvbmljIGRlcml2ZQ==
+
+530 / 690
+a2VlbiByZXNvdXJjZSBydWRlIHBhc3Mgc2F0aXNmeSBwaXBlIGNsb3RoIG5hcGtpbiBmb29kIGNoaWNrZW4gaW1wdWxzZSBiaW9sb2d5
+
+531 / 690
+ZHJpbmsgd2FyZmFyZSBzY29ycGlvbiBjYW5keSBwYWdlIGZhbWlseSB1bmtub3duIHNpeCBzZW5zZSBkaXNhZ3JlZSBwcmltYXJ5IGJlY29tZQ==
+
+532 / 690
+bGVhZGVyIGNsdXN0ZXIgc2tpbiBzaGVkIGtpbmQgdXBkYXRlIHN0cm9uZyBjbG90aCBtYXN0ZXIgY3JhdGVyIGJhbmFuYSBjYXBpdGFs
+
+533 / 690
+bWFpZCBvYnZpb3VzIGlzb2xhdGUgd29ydGggaW5jb21lIHRpcCB3YXkgcmFpbCBwb3dkZXIgbGlnaHQgdmlldyBjbGF3
+
+534 / 690
+YW54aWV0eSBhbnkgYXBhcnQgYXBvbG9neSBhcHBlYXIgYXBwbGUgYXBwcm92ZSBhcHJpbCBhcmNoIGFyY3RpYyBhcmNoIGFueQ==
+
+535 / 690
+ZWxlY3RyaWMgZmxlZSBoYXphcmQgcm91bmQgcHJldHR5IHNoZWxsIG5ld3Mgd2lmZSBzdG92ZSBoYXQgbGV0dGVyIGNvbnNpZGVy
+
+536 / 690
+aW5qdXJ5IGRpdm9yY2UgbWFuc2lvbiBmcmVxdWVudCBmaXNjYWwgYXJyZXN0IHN0eWxlIHByb21vdGUgcGVhbnV0IGNvbnRyb2wgcmVjZWl2ZSBleGNoYW5nZSBjaXR5IHJvdXRlIHJlcGFpciBlbmRvcnNlIGNyYXNoIGRlZmluZSBuYXJyb3cgY29uY2VydCB3YWdvbiBtZXJyeSBleGhhdXN0IG1lY2hhbmlj
+
+537 / 690
+cmVwbGFjZSBmaXNoIHN5bWJvbCByaW5nIHZlcnNpb24gc25hY2sgZmxvY2sgY3VydmUgZmVlZCBsdW5jaCBzaWdodCB0cmVuZCAjc2hlbGwgc2NhbGUgZ2lnZ2xlIG11c2V1bSBpcm9uIG5pY2UgcHVycG9zZSBjaGFvcyBrYW5nYXJvbyBjcnVtYmxlIHJlZ3VsYXIgc3RhZmY=
+System.FormatException: Word #shell is not in the wordlist for this language, cannot continue to rebuild entropy from wordlist
+   at NBitcoin.Wordlist.ToIndices(String[] words)
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+538 / 690
+d2lkdGggbGVhZGVyIGxlYWRlciBzZWEgdW5oYXBweSBicmVlemUgd2lkdGggc2libGluZyBicmVlemUgbGVhZGVyIHdpZHRoIHRydWx5
+
+539 / 690
+ZHVyaW5nIHdpZHRoIGZvcndhcmQgbGVhZGVyIGFsYnVtIGxlYWRlciBqZWxseSB3aWR0aCBkdXJpbmcgd2lkdGggd2lkdGggYWxidW0=
+
+540 / 690
+YnJlZXplIGZvcndhcmQgdHJ1bHkgamVsbHkgdW5oYXBweSB0cnVseSBhbGJ1bSBicmVlemUgbGVhZGVyIHdpZHRoIGJyZWV6ZSBqZWxseQ==
+
+541 / 690
+bGVnYWwgd2lubmVyIHRoYW5rIHllYXIgd2F2ZSBzYXVzYWdlIHdvcnRoIHVzZWZ1bCBsZWdhbCB3aW5uZXIgdGhhbmsgeWVsbG93
+E = 0.000000000000024001
+BS = 0.000000000000018196
+T = 70
+
+542 / 690
+YWJhbmRvbiBhYmlsaXR5IGFibGUgYWJvdXQgYWJvdmUgYWJzZW50IGFiYW5kb24gYWJpbGl0eSBhYmxlIGFib3V0IGFib3ZlIGFic2VudA==
+E = 0.000000000000017016
+BS = 0.00000000000000326
+Py = 0.000000000000050582
+T = 395
+S = 10
+
+543 / 690
+YmFzaWMgZ2FsYXh5IGZhZGUgb25pb24gaHVzYmFuZCB0cmF5IGFmZm9yZCBzZXR0bGUgcm9hc3QgcHJhaXNlIGN1c2hpb24gd2l0bmVzcw==
+
+544 / 690
+Y2FueW9uIGNyZXcgcm95YWwgZHJhZ29uIGxheWVyIGRyaXZlIGVyb3Npb24gc2xvdCBzdXN0YWluIGRlY2VtYmVyIGFwb2xvZ3kgaG9tZSBwb3B1bGFyIGJhc2Ugc291cCBhcnRpc3QgZGVudGlzdCB5ZWFyIHdhc2ggY2xpbWIgcGFuaWMgbGFtcCBpdGVtIG9wdGlvbiBjYW55b24gY3JldyByb3lhbCBkcmFnb24gbGF5ZXIgZHJpdmUgZXJvc2lvbiBzbG90IHN1c3RhaW4gZGVjZW1iZXIgYXBvbG9neSBob21lIGNodW5rIG9zdHJpY2ggZm9yZ2V0IGJsZXNzIGFibGUgZ3JpZCBzcG9pbCByYWlsIHN1c3RhaW4gZXZpZGVuY2UgY29yZSB1cmdl
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+545 / 690
+Y2xvd24gYnJhY2tldCB3YXJmYXJlIGR1dHkgc2h5IHlvdW5nIGNsb3NlIHRlbiBvc3RyaWNoIGV4ZWN1dGUgZ3ltIHBpenph
+
+546 / 690
+ZGV0ZWN0IGludGVyZXN0IHJlcGFpciBzeXN0ZW0gZnJvd24gYXV0aG9yIGh5YnJpZCBxdWFydGVyIGdsYXNzIGNoYWlyIGdhcyB0ZW50
+T = 14
+
+547 / 690
+cHJvYmxlbSBsaWJyYXJ5IHJvc2UgY2FyIGlsbG5lc3MgZmlzaCBwcm9vZiBidWxiIGJhc2tldCBmaWd1cmUgYWRhcHQgYnJpY2s=
+T = 14
+
+548 / 690
+dW5hYmxlIGFjY291bnQgYnJpZWYgY3VydGFpbiBwcm9kdWNlIHdlZWtlbmQgbWlyYWNsZSBzcG9uc29yIGdyaWQgcG9zc2libGUgYnJvb20gcGx1Zw==
+T = 14
+
+549 / 690
+dXJiYW4gcmVkdWNlIHBheW1lbnQgb3V0c2lkZSBmaXJtIGFyZ3VlIGhpbnQgd2hhdCBzd2l0Y2ggaGFyc2ggZGVjaWRlIHBpc3RvbA==
+BS = 0.00000000000000001
+T = 156
+
+550 / 690
+d2FsbGV0IGR1dHkgYmFyZWx5IGRpenp5IHNhbmQgcHVtcGtpbiB1cG9uIHVyZ2UgcHJvdGVjdCBhbGJ1bSBmZWRlcmFsIHNlc3Npb24gd2lkZQ==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+551 / 690
+SG93IGNhbiBpIHdpdGhkcmF3ICAkdXNkdCB0cmMgZnJvbSB0cnVzdCB3YWxsZXQgdG8gYmluYW5jZSBwbHogaGVscCB3YWxsZXQgUGhyYXNlICBzeW1ib2wgc2NyYXAgcG90YXRvIHJhcGlkIGFtYXRldXIgdG9hc3QgdmVyaWZ5IGJsaW5kIGV4aWxlIGVtcGxveSBkZW5pYWwgcGVuYWx0eSBQcml2YXRlIEtleSBjYWJlYWJiYWFiYmZjYWNiY2NjZg==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+552 / 690
+c3VuIGN1c2hpb24gc3ByYXkgdXBncmFkZSBvY2VhbiBncmFpbiB3aWxkIGltcHVsc2UgaG9zdCBzcXVlZXplIGphY2tldCBhYmxl
+T = 477
+
+553 / 690
+bWFpbCBmb3J3YXJkIHR1bmEgYmxhc3QgdGFja2xlIGVuam95IGVudGVyIHB1YmxpYyByZWNvcmQgZW5yb2xsIGNsdW1wIGZhbW91cw==
+
+554 / 690
+cmF6b3Igc2NyaXB0IG9yY2hhcmQgZ2xvdyBidW5kbGUgdW52ZWlsIHB1cnNlIGVucmljaCBkb29yIHdlYXBvbiBjb21iaW5lIHNwaWNl
+T = 186
+
+555 / 690
+bWF0dGVyIGVzY2FwZSBjYXJkIHdyZWNrIGFuaW1hbCBjaGFzZSBleGFtcGxlIHBsYWNlIGN1cmlvdXMgYWxsIHJ1cmFsIHdlaXJk
+BS = 0.0000000000000002
+
+556 / 690
+ZHV0Y2ggZmliZXIgZm9nIHBhcnJvdCBmb3JrIGV4cGVjdCBlYXN5IGxha2UgcG9zc2libGUgZ29hdCBzaW5nIHNvbmcgdGhlbiBtb3JlIHRoZXJlIHdpbGwgYWxzbyB1cGRhdGUgd2ludGVyIHJvdW5kIG1hcmtldCBzZWFzb24gYXRvbSBzcG9uc29yIGx1Y2t5IGNhdHRsZSBsaXZlIGZvcmVzdCB3b29kIG9ubHkgYmVjYXVzZSB0aGVyZSBoZWFsdGggaHVudCBsaWtlIHJpYiByb2FzdCBkaW5uZXIgZnJlc2ggd29yZCBzZWVk
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+557 / 690
+anVtcCBtb3JlIHJ1ZyB0aHJlZSBtaW5pbXVtIG11c3QgcGluayByb2J1c3Qgc3Rvb2wgcm91Z2ggamFyIGxlZ2VuZA==
+
+558 / 690
+cGl0Y2ggbW9uc3RlciBxdWVzdGlvbiBnZW5yZSBzdGFibGUgcGF0dGVybiBydWcgdXN1YWwgYWN0cmVzcyBicm9uemUgYXhpcyBhdW50IGRpYWwgbWFpbCBzb3V0aCBzYWZlIHBpZ2VvbiBqZWFucyBjYXNpbm8gc2Vzc2lvbiB0aHVuZGVyIGhhYml0IGNydWVsIHVwc2V0
+
+559 / 690
+b2lsIGNsdXN0ZXIgYXZlcmFnZSB1bml0IG9ibGlnZSBhbGxvdyBjYWN0dXMgbW9kZWwgYXJjdGljIHZlaGljbGUgb2lsIHByb2plY3Q=
+
+560 / 690
+ZGVueSB3aXJlIGJ1eWVyIGFkanVzdCBudXJzZSBnbHVlIGJpcmQgbmljZSB2b2lkIGZpbmFsIGV4b3RpYyBzbmFw
+
+561 / 690
+c3RlYWsga2l0IHdhaXQgc3RvY2sgaW1tdW5lIGljb24gY2xhcCBjaXR5IHNvZnQgc2lnbiBlc3RhdGUgY2hhaXI=
+
+562 / 690
+ZGVjb3JhdGUgYnJpZGdlIGNhbiBncmVhdCBnYXRoZXIgbWlkZGxlIGJsZWFrIHN1ZmZlciBsYXVnaCBkcmVhbSBzdGFpcnMgdmVyYg==
+
+563 / 690
+ZW5qb3kgbGVpc3VyZSBvdGhlciBmYW5jeSBhcHBsZSB0YWxrIHZpc3VhbCBmYXNoaW9uIGFkbWl0IGJlYW4gZmFpdGggZ2FkZ2V0
+
+564 / 690
+bW9iaWxlIG1hc2sgdW52ZWlsIGFsY29ob2wgc2Vuc2UgaHVtb3IgdGltZSBjaXJjbGUgZXh0cmEgcG9zdCBwbGF0ZSB3aW4=
+
+565 / 690
+YXVudCBzaWRlIHZpc2l0IGFycm93IG1ldGFsIGVuZm9yY2UgYW5vdGhlciB3ZWIgcmlnaHQgd2hhbGUganVuaW9yIHNjb3JwaW9u
+
+566 / 690
+bGF5ZXIgc2xvdCBkZXZpY2UgZ2l2ZSBsYXVnaCBzaXggY29pbiByZXNlbWJsZSB0dXJ0bGUgYmFsY29ueSB0dXJ0bGUgdHdpc3Q=
+
+567 / 690
+c2VhdCBhY2NpZGVudCBhcnRpc3QgZ2VudWluZSBtb3JhbCBkYXJpbmcgZGVmZW5zZSB2aWJyYW50IGRlcml2ZSBkYW1hZ2UgdGVzdCB0cmlnZ2Vy
+
+568 / 690
+aG90ZWwgYmFsYW5jZSBleGNlc3MgY2FjdHVzIHplcm8gcHJpbWFyeSB1cHNldCBnb29zZSBzdWJ3YXkgcGV0IHRhaWwgcmVhbA==
+
+569 / 690
+c3VtbWVyIGFkbWl0IHNldmVuIGNyYWRsZSBidXllciB0YWxlbnQgam9rZSBkdWNrIGhhYml0IHBhZ2UgcGFycm90IHRoZXJl
+
+570 / 690
+Y29weSBnb3duIGZhbHNlIHRvcmNoIHJhdyBzdWdnZXN0IHBvaW50IHJvdXRlIHN3aXRjaCBjYWJsZSBndWlkZSBpbmZhbnQ=
+
+571 / 690
+bWFya2V0IGludmVzdCBwcmVzZW50IGxhbmd1YWdlIGxvZ2ljIGtub3cgbGFkeSBiaW5kIGRlbnRpc3QgYWR2aWNlIGJ1bmRsZSByZWZvcm0gc2NydWIgd2hhdCBmb29kIGVhc3kgbW92ZSBlbnN1cmUgZGVzaWduIGRlbnkgaGVscCBmZWF0dXJlIG1lcmdlIHRhcGU=
+
+572 / 690
+ZHJpbGwgc2hvdmUgbGFwdG9wIHN0YXRlIHBlbGljYW4gbWFya2V0IGRlZmluZSBjdXAgYXJjdGljIGdyaXQgcnVyYWwgaHVuZHJlZA==
+
+573 / 690
+cG9ueSBtaWxrIGZvcmVzdCBmYWJyaWMgZWxlZ2FudCB1c2FnZSBlc3RhdGUgcG9pbnQgaW52b2x2ZSBhaW0gbWFpbCBub3JtYWw=
+
+574 / 690
+dHVybiBjYWJsZSBvcmRpbmFyeSB0YXJnZXQgcGVvcGxlIHNvY2sgY2xpZmYgZ292ZXJuIHNhdmUgbHVnZ2FnZSBlbXBvd2VyIGFueQ==
+
+575 / 690
+dHJhZmZpYyBhaXNsZSBzdXJmYWNlIHRhbmsgYnJhaW4gZGlsZW1tYSBjb21pYyBnaXJhZmZlIGJlbmVmaXQgYXV0dW1uIGV4cHJlc3MgcHJvc3Blcg==
+
+576 / 690
+d29ybGQgZXZvbHZlIGNyeSBvdXRlciBnYXJkZW4gY29tbW9uIGRpZmZlciBqdW1wIGZldyBkaWV0IGNsaWZmIGx1bWJlcg==
+
+577 / 690
+ZXhlcmNpc2UgbWVtYmVyIGhhemFyZCBtYXRlcmlhbCBjb3BwZXIgb2J2aW91cyBhZHZhbmNlIHJldHJlYXQgbm9vZGxlIHR3aXN0IHdoaXNwZXIgbWF0aA==
+
+578 / 690
+dG9wcGxlIGRpdmlkZSBhc3NldCByZWFkeSBvcmRpbmFyeSBmYWRlIHdpbmsgdG9tYXRvIHByaWNlIGFzc3VtZSBzY3JpcHQga2Vlbg==
+
+579 / 690
+ZmxhdCBwYXJlbnQgcm9hc3Qgc2hpZnQgcHVuY2ggZmlzY2FsIG9wZXJhIGxhZHkgcHJvY2VzcyBzbW9vdGggY2lyY2xlIGJsdWU=
+
+580 / 690
+cnVud2F5IG1lZGFsIGxlZyBzaGVsbCByZWdyZXQgc2lzdGVyIG1ham9yIGNveW90ZSBjbHV0Y2ggbG95YWwgc21hcnQgZ2VzdHVyZQ==
+
+581 / 690
+bW9ua2V5IG9hayByb3RhdGUgbGl2ZSBsb2JzdGVyIHNoZXJpZmYgcXVhcnRlciB1bml2ZXJzZSB3aWZlIHdvbmRlciB0d2ljZSBidWZmYWxv
+
+582 / 690
+d2VpcmQgdHJhZmZpYyBqb3kgYm9yZGVyIGludm9sdmUgYmFtYm9vIHBlcnNvbiBpbnF1aXJ5IHNob3AgZ2FzcCB3cmVzdGxlIHN3YXA=
+E = 0.00000000000000601
+BS = 0.000000000000000422
+T = 3384
+
+583 / 690
+bW9ua2V5IG9hayByb3RhdGUgbGl2ZSBsb2JzdGVyIHNoZXJpZmYgcXVhcnRlciB1bml2ZXJzZSB3aWZlIHdvbmRlciB0d2luIGJ1ZmZhbG8=
+
+584 / 690
+aGVsbG8gbGFtcCB1bmFibGUgc3BlbmQgY2hvaWNlIG93bmVyIHNhbXBsZSB2aXZpZCB3aXRuZXNzIHJlc2VtYmxlIHZhbGxleSB1cHBlcg==
+
+585 / 690
+b3JiaXQgbGVucyBjb2RlIHZpZGVvIHJpcHBsZSBsb29wIGRyYXcga2VlbiBib3JkZXIgcHV6emxlIGNvdmVyIHBpbGw=
+
+586 / 690
+bWlzcyBtYWQgc25vdyBjcmFkbGUgbWFtbWFsIGJydXNoIHNvZGEgbmlnaHQgYmxvb2Qgc29ydCBwcmFpc2Ugc3VpdA==
+
+587 / 690
+ZnVyeSBzdGFnZSBqdW1wIGtpZCBsaW5rIGhvbGUgYWN0aW9uIGluc2FuZSBwYW5pYyBtb3VzZSBraXdpIHBvbnk=
+
+588 / 690
+d2VhciBoaWdoIHJvb2YgaW1wYWN0IHRhbGsgY3JhenkgdG9hc3QgcmF2ZW4gY2FwYWJsZSBjdXN0b20gbWFuYWdlIHNoaXZlcg==
+
+589 / 690
+aGVsbG8gbGFtcCB1bmFibGUgc3BlbmQgY2hvaWNlIG93bmVyIHNhbXBsZSB2aXZpZCB3aXRuZXNzIHJlc2VtYmxlIHZhbGxleSB1cHBlciBvcmJpdCBsZW5zIGNvZGUgdmlkZW8gcmlwcGxlIGxvb3AgZHJhdyBrZWVuIGJvcmRlciBwdXp6bGUgY292ZXIgcGlsbCBtaXNzIG1hZCBzbm93IGNyYWRsZSBtYW1tYWwgYnJ1c2ggc29kYSBuaWdodCBibG9vZCBzb3J0IHByYWlzZSBzdWl0IGZ1cnkgc3RhZ2UganVtcCBraWQgbGluayBob2xlIGFjdGlvbiBpbnNhbmUgcGFuaWMgbW91c2Uga2l3aSBwb255IHdlYXIgaGlnaCByb29mIGltcGFjdCB0YWxrIGNyYXp5IHRvYXN0IHJhdmVuIGNhcGFibGUgY3VzdG9tIG1hbmFnZSBzaGl2ZXI=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+590 / 690
+bGV0dGVyIGNlbnN1cyBwaG90byBsb2NrIHdoZWF0IHNocnVnIHN0dWZmIGFycmFuZ2UgbWFnaWMgdHJlZSBsYXp5IG1pcnJvcg==
+
+591 / 690
+cGV0IHBheW1lbnQgbHVnZ2FnZSByYXRoZXIgcmFkaW8gaW5zcGlyZSBoeWJyaWQgY2FrZSBzaWNrIHNoZWxsIGdyb3cgc21hcnQ=
+
+592 / 690
+YWxvbmUgZW5kbGVzcyBzdG9yeSBibGFjayBob2xlIHB1enpsZSBwbGF5IHlvdSBkaWNlIGdsb3J5IGJ1YmJsZSBhd2t3YXJk
+
+593 / 690
+dHJ1Y2sgaG9yc2UgeWVsbG93IHByb3VkIGNob2ljZSBzYXRpc2Z5IHNlZWsgaGVybyBzZWdtZW50IGNyaXNwIHBvdHRlcnkgY3JhZnQ=
+
+594 / 690
+dG91cmlzdCBmcmVzaCBwcmVwYXJlIGVyYXNlIHJlc3BvbnNlIG5vdGFibGUgYXNzaXN0IGxvZ2ljIHNtb290aCBicmF2ZSB3b3JsZCBhbm5vdW5jZQ==
+
+595 / 690
+dHJ1Y2sgaG9yc2UgeWVsbG93IHByb3VkIGNob2ljZSBzYXRpc2Z5IHNlZWsgemVybyBzZWdtZW50IGNyaXNwIHBvdHRlcnkgY3JhZnQ=
+
+596 / 690
+cmFtcCBlaWdodCB3b29sIGJ1cnN0IGltbWVuc2UgcGVyc29uIGNvcnJlY3QgY2F0dGxlIGNydWNpYWwgdXBncmFkZSBiaXJ0aCBvYmplY3Q=
+E = 0.00000000000000001
+BS = 0.000000000000012179
+T = 1657
+
+597 / 690
+ZGVzaWduIGdsb3ZlIGF2b2lkIGxheWVyIG1vbnRoIG5lY2sgcHVwcHkgbWVhdCBkYXVnaHRlciB3ZWF0aGVyIG9ic2N1cmUgZ2VucmU=
+BS = 0.000029365000018002
+
+598 / 690
+Y2VsZXJ5IHZvaWQgYXV0byBkcmVhbSBib25lIGxvdW5nZSBtb2RpZnkgdmVudWUgZW1iYXJrIHNvbHV0aW9uIGxhdyB3ZWxjb21l
+
+599 / 690
+b2NlYW4gaGlwIHN0cmF0ZWd5IHVuYWJsZSBwZXBwZXIgaWNlIHN0dWRlbnQgYXVndXN0IGluc2VjdCBjbGV2ZXIgdGVybSBlYXJ0aA==
+
+600 / 690
+bGF2YSBmaXggb3duZXIgZGVtYW5kIGNvbnZpbmNlIGtlZW4gYnJlZXplIGFnYWluIHBvd2VyIGFwcHJvdmUgbWluaW11bSByZW1haW4gZHJlYW0gdHJpZ2dlciBsb2JzdGVy
+
+601 / 690
+dHdlbnR5IGNsb3NlIGJhZGdlIGZhdm9yaXRlIHNpeCBicmlkZ2Ugb2xkIHB1dCByYWNrIG1vbnN0ZXIgZ3VhcmQgd2Vla2VuZA==
+
+602 / 690
+YWxhcm0gcXVpY2sgbWVjaGFuaWMgZGl2aWRlIHZvdGUgYXJvdW5kIG5vcnRoIG9wZXJhIHR1cmtleSBnbG9iZSBjaXR5IHRhcGU=
+
+603 / 690
+bXVsZSBmbGFnIGdyZWF0IGVudmVsb3BlIGZpZ3VyZSBhYm91dCBva2F5IHRocmVlIGxpbmsgdHdlbnR5IHNob290IGhlbG1ldA==
+
+604 / 690
+aW5wdXQgbnVjbGVhciBsb2NrIHBvb2wgbWVsb2R5IGJ1bGxldCBjb3JyZWN0IHR3aXN0IGRpZXNlbCB1cG9uIG5lcGhldyBsZWFybg==
+
+605 / 690
+dXBwZXIgcmVtaW5kIHRhc2sgc2h1ZmZsZSB0cmF2ZWwgc2VhIHByaWNlIGhhcmJvciBza2F0ZSBkZXB0aCBzdHVtYmxlIHNlZWQ=
+T = 1
+
+606 / 690
+dGlja2V0IGluaGVyaXQgbGlnaHQgZXhoaWJpdCB0b3JuYWRvIHJhaWwgcHJlcGFyZSBibGFtZSByZW1pbmQgdWdseSB2aW9saW4gcmh5dGht
+
+607 / 690
+bGlicmFyeSBza2lydCBvbGQgb2lsIHBsdWNrIGJyZWFkIGJ1ZGR5IGNhdGFsb2cgdmlzaXQgZHJ5IGJ1bGIgZ2Fpbg==
+
+608 / 690
+cmVzZW1ibGUgYnJhaW4gb21pdCBub3RoaW5nIHNvbGFyIGxlZ2VuZCBnb2F0IHNraSBkb25rZXkgY2l2aWwgc2VsZWN0IHRoZW4=
+
+609 / 690
+dGhlb3J5ICByb2JvdCAganVuaW9yICBzcXVpcnJlbCAgcG9uZCAgY2hpZWYgIHZveWFnZSAganVtcCAgc2lsdmVyICBmdWVsICBub3J0aCAga25pZmU=
+
+610 / 690
+b2JzY3VyZSBhY3RvciBwb3dlciBmYWludCBncmFzcyBiaWQgdml2aWQgaG91ciBsZW5ndGggbm9ybWFsIGJyb29tIHJhbGx5
+T = 23
+
+611 / 690
+d29yZCBvcGluaW9uIG1peCBjb21tb24gbWF6ZSByZWFsIGJsb3Nzb20gZW5mb3JjZSBkdWNrIGVsZXBoYW50IHNwaXJpdCBoeWJyaWQ=
+
+612 / 690
+c3RlcCBzb25nIHBvc3NpYmxlIGxlaXN1cmUgbWFuc2lvbiBvcGVyYSBsaXF1aWQgY3J5c3RhbCBhcHJpbCBlbmdhZ2Ugc3RhdGUgbmFtZQ==
+
+613 / 690
+cmFkYXIgYmx1ciBjYWJiYWdlIGNoZWYgZml4IGVuZ2luZSBlbWJhcmsgam95IHNjaGVtZSBmaWN0aW9uIG1hc3RlciByZWxlYXNl
+
+614 / 690
+ZW5saXN0IGdsaWRlIGZyaW5nZSBhdHRhY2sgdW5mYWlyIHNob3J0IHN0eWxlIHdpbmRvdyBoYW5kIGV4aGliaXQgdmVudWUgaG9vZA==
+
+615 / 690
+c3VtbWVyIG1hcGxlIGpveSBzY291dCBiZWFuIGFtYXppbmcgc29tZW9uZSBidXN5IHN0ZXAgZW50cnkgZW5zdXJlIGFic3RyYWN0
+
+616 / 690
+bG91ZCBiYXJyZWwgdHJlYXQgc2NvdXQgcm9idXN0IHByZXBhcmUgbW90aGVyIGRlZ3JlZSBwdW5jaCBzdGljayBkaWVzZWwgYWJ1c2U=
+
+617 / 690
+c3dpbSBwdXNoIHBhc3Mgd3JpdGUgZWRpdCBicmlnaHQgaGF2ZSB3aW5rIG9ubHkgb3lzdGVyIGFzayBwcml2YXRlIG1pcmFjbGU=
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+618 / 690
+d2hpc3BlciBhZHVsdCBzY29ycGlvbiBzYWlsIGFzc2V0IGNvcm4gYXVndXN0IHJ1cmFsIG1pbGsgY2FibGUgamF6eiBmb2ls
+
+619 / 690
+ZnJvZyBhY2hpZXZlIHdhbnQgdG9hc3QgZmVicnVhcnkgc29vbiBteXNlbGYgb2N0b2JlciBraWRuZXkgdGV4dCBsZW9wYXJkIGVjb25vbXk=
+
+620 / 690
+aGFydmVzdCBsdWNreSBsYWIgc3BvbnNvciBhZHZpY2UgYWNjaWRlbnQgcHVtcGtpbiB0ZXN0IG5haXZlIGVnZyBrbm9jayBleWUgYmFyZ2FpbiBzaWVnZSBkZXBlbmQgc2Vjb25kIHdlYiB0ZXJtIGhpcCBjaHVuayBicmFja2V0IG1vdW50YWluIGNpcmNsZSBkZXJpdmU=
+
+621 / 690
+YXJyaXZlIHRyaWJlIGNyYW5lIGNvdmVyIGVxdWlwIGNvcHkgZmlzY2FsIHN0cm9uZyB2YW4gcHVyY2hhc2UgZm9zc2lsIGNsaW1i
+Py = 0.001072491024318
+
+622 / 690
+YXJlbmEgZmFzaGlvbiBjYW5jZWwgZmxhZyBleHBsYWluIGZsb2F0IG51bWJlciBzYWxvbiBoYXJ2ZXN0IG1lc3NhZ2UgY2FwaXRhbCByZWplY3Q=
+Py = 0.0017134825617
+
+623 / 690
+c2xpY2UgdXJnZSBmYW5jeSBwbHVjayBwYXR0ZXJuIHdhbGsgZm9yZXN0IGljZSBzdGF0ZSBwYXJhZGUgYWN0dWFsIHRvYXN0
+S = 10
+
+624 / 690
+ZXhpdCBjb3VjaCBvZmYgdmlzdWFsIGlzbGFuZCBicm9vbSBwcm92aWRlIHNwaGVyZSBicmFja2V0IHVuZm9sZCBwb3R0ZXJ5IGZldmVy
+
+625 / 690
+aWRsZSBhbHRlciBlbnJpY2ggc3Bhd24gZW5zdXJlIGhvcm4gZnJ1aXQgc21vb3RoIHNlZ21lbnQgdmVuZG9yIGN1cGJvYXJkIHN0b25l
+
+626 / 690
+c2l0dWF0ZSBmb3JnZXQgc29sdmUgZmxvY2sgZ2FyYmFnZSByZW5ldyBzYXkgcnVuIGdyYXZpdHkgc2FsbW9uIGdhcmJhZ2UgdHJhc2g=
+
+627 / 690
+dW5hd2FyZSBpbmhhbGUgbGl2ZSBibG9vZCBzaGVyaWZmIHJ1bndheSByYWxseSBjbG9jayBpbXB1bHNlIHN0YWdlIGJldHRlciBzb3VyY2U=
+
+628 / 690
+Zmx1c2ggZnVyeSBzdGF0ZSBoZWRnZWhvZyB1bmZvbGQgd2lzaCBoZWxwIGFyZW5hIGdyYXNzIGJyaWRnZSBzaHVmZmxlIGFjY2Vzcw==
+
+629 / 690
+bW9uaXRvciBoYWlyIGVkaXQgYW1vdW50IGZyZXNoIG1peGVkIHBvdHRlcnkgcG90dGVyeSB0d2ljZSBsb29wIHdlaXJkIGp1aWNl
+
+630 / 690
+Y3J1aXNlIGVubGlzdCBtb3Rpb24gZ3JvdXAgcGlzdG9sIGRvbm9yIHRvb3RoIGFuZ3J5IGZlc3RpdmFsIHBhY3Qgb3JkaW5hcnkgcHVsbA==
+BS = 0.001331194019720035
+T = 174
+
+631 / 690
+dW5jbGUgc2tpcnQgdmFwb3IgaWxsIG9wZXJhIGNsaWZmIGtpdCBsaW5rIHJld2FyZCBhbmNob3Igc29jaWFsIGNvbGxlY3Q=
+
+632 / 690
+Tm1BY3BRb1JNc0Z5Z0NoQnB6RXJmVFAgQkNBTGREYmtKVnRQdFBaVFhSaFlXRXpOUGNyVHFGIHhmYWRmY2NhYWFjZGJmIG1uZW1vbmljIHdoaXNwZXIgdGhlcmUgZXhpbGUgcHJvc3BlciBhd2Vzb21lIHdlYXNlbCBjb2ZmZWUgcHJpbWFyeSBhbm90aGVyIGx1bmFyIGFycm93IGhvbGxvdyBQcml2YXRlIEtleSBkZmNkY2FhZGViYWFjYWZkY2UgRW50cm9weSBmYWNkZWRmYmRhYiBEZXJQQVRIICcvJy8nLy8gVG90YWwgIEZvdW5kICBTcGVlZA==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+633 / 690
+cGF0cm9sIG1pbWljIGNvbnNpZGVyIHNweSBicmFzcyBwb2V0IGV4aWxlIGx1bWJlciBjaGFvcyB1bmZhaXIgYnV5ZXIgdHVydGxl
+
+634 / 690
+d29yayBnYXJhZ2Ugc2FsYWQgY292ZXIgYXR0ZW5kIHVzYWdlIGZldGNoIHBob25lIGxlZ2FsIHF1aWNrIHBoeXNpY2FsIGdyYWlu
+
+635 / 690
+YmFuYW5hIHJhdyBjYXV0aW9uIGNlaWxpbmcgZ3J1bnQga2ljayBob2NrZXkgdHVubmVsIGxpZnQgYXJyYW5nZSB2ZXJzaW9uIG9yZGluYXJ5
+
+636 / 690
+Y2xpcCBodWdlIGNhcHRhaW4gZW5kb3JzZSBjb3BwZXIgYXdlc29tZSBwcmFpc2UgZm9yayBldm9rZSB3ZWFzZWwgY3JlYW0gaW5jcmVhc2U=
+
+637 / 690
+bWVudSBmYXRhbCBiZWx0IG5lYXIgcG9zaXRpb24gcGlsb3Qgb3duIGFnZSBwb3ZlcnR5IHRyYXkgc2NhcmUgdGhyb3c=
+
+638 / 690
+Z3VpdGFyIGZhbiBjb29rIHNwb29uIGN1dGUgdmVyc2lvbiB0cnVlIG1pZGRsZSB3YWxsIGVudGlyZSBtb3JhbCBnZW5yZQ==
+
+639 / 690
+dHJ1bXBldCBmbG9vciBmb3J0dW5lIHJ1biBhbHRlciBkb25rZXkgbGlvbiBkZXRlY3Qgc2NyYXAgZ2xpZGUgZmFtb3VzIGNyaXNwIGF3ZXNvbWUgYXJ0IGlkZWEgZXhwb3NlIGlkZW50aWZ5IG9yZGVyIGFjY2lkZW50IHN0b21hY2ggYWxidW0gdGVhbSBkcmluayBpbmNyZWFzZQ==
+
+640 / 690
+ZHVuZSBzYWxvbiBoYXZlIGtpY2sgc2hvb3Qgc2VhIGxvbmcgYmxvb2QgZ2F0aGVyIGNyb3AgbW90b3Igc2FtcGxl
+
+641 / 690
+Z2lyYWZmZSBhcm91bmQgZmFybSBjbHV0Y2ggd2hpc3BlciBkdWNrIGRhcmluZyBjYW5vZSBodW50IHdhdmUgZmxpZ2h0IHdpdG5lc3M=
+Py = 0.072847429293592
+
+642 / 690
+YmFsY29ueSB3aWRlIHRyaWdnZXIgb3JkZXIgZ29vc2UgdGFja2xlIG1hbmdvIGdyb3VwIGRlY2VtYmVyIGF1Y3Rpb24gYWRkaWN0IHNjb3V0
+
+643 / 690
+cGF0Y2ggZ3Jhdml0eSByZWZsZWN0IHNjZW5lIGFkZHJlc3MgcmVnaW9uIHN0cmVldCB0aW55IGZpc2ggYmVsaWV2ZSBhbGFybSB0d2lu
+
+644 / 690
+dXN1YWwgYmFycmVsIGN1c3RvbSBjYXV0aW9uIGxpbWIgd2hlcmUgdmVzc2VsIHBsYXRlIGZ1biB1dGlsaXR5IG1pc3Rha2Ugd29sZg==
+
+645 / 690
+ZWxldmF0b3IgZHJhc3RpYyBtYXJyaWFnZSBpY29uIHN0b2NrIGhhbmQgY291cnNlIGJvZHkgYm9hdCBiZWx0IGh1bWFuIGJ1ZmZhbG8=
+
+646 / 690
+c2Vzc2lvbiBjaWdhciBncmFwZSBtZXJyeSB1c2VmdWwgY2h1cm4gZmF0YWwgdGhvdWdodCB2ZXJ5IGFueSBhcm0gdW5hd2FyZQ==
+
+647 / 690
+Y29tcGFueSB0YWJsZSBjb3R0b24gY2F0Y2ggcHJpbnQgbG92ZSBtYXRyaXggYXJlbmEgbWV0YWwgYXBwbGUgbWVhc3VyZSBleGl0
+
+648 / 690
+Y2xvY2sgZnJlc2ggc2VjdXJpdHkgZmllbGQgY2F1dGlvbiBlZmZvcnQgZ29yaWxsYSBzcGVlZCBwbGFzdGljIGNvbW1vbiB0b21hdG8gZWNobyBzZXNzaW9uIGNpZ2FyIGdyYXBlIG1lcnJ5IHVzZWZ1bCBjaHVybiBmYXRhbCB0aG91Z2h0IHZlcnkgYW55IGFybSB1bmF3YXJl
+
+649 / 690
+cmlnaHQgYnVkZ2V0IGhpcmUgY295b3RlIGZyb2cgcmViZWwgcmFjZSBzbHVzaCB0cmVhdCBzY2lzc29ycyBjYXNlIG1hbg==
+Py = 0.000000006790676291
+
+650 / 690
+cGFpciBwcml2YXRlIG9wZW4gZGFuZ2VyIGZhaW50IHRocmVlIGRpYWdyYW0gc2VhdCBvbWl0IGRydW0gZ2VudGxlIHdlZGRpbmcgcmVzaXN0IGJsdXIgcHJpbWFyeSBibG91c2UgaW5jcmVhc2Ugc2hhZG93IHNsb2dhbiB1c3VhbCBmZXZlciBhcnRlZmFjdCBnYXJiYWdlIGdhcmRlbg==
+
+651 / 690
+c2VhIGJvdHRvbSBpbmNvbWUgZ29yaWxsYSBzdWJtaXQgZ2FzcCBlbGVjdHJpYyBwcm9ncmFtIGJ1aWxkIGV4cGFuZCBjYWJpbiBpZ25vcmU=
+
+652 / 690
+d2VsY29tZSBtZXRhbCBib251cyBub2lzZSBuYXN0eSBtYWlsIGxpZmUgbWF0dGVyIGdyYXZpdHkgcGFuZGEgbGFyZ2Ugc3VycHJpc2U=
+
+653 / 690
+c3RhbmQgZGlhZ3JhbSBibGVzcyBmcm9zdCBvcmdhbiB0b25pZ2h0IGtpdGUgdGlja2V0IGlkbGUgY2hpZWYgbHV4dXJ5IG1ha2U=
+
+654 / 690
+am91cm5leSBlbW90aW9uIHB1enpsZSBjYXRhbG9nIHpvbyBjcmVhbSBicmlkZ2UgY29hc3Qgd2FsayBhZG1pdCBsZW5zIHN3YXA=
+
+655 / 690
+aGVhZCBtb3RvciBuZXdzIGNyaWNrZXQgY2lnYXIgZm9jdXMgcmljZSBzY291dCBtZXRob2Qgd2VhbHRoIHZpYWJsZSBmaXg=
+
+656 / 690
+Y2xpcCBjbG90aCBkcmlmdCBlcXVpcCBuZXBoZXcgdW5mYWlyIGZseSBkYW1wIHN3YW1wIHJlZHVjZSBib29zdCBmZXRjaA==
+
+657 / 690
+d2hlYXQgZ3VuIGdvZGRlc3Mgc3BoZXJlIHZhY2FudCBzaWRlIG9zdHJpY2ggYWN0b3IgcGlsbCBzdGVhayB3YXRlciBjaXZpbA==
+System.AggregateException: One or more errors occurred. (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (api.polygonscan.com:443))
+ ---> System.Net.Http.HttpRequestException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (api.polygonscan.com:443)
+ ---> System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at Program.<<Main>$>g__checkPy|0_6(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 180
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 251
+
+658 / 690
+Z2F6ZSBlbWJvZHkgY3Jpc3AgZWRpdCBhZ3JlZSBuYXN0eSB1bmxvY2sgY2FwYWJsZSBwYXBlciBibHVzaCByYWxseSBidXp6IGNoaWVmIHNtYWxsIGlucXVpcnkgamVsbHkgYWN0dWFsIHB1c2ggdHJhdmVsIHdlbGNvbWUgZG9nIGVudGlyZSBvcHBvc2UgYmx1ZSBhbmtsZSBzaGFyZSBzb3JyeSBldmlsIHVua25vd24gdmFuaXNoIGVuZm9yY2Ugc3Ryb25nIGpvYiB0cnVjayBiZXR3ZWVuIHNlbGVjdA==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+659 / 690
+YW5rbGUgc2hhcmUgc29ycnkgZXZpbCB1bmtub3duIHZhbmlzaCBlbmZvcmNlIHN0cm9uZyBqb2IgdHJ1Y2sgYmV0d2VlbiBzZWxlY3Q=
+E = 0.000109053873264
+
+660 / 690
+bmFycm93IGNhY3R1cyBrbmlmZSB0eXBlIG9yY2hhcmQgc2ltaWxhciBzbG93IHNwb29uIHZvbGNhbm8gbXVzaHJvb20gZXhlY3V0ZSBndWlkZQ==
+
+661 / 690
+YWN0cmVzcyBtYXN0ZXIgY2FzdGxlIGd5bSBidXJkZW4gbWlkbmlnaHQgYWxzbyBzaG9jayBuZXZlciBjZXJlYWwgZ3JpdCBzZW50ZW5jZQ==
+
+662 / 690
+Y2FwaXRhbCBiZWx0IGluc3RhbGwgd2VzdCB3aWxsIGJyZWFkIGhlZGdlaG9nIG1hcnJpYWdlIHNhbmQgd29ydGggdHVtYmxlIHRva2Vu
+
+663 / 690
+aW1tZW5zZSBwYXRyb2wgZWFnbGUgc3RvbWFjaCByZWR1Y2UgYm9hcmQgZmVlZCBraWNrIHJpb3QgcG9wdWxhciBkb3ZlIGNyaWNrZXQ=
+
+664 / 690
+dHJ1bXBldCBzeXN0ZW0gc21pbGUgcHVycG9zZSBwdWRkaW5nIHN1c3RhaW4gc29vbiBraXQgdGl0bGUgbGlzdCBjaGllZiBiYXJyZWw=
+
+665 / 690
+Y2hyb25pYyBtaWxrIHllYXIgc3dpdGNoIGZpZWxkIGV4Y2hhbmdlIGF1Z3VzdCBwcmVkaWN0IGRyaWZ0IGJhcmdhaW4gcmVkdWNlIGhvcm4=
+
+666 / 690
+d2lkdGggaW5oZXJpdCBtaWRkbGUgc2x1c2ggc2F5IGhhcHB5IGx5cmljcyBkb2xsIGZ1bm55IHNpYmxpbmcgdGltZSB3aW5n
+
+667 / 690
+c3VwZXIgYXJvdW5kIHBhbnRoZXIgd2luZyB0dW1ibGUgaGFtbWVyIGdhZGdldCBkaWxlbW1hIGV4Y3VzZSBqdW5nbGUgY2FtcCBnYXNw
+BS = 0.002324735
+
+668 / 690
+aGlwIG51dCB0YXJnZXQgZHJhc3RpYyBzY2FyZSBqdXN0IGNpdGl6ZW4gdHJvcGh5IGh1cnJ5IHNob3VsZGVyIHNwb2lsIGRldGVjdA==
+
+669 / 690
+aGlsbCBiZWFuIHdhbG51dCBjcm9wIHJhZGlvIG9yZ2FuIHRlbm5pcyBheGlzIHJ1bndheSByZWxheCBtYXRjaCBnbGltcHNl
+
+670 / 690
+ZXRlcm5hbCBiaXJ0aCBsaXF1aWQgY29uc2lkZXIgY2Fub2UgaW1wYWN0IG1vdmllIGVubGlzdCBsZWFybiBvbHltcGljIGFiYW5kb24gYm9zcw==
+
+671 / 690
+c3BhY2UgY29taWMga2l0dGVuIHBvZXQgZm9yayBlbnRpcmUgdmVzc2VsIGNhc2lubyBzdXBlciBtYWluIG1vbWVudCBoZWF2eQ==
+
+672 / 690
+ZXF1YWwgIHZhbHZlICBlbnRlciAgb3lzdGVyICBicnVzaCAgYm90dG9tICBweXJhbWlkICBhbmFseXN0ICB3aGlzcGVyICBjb2luICBmZWRlcmFsICBnbG9iZQ==
+
+673 / 690
+cG9zdCAgZGVzcGFpciAgcmVhZHkgIHNlYXNvbiAgdmFndWUgIHZvbHVtZSAgYmVsaWV2ZSAgbGl0dGxlICB6b25lICBmb3JjZSAgb3V0c2lkZSAgcXVlc3Rpb24=
+E = 0.00000000000002708
+BS = 0.00000000000000001
+T = 6
+
+674 / 690
+cG9zdCBkZXNwYWlyIHJlYWR5IHNlYXNvbiB2YWd1ZSB2b2x1bWUgYmVsaWV2ZSBsaXR0bGUgem9uZSBmb3JjZSBvdXRzaWRlIHF1ZXN0aW9u
+E = 0.00000000000002708
+BS = 0.00000000000000001
+T = 6
+
+675 / 690
+dG90YWwgdG9lIHNvZGEgdmlsbGFnZSBwcmlkZSB0b3kgZG9sbCB0eXBpY2FsIGJyaXNrIG1vb24gc29jaWFsIGdyYWlu
+E = 0.000598898838012
+
+676 / 690
+bGF1bmRyeSBvZG9yIHJhdmVuIGtpdGUgb3BpbmlvbiBzaGFsbG93IGJsZWFrIHBocmFzZSBncm93IGRpc21pc3MgZGlub3NhdXIgbGFiZWw=
+
+677 / 690
+cGF0Y2ggcGF0aCB6b25lIGdsaWRlIHZpc2l0IHBlcnNvbiBzaG9vdCByYWlzZSBhdm9jYWRvIGdyb2NlcnkgcmlzayBkYW1hZ2UgZmFybSBwZWFzYW50IGFycm93
+
+678 / 690
+c3VmZmVyIHF1YW50dW0gcGVuY2lsIHZvY2FsIHJlZ3JldCBlc2NhcGUgdGFwZSB3ZWFyIGFzc3VtZSBjeWNsZSBib2lsIGJlYWNo
+
+679 / 690
+bW9yZSBub21pbmVlIGNyeXN0YWwgcHVuY2ggd2F0ZXIgdm9sdW1lIGZvcmNlIHN1cmUgZHJhZnQgdGF0dG9vIGlsbG5lc3MgaHVtb3I=
+
+680 / 690
+ZmFybSBnYXJhZ2UgYmlvbG9neSBmb2xkIHJlYnVpbGQgdXNlbGVzcyB3aW4gaW5oZXJpdCBzYWZlIGNsYXkgZmlsdGVyIGJldHRlcg==
+
+681 / 690
+d2hpcCAgbWF0aCAgYXV0byAgZGVueSAgam9rZSAgcmV3YXJkICBzdHVtYmxlICBzb2Z0ICBidXMgIGdlbnRsZSAgbWludXRlICBjcmF3bA==
+
+682 / 690
+c2ljayBhc3NldCBjYW5ub24gZGV0YWlsIHNpbGx5IGtpdHRlbiBiYWxsIGJvaWwgdGhhdCBmb3NzaWwgb25seSBxdWVzdGlvbg==
+
+683 / 690
+aG9saWRheSByYXZlbiBtYXNrIGVsZW1lbnQgc2VnbWVudCBhdWd1c3QgcmFwaWQgaGF6YXJkIGJsYWRlIHNwcmVhZCBzYXRpc2Z5IGNvbWZvcnQ=
+
+684 / 690
+YW1vdW50IGltbXVuZSBpZGVhIGxvZ2ljIHN0aWxsIGZhbW91cyBzY2FsZSBzb3VuZCBjcmlja2V0IGdlbnRsZSByZWZvcm0gZW5nYWdlIG1hcmtldCBub3RpY2Ugcm9vZiBjYW5jZWwgbWFtbWFs
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+685 / 690
+YW11c2VkIHRoZW9yeSB2aWNpb3VzIGFyY3RpYyBsYXcgZXllIGZhdWx0IHNlbGVjdCBzYWx0IGluaGVyaXQgZHJlYW0gZGVzZXJ0IGxpc3QgdG93YXJkIGJyYXNzIG9jdG9iZXIgZmxlZQ==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+686 / 690
+c2hhbWlycCBhbW91bnQgaW1tdW5lIGlkZWEgbG9naWMgc3RpbGwgZmFtb3VzIHNjYWxlIHNvdW5kIGNyaWNrZXQgZ2VudGxlIHJlZm9ybSBlbmdhZ2UgbWFya2V0IG5vdGljZSByb29mIGNhbmNlbCBtYW1tYWwgIHNoYW1pcnAgYW11c2VkIHRoZW9yeSB2aWNpb3VzIGFyY3RpYyBsYXcgZXllIGZhdWx0IHNlbGVjdCBzYWx0IGluaGVyaXQgZHJlYW0gZGVzZXJ0IGxpc3QgdG93YXJkIGJyYXNzIG9jdG9iZXIgZmxlZQ==
+System.FormatException: Word count should be 12,15,18,21 or 24
+   at NBitcoin.Mnemonic..ctor(String mnemonic, Wordlist wordlist)
+   at Program.<<Main>$>g__checkB|0_1(String text) in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 57
+   at Program.<<Main>$>g__check|0_10() in D:\Valloon\Workspace\VisualStudio2022\MetaMaskSeedUnscrambler\Checker\Program.cs:line 245
+
+687 / 690
+Y2hlc3Qgc2VsZWN0IGZvdW5kIGp1bmsgZHJ5IGFsZXJ0IHR1bmEgZGVtaXNlIGRvdWJsZSBjcmFzaCBmbG9hdCBzdGljaw==
+
+688 / 690
+YXJyb3cgc2xvdCBhbm90aGVyIHRoZXJlIGVuZCBvYmV5IHRyYWRlIHRydW1wZXQgZG9jdG9yIG5ldCBhbmFseXN0IGRvbWFpbiBvbmlvbiBsdW1iZXIgcmFyZSBwdXNoIHByb2Nlc3MgbWVsb2R5IHBlb3BsZSBmYW1vdXMgbWVtYmVyIHdldCBpbnRvIHByZWRpY3Q=
+
+689 / 690
+bXVmZmluIHZpZXcgYmVuZWZpdCBjb3JyZWN0IGFjaWQgYm91bmNlIGFic29yYiBlbGV2YXRvciBpZ25vcmUgc2t1bGwgdG90YWwgcG9sYXIgc3Rvb2wgc2Vzc2lvbiBsYXp5IGRpdmVydCBmbG93ZXIgZmxvd2VyIGhlcm8gYmVoaW5kIHBlcHBlciBibGVzcyByZWdpb24gbG9naWM=
+
+690 / 690
+a2l0ZSBzZW1pbmFyIGhpZGRlbiBkb3NlIGluanVyeSB3aGVlbCBmaWN0aW9uIGJhZGdlIGNsdXRjaCB2b2ljZSBmaWJlciBzdHVmZiByZW50IHNlY3Rpb24gZGlzdGFuY2UgcHJlZmVyIHJ1ZyByYWNjb29uIGJhcnJlbCBjbGljayBzcGluIHZvaWQgZGlzb3JkZXIgY2hhb3M=

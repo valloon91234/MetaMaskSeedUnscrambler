@@ -7,6 +7,7 @@ public class Tron
         using var client = new HttpClient();
         var uri = new Uri($"https://apilist.tronscan.org/api/account?address={address}");
         var response = client.GetAsync(uri).Result;
+        response.EnsureSuccessStatusCode();
         var responseText = response.Content.ReadAsStringAsync().Result;
         var jObject = JObject.Parse(responseText);
         var transactionCountObject = jObject["totalTransactionCount"];
