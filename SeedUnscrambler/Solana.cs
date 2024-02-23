@@ -1,7 +1,12 @@
 ﻿using Newtonsoft.Json.Linq;
+using Solnet.Rpc;
 
 public class Solana
 {
+
+    private static IRpcClient RpcClient = ClientFactory.GetClient(Cluster.MainNet);
+    //private static IStreamingRpcClient StreamingRpcClient = ClientFactory.GetStreamingClient(Cluster.MainNet);
+
     public static int GetTransactionCount(string address)
     {
         using var client = new HttpClient();
@@ -16,6 +21,13 @@ public class Solana
         {
             throw new Exception(responseText);
         }
+    }
+
+    public static decimal GetBalance(string address)
+    {
+        var accountInfo = RpcClient.GetAccountInfo(address);
+        //var tokenAccounts = RpcClient.GetTokenAccountsByOwner(address);
+        return accountInfo.Result.Value?.Lamports / 1000000000m ?? 0;
     }
 
 }

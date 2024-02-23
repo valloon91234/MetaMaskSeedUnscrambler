@@ -260,15 +260,30 @@ namespace SeedUnscrambler
                 {
                     try
                     {
-                        int blockCount = Blockscan.GetCount(address);
+                        //int blockCount = Blockscan.GetCount(address);
+                        //Invoke(new Action(() =>
+                        //{
+                        //    button_ETH_Go.Text = blockCount.ToString();
+                        //    if (blockCount > 0)
+                        //    {
+                        //        button_ETH_Go.ForeColor = Color.Red;
+                        //        textBox_Eth_Address.BackColor = textBox_Eth_Address.BackColor;
+                        //        textBox_Eth_Address.ForeColor = Color.Red;
+                        //    }
+                        //}));
+                        var balance = BalanceChecker.GetErcBalance(address, out _, out _, out _) + BalanceChecker.GetBscBalance(address, out _, out _, out _);
                         Invoke(new Action(() =>
                         {
-                            button_ETH_Go.Text = blockCount.ToString();
-                            if (blockCount > 0)
+                            if (balance > 0)
                             {
+                                button_ETH_Go.Text = balance.ToString(balance < 100 ? "F1" : "F0");
                                 button_ETH_Go.ForeColor = Color.Red;
                                 textBox_Eth_Address.BackColor = textBox_Eth_Address.BackColor;
                                 textBox_Eth_Address.ForeColor = Color.Red;
+                            }
+                            else
+                            {
+                                button_ETH_Go.Text = "0";
                             }
                         }));
                     }
@@ -308,15 +323,19 @@ namespace SeedUnscrambler
                 {
                     try
                     {
-                        int transactionCount = Tron.GetTransactionCount(address);
+                        var totalAssetInUsd = BalanceChecker.GetTrxTotalAssetInUsd(address);
                         Invoke(new Action(() =>
                         {
-                            button_Tron_Go.Text = transactionCount.ToString();
-                            if (transactionCount > 0)
+                            if (totalAssetInUsd > 0)
                             {
+                                button_Tron_Go.Text = totalAssetInUsd.ToString(totalAssetInUsd < 100 ? "F1" : "F0");
                                 button_Tron_Go.ForeColor = Color.Red;
                                 textBox_Tron_Address.BackColor = textBox_Tron_Address.BackColor;
                                 textBox_Tron_Address.ForeColor = Color.Red;
+                            }
+                            else
+                            {
+                                button_Tron_Go.Text = "0";
                             }
                         }));
                     }
@@ -357,15 +376,19 @@ namespace SeedUnscrambler
                 {
                     try
                     {
-                        int transactionCount = Solana.GetTransactionCount(address);
+                        var balance = Solana.GetBalance(address);
                         Invoke(new Action(() =>
                         {
-                            button_SOL_Go.Text = transactionCount.ToString();
-                            if (transactionCount > 0)
+                            if (balance > 0)
                             {
+                                button_SOL_Go.Text = balance.ToString(balance < 1 ? "F2" : "F1");
                                 button_SOL_Go.ForeColor = Color.Red;
                                 textBox_Sol_Address.BackColor = textBox_Sol_Address.BackColor;
                                 textBox_Sol_Address.ForeColor = Color.Red;
+                            }
+                            else
+                            {
+                                button_SOL_Go.Text = "0";
                             }
                         }));
                     }
@@ -531,21 +554,30 @@ namespace SeedUnscrambler
                 {
                     string[] addressList = new string[] { addr_1, addr_3, addr_q, addr_q };
                     List<decimal> balanceList = new();
-                    using var client = new HttpClient();
-                    var uri = new Uri($"https://blockchain.info/balance?active={string.Join("|", addressList)}");
-                    var response = client.GetAsync(uri).Result;
-                    var responseText = response.Content.ReadAsStringAsync().Result;
-                    var obj = JObject.Parse(responseText);
-                    foreach (var pair in obj)
+                    try
                     {
-                        var w = (JObject)pair.Value;
-                        balanceList.Add((decimal)w["final_balance"]);
+                        using var client = new HttpClient();
+                        var uri = new Uri($"https://blockchain.info/balance?active={string.Join("|", addressList)}");
+                        var response = client.GetAsync(uri).Result;
+                        var responseText = response.Content.ReadAsStringAsync().Result;
+                        var obj = JObject.Parse(responseText);
+                        foreach (var pair in obj)
+                        {
+                            var w = (JObject)pair.Value;
+                            balanceList.Add((decimal)w["final_balance"]);
+                        }
+                        Invoke(new Action(() =>
+                        {
+                            label_Btc.Text = $"Bitcoin    {balanceList[0]}  /  {balanceList[1]}  /  {balanceList[2]}  /  {balanceList[2]}";
+                        }));
+                        if (balanceList.Sum() > 0) label_Btc.ForeColor = Color.Yellow;
                     }
-                    Invoke(new Action(() =>
+                    catch (Exception ex)
                     {
-                        label_Btc.Text = $"Bitcoin    {balanceList[0]}  /  {balanceList[1]}  /  {balanceList[2]}  /  {balanceList[2]}";
-                    }));
-                    if (balanceList.Sum() > 0) label_Btc.ForeColor = Color.Yellow;
+                        textBox_Btc_1.Text = ex.Message;
+                        if (ex.InnerException != null)
+                            textBox_Btc_3.Text = ex.InnerException.Message;
+                    }
                 }).Start();
                 //Info.Blockchain.API.BlockExplorer.BlockExplorer blockExplorer = new();
                 //var outs = blockExplorer.GetUnspentOutputsAsync(addressList).Result;
