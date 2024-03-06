@@ -1,0 +1,17 @@
+Telegram connected: username = watch242_bot
+adminArray = valloon427428
+Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running

@@ -1,0 +1,2 @@
+Telegram connected: username = watch242_bot
+adminArray = valloon427428

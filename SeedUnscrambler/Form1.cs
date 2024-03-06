@@ -271,7 +271,7 @@ namespace SeedUnscrambler
                         //        textBox_Eth_Address.ForeColor = Color.Red;
                         //    }
                         //}));
-                        var balance = BalanceChecker.GetErcBalance(address, out _, out _, out _) + BalanceChecker.GetBscBalance(address, out _, out _, out _);
+                        var balance = BalanceChecker.GetErcBalance(address, out _, out _) + BalanceChecker.GetBscBalance(address, out _, out _);
                         Invoke(new Action(() =>
                         {
                             if (balance > 0)
